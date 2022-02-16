@@ -9,4 +9,17 @@ Hand History converter to 888 Poker HH format for DD Poker simulator (www.ddpoke
 - Use the ini file "HHConverter.ini" to manually put buy-in division factor (to have the possibilty to import on PT4 with small stacks license), fee %, tourney size (X-Max) and currency. Due to DD HH limitations conversion can only be done for one type of tourney format at once and you can't mix different type of tourney, to use conversion for a different format you must update manually tourney format in ini file and relaunch conversion.
   (each DD HH you want to convert to 888 HH must be for one tourney format and ini file updated with this tourney format)
 
-* I noticed a bug we can't deal with in DD HH if you are on seat 10 and in button, DD HH shows seat 1 is in button instead of seat 10 despite it correctly recognize you are in seat 10.
+* I noticed a bug we can't deal with in DD HH if you are on seat 10 and in button, DD HH shows seat 1 is in button instead of seat 10 despite it correctly recognize you are in seat 10 like this:
+
+------------
+Game #1012740 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/09-08:19:01.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #11 -- Seat 1 is the button
+Seat  4: Ashton  (665 in chips)
+Seat  8: Caroline  (385 in chips)
+Seat 10: Mudr0x  (450 in chips)
+Mudr0x: Ante (5)
+Ashton: Ante (5)
+Caroline: Ante (5)
+Ashton: Post Small Blind (15)
+Caroline: Post Big Blind (30)
+Dealing...
