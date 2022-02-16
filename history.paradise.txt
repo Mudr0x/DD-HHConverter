@@ -1,0 +1,5311 @@
+Game #1012742 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:53:33.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 6 is the button
+Seat  5: Mudr0x  (500 in chips)
+Seat  6: Dempsey  (500 in chips)
+Seat  8: Deborah  (500 in chips)
+Deborah: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 4s ]
+Dealt to Mudr0x [ 3c ]
+Dempsey: Fold
+Deborah: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x bet 20, collected 30, net +10 (showed hand) [ 4s 3c ] (high card four)
+Dempsey didn't bet (folded)
+Deborah lost 10
+
+-----------------------------------------------------
+
+Game #1012743 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:53:40.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 8 is the button
+Seat  5: Mudr0x  (510 in chips)
+Seat  6: Dempsey  (500 in chips)
+Seat  8: Deborah  (490 in chips)
+Mudr0x: Post Small Blind (10)
+Dempsey: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 3s ]
+Dealt to Mudr0x [ Td ]
+Deborah: Fold
+Mudr0x: Fold
+Dempsey : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x lost 10 (showed hand) [ 3s Td ] (high card ten)
+Dempsey bet 20, collected 30, net +10
+Deborah didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012744 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:53:45.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 5 is the button
+Seat  5: Mudr0x  (500 in chips)
+Seat  6: Dempsey  (510 in chips)
+Seat  8: Deborah  (490 in chips)
+Dempsey: Post Small Blind (10)
+Deborah: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 9s ]
+Dealt to Mudr0x [ 8c ]
+Mudr0x: Fold
+Dempsey: Raise (70)
+Deborah: Call (60)
+*** FLOP *** : [ 5d 3d Qs ]
+Dempsey: Bet (105)
+Deborah: Fold
+Dempsey : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 265 | Board: [ 5d 3d Qs ]
+Mudr0x didn't bet (folded) (showed hand) [ 9s 8c ] (high card queen)
+Dempsey bet 185, collected 265, net +80
+Deborah lost 80
+
+-----------------------------------------------------
+
+Game #1012745 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:53:55.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 6 is the button
+Seat  5: Mudr0x  (500 in chips)
+Seat  6: Dempsey  (590 in chips)
+Seat  8: Deborah  (410 in chips)
+Deborah: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Ah ]
+Dealt to Mudr0x [ 7h ]
+Dempsey: Raise (95)
+Deborah: Call (85)
+Mudr0x: Fold
+*** FLOP *** : [ 7c 2s 4s ]
+Deborah: Check
+Dempsey: Check
+*** TURN *** : [ 7c 2s 4s ] [ Jd ]
+Deborah: Bet (220)
+Dempsey: Call (220)
+*** RIVER *** : [ 7c 2s 4s Jd ] [ Kc ]
+Deborah: Bet (95)
+Dempsey: Call (95)
+*** SUMMARY ***
+Pot: 840 | Board: [ 7c 2s 4s Jd Kc ]
+Mudr0x lost 20 (showed hand) [ Ah 7h ] (a pair of sevens)
+Dempsey lost 410
+Deborah bet 410, collected 840, net +430 (showed hand) [ Kh 5h ] (a pair of kings)
+
+-----------------------------------------------------
+
+Game #1012746 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:54:10.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 8 is the button
+Seat  5: Mudr0x  (480 in chips)
+Seat  6: Dempsey  (180 in chips)
+Seat  8: Deborah  (840 in chips)
+Mudr0x: Post Small Blind (10)
+Dempsey: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 8h ]
+Dealt to Mudr0x [ Ks ]
+Deborah: Fold
+Mudr0x: Fold
+Dempsey : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x lost 10 (showed hand) [ 8h Ks ] (high card king)
+Dempsey bet 20, collected 30, net +10
+Deborah didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012747 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:54:16.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #6 -- Seat 5 is the button
+Seat  5: Mudr0x  (470 in chips)
+Seat  6: Dempsey  (190 in chips)
+Seat  8: Deborah  (840 in chips)
+Dempsey: Post Small Blind (10)
+Deborah: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 2c ]
+Dealt to Mudr0x [ Jc ]
+Mudr0x: Fold
+Dempsey: Fold
+Deborah : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x didn't bet (folded) (showed hand) [ 2c Jc ] (high card jack)
+Dempsey lost 10
+Deborah bet 20, collected 30, net +10
+
+-----------------------------------------------------
+
+Game #1012748 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:54:21.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #7 -- Seat 6 is the button
+Seat  5: Mudr0x  (470 in chips)
+Seat  6: Dempsey  (180 in chips)
+Seat  8: Deborah  (850 in chips)
+Deborah: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 2d ]
+Dealt to Mudr0x [ 8s ]
+Dempsey: Fold
+Deborah: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x bet 20, collected 30, net +10 (showed hand) [ 2d 8s ] (high card eight)
+Dempsey didn't bet (folded)
+Deborah lost 10
+
+-----------------------------------------------------
+
+Game #1012749 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:54:27.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #8 -- Seat 8 is the button
+Seat  5: Mudr0x  (480 in chips)
+Seat  6: Dempsey  (180 in chips)
+Seat  8: Deborah  (840 in chips)
+Mudr0x: Post Small Blind (10)
+Dempsey: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ 2c ]
+Deborah: Fold
+Mudr0x: Fold
+Dempsey : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x lost 10 (showed hand) [ Td 2c ] (high card ten)
+Dempsey bet 20, collected 30, net +10
+Deborah didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012750 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-12:54:32.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #9 -- Seat 5 is the button
+Seat  5: Mudr0x  (470 in chips)
+Seat  6: Dempsey  (190 in chips)
+Seat  8: Deborah  (840 in chips)
+Dempsey: Post Small Blind (15)
+Deborah: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 5d ]
+Dealt to Mudr0x [ 5c ]
+Mudr0x: Raise (470)
+Dempsey: Fold
+Deborah: Call (440)
+*** FLOP *** : [ 8c As 7h ]
+*** TURN *** : [ 8c As 7h ] [ Jh ]
+*** RIVER *** : [ 8c As 7h Jh ] [ Th ]
+*** SUMMARY ***
+Pot: 955 | Board: [ 8c As 7h Jh Th ]
+Mudr0x lost 470 (showed hand) [ 5d 5c ] (a pair of fives)
+Dempsey lost 15
+Deborah bet 470, collected 955, net +485 (showed hand) [ 6c Ah ] (a pair of aces)
+
+-----------------------------------------------------
+
+Game #1012751 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:54:46.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 8 is the button
+Seat  4: Mudr0x  (500 in chips)
+Seat  8: Dane  (500 in chips)
+Seat  9: Janel  (500 in chips)
+Janel: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 2d ]
+Dealt to Mudr0x [ 8c ]
+Dane: Raise (100)
+Janel: Call (90)
+Mudr0x: Fold
+*** FLOP *** : [ 8h 7c 6d ]
+Janel: Check
+Dane: Check
+*** TURN *** : [ 8h 7c 6d ] [ Jd ]
+Janel: Bet (180)
+Dane: Call (180)
+*** RIVER *** : [ 8h 7c 6d Jd ] [ Qc ]
+Janel: Check
+Dane: Check
+*** SUMMARY ***
+Pot: 580 | Board: [ 8h 7c 6d Jd Qc ]
+Mudr0x lost 20 (showed hand) [ 2d 8c ] (a pair of eights)
+Dane bet 280, collected 580, net +300 (showed hand) [ 4d Ad ] (high card ace)
+Janel lost 280 (showed hand) [ Kc 3s ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012752 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:55:01.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 9 is the button
+Seat  4: Mudr0x  (480 in chips)
+Seat  8: Dane  (800 in chips)
+Seat  9: Janel  (220 in chips)
+Mudr0x: Post Small Blind (10)
+Dane: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 4h ]
+Dealt to Mudr0x [ Qh ]
+Janel: Fold
+Mudr0x: Call (10)
+Dane: Raise (75)
+Mudr0x: Fold
+Dane : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 115 | Mudr0x lost 20 (showed hand) [ 4h Qh ] (high card queen)
+Dane bet 95, collected 115, net +20
+Janel didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012753 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:55:09.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 4 is the button
+Seat  4: Mudr0x  (460 in chips)
+Seat  8: Dane  (820 in chips)
+Seat  9: Janel  (220 in chips)
+Dane: Post Small Blind (10)
+Janel: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 6c ]
+Dealt to Mudr0x [ 4s ]
+Mudr0x: Fold
+Dane: Fold
+Janel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x didn't bet (folded) (showed hand) [ 6c 4s ] (high card six)
+Dane lost 10
+Janel bet 20, collected 30, net +10
+
+-----------------------------------------------------
+
+Game #1012754 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:55:18.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 8 is the button
+Seat  4: Mudr0x  (460 in chips)
+Seat  8: Dane  (810 in chips)
+Seat  9: Janel  (230 in chips)
+Janel: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Jd ]
+Dealt to Mudr0x [ 2c ]
+Dane: Raise (55)
+Janel: Fold
+Mudr0x: Fold
+Dane : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 85 | Mudr0x lost 20 (showed hand) [ Jd 2c ] (high card jack)
+Dane bet 55, collected 85, net +30
+Janel lost 10
+
+-----------------------------------------------------
+
+Game #1012755 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:55:24.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 9 is the button
+Seat  4: Mudr0x  (440 in chips)
+Seat  8: Dane  (840 in chips)
+Seat  9: Janel  (220 in chips)
+Mudr0x: Post Small Blind (10)
+Dane: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 6c ]
+Dealt to Mudr0x [ 7d ]
+Janel: Raise (100)
+Mudr0x: Fold
+Dane: Fold
+Janel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 130 | Mudr0x lost 10 (showed hand) [ 6c 7d ] (high card seven)
+Dane lost 20
+Janel bet 100, collected 130, net +30
+
+-----------------------------------------------------
+
+Game #1012756 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:55:30.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #6 -- Seat 4 is the button
+Seat  4: Mudr0x  (430 in chips)
+Seat  8: Dane  (820 in chips)
+Seat  9: Janel  (250 in chips)
+Dane: Post Small Blind (10)
+Janel: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 3d ]
+Dealt to Mudr0x [ Tc ]
+Mudr0x: Fold
+Dane: Raise (35)
+Janel: Fold
+Dane : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 65 | Mudr0x didn't bet (folded) (showed hand) [ 3d Tc ] (high card ten)
+Dane bet 45, collected 65, net +20
+Janel lost 20
+
+-----------------------------------------------------
+
+Game #1012757 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:55:36.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #7 -- Seat 8 is the button
+Seat  4: Mudr0x  (430 in chips)
+Seat  8: Dane  (840 in chips)
+Seat  9: Janel  (230 in chips)
+Janel: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Ts ]
+Dealt to Mudr0x [ 9d ]
+Dane: Raise (45)
+Janel: Fold
+Mudr0x: Call (25)
+*** FLOP *** : [ Js 9s Kc ]
+Mudr0x: Check
+Dane: Bet (45)
+Mudr0x: Raise (385)
+Dane: Call (340)
+*** TURN *** : [ Js 9s Kc ] [ Td ]
+*** RIVER *** : [ Js 9s Kc Td ] [ Kh ]
+*** SUMMARY ***
+Pot: 870 | Board: [ Js 9s Kc Td Kh ]
+Mudr0x lost 430 (showed hand) [ Ts 9d ] (two pair, kings and tens)
+Dane bet 430, collected 870, net +440 (showed hand) [ Qh Th ] (a straight, nine to king)
+Janel lost 10
+
+-----------------------------------------------------
+
+Game #1012758 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:55:55.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 3 is the button
+Seat  3: Jaleel  (500 in chips)
+Seat  4: Mudr0x  (500 in chips)
+Seat  9: Shelli  (500 in chips)
+Mudr0x: Post Small Blind (10)
+Shelli: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7h ]
+Dealt to Mudr0x [ 8c ]
+Jaleel: Raise (100)
+Mudr0x: Fold
+Shelli: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 130 | Jaleel bet 100, collected 130, net +30
+Mudr0x lost 10 (showed hand) [ 7h 8c ] (high card eight)
+Shelli lost 20
+
+-----------------------------------------------------
+
+Game #1012759 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:56:02.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 4 is the button
+Seat  3: Jaleel  (530 in chips)
+Seat  4: Mudr0x  (490 in chips)
+Seat  9: Shelli  (480 in chips)
+Shelli: Post Small Blind (10)
+Jaleel: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Kc ]
+Dealt to Mudr0x [ 8c ]
+Mudr0x: Raise (40)
+Shelli: Fold
+Jaleel: Call (20)
+*** FLOP *** : [ 3s 4d Qs ]
+Jaleel: Check
+Mudr0x: Bet (70)
+Jaleel: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 160 | Board: [ 3s 4d Qs ]
+Jaleel lost 40
+Mudr0x bet 110, collected 160, net +50 (showed hand) [ Kc 8c ] (high card king)
+Shelli lost 10
+
+-----------------------------------------------------
+
+Game #1012760 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:56:18.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 9 is the button
+Seat  3: Jaleel  (490 in chips)
+Seat  4: Mudr0x  (540 in chips)
+Seat  9: Shelli  (470 in chips)
+Jaleel: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 9h ]
+Dealt to Mudr0x [ 9c ]
+Shelli: Raise (80)
+Jaleel: Call (70)
+Mudr0x: Call (60)
+*** FLOP *** : [ Kh 4d Ad ]
+Jaleel: Check
+Mudr0x: Check
+Shelli: Check
+*** TURN *** : [ Kh 4d Ad ] [ Qh ]
+Jaleel: Check
+Mudr0x: Check
+Shelli: Check
+*** RIVER *** : [ Kh 4d Ad Qh ] [ 3s ]
+Jaleel: Check
+Mudr0x: Check
+Shelli: Check
+*** SUMMARY ***
+Pot: 240 | Board: [ Kh 4d Ad Qh 3s ]
+Jaleel lost 80
+Mudr0x bet 80, collected 240, net +160 (showed hand) [ 9h 9c ] (a pair of nines)
+Shelli lost 80 (showed hand) [ 8c 8h ] (a pair of eights)
+
+-----------------------------------------------------
+
+Game #1012761 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:56:40.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 3 is the button
+Seat  3: Jaleel  (410 in chips)
+Seat  4: Mudr0x  (700 in chips)
+Seat  9: Shelli  (390 in chips)
+Mudr0x: Post Small Blind (10)
+Shelli: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Th ]
+Dealt to Mudr0x [ 6h ]
+Jaleel: Raise (100)
+Mudr0x: Fold
+Shelli: Call (80)
+*** FLOP *** : [ 3s 2c Jd ]
+Shelli: Check
+Jaleel: Check
+*** TURN *** : [ 3s 2c Jd ] [ 4c ]
+Shelli: Check
+Jaleel: Check
+*** RIVER *** : [ 3s 2c Jd 4c ] [ Ts ]
+Shelli: Check
+Jaleel: Check
+*** SUMMARY ***
+Pot: 210 | Board: [ 3s 2c Jd 4c Ts ]
+Jaleel bet 100, collected 210, net +110 (showed hand) [ 9s Qd ] (high card queen)
+Mudr0x lost 10 (showed hand) [ Th 6h ] (a pair of tens)
+Shelli lost 100
+
+-----------------------------------------------------
+
+Game #1012762 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:56:55.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 4 is the button
+Seat  3: Jaleel  (520 in chips)
+Seat  4: Mudr0x  (690 in chips)
+Seat  9: Shelli  (290 in chips)
+Shelli: Post Small Blind (10)
+Jaleel: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Qc ]
+Dealt to Mudr0x [ Ac ]
+Mudr0x: Raise (50)
+Shelli: Fold
+Jaleel: Call (30)
+*** FLOP *** : [ 5s Js 2s ]
+Jaleel: Check
+Mudr0x: Bet (80)
+Jaleel: Call (80)
+*** TURN *** : [ 5s Js 2s ] [ Ah ]
+Jaleel: Check
+Mudr0x: Bet (180)
+Jaleel: Call (180)
+*** RIVER *** : [ 5s Js 2s Ah ] [ 3h ]
+Jaleel: Check
+Mudr0x: Check
+*** SUMMARY ***
+Pot: 630 | Board: [ 5s Js 2s Ah 3h ]
+Jaleel lost 310
+Mudr0x bet 310, collected 630, net +320 (showed hand) [ Qc Ac ] (a pair of aces)
+Shelli lost 10
+
+-----------------------------------------------------
+
+Game #1012763 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:57:22.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #6 -- Seat 9 is the button
+Seat  3: Jaleel  (210 in chips)
+Seat  4: Mudr0x  (1,010 in chips)
+Seat  9: Shelli  (280 in chips)
+Jaleel: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 4c ]
+Dealt to Mudr0x [ Ts ]
+Shelli: Fold
+Jaleel: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Jaleel lost 10
+Mudr0x bet 20, collected 30, net +10 (showed hand) [ 4c Ts ] (high card ten)
+Shelli didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012764 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:57:28.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #7 -- Seat 3 is the button
+Seat  3: Jaleel  (200 in chips)
+Seat  4: Mudr0x  (1,020 in chips)
+Seat  9: Shelli  (280 in chips)
+Mudr0x: Post Small Blind (10)
+Shelli: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Jd ]
+Dealt to Mudr0x [ Qs ]
+Jaleel: Fold
+Mudr0x: Raise (40)
+Shelli: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 70 | Jaleel didn't bet (folded)
+Mudr0x bet 50, collected 70, net +20 (showed hand) [ Jd Qs ] (high card queen)
+Shelli lost 20
+
+-----------------------------------------------------
+
+Game #1012765 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-12:57:37.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #8 -- Seat 4 is the button
+Seat  3: Jaleel  (200 in chips)
+Seat  4: Mudr0x  (1,040 in chips)
+Seat  9: Shelli  (260 in chips)
+Shelli: Post Small Blind (10)
+Jaleel: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7c ]
+Dealt to Mudr0x [ 5d ]
+Mudr0x: Raise (50)
+Shelli: Fold
+Jaleel: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 80 | Jaleel lost 20
+Mudr0x bet 50, collected 80, net +30 (showed hand) [ 7c 5d ] (high card seven)
+Shelli lost 10
+
+-----------------------------------------------------
+
+Game #1012766 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-12:57:47.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #9 -- Seat 9 is the button
+Seat  3: Jaleel  (180 in chips)
+Seat  4: Mudr0x  (1,070 in chips)
+Seat  9: Shelli  (250 in chips)
+Jaleel: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 6h ]
+Dealt to Mudr0x [ 5c ]
+Shelli: Raise (120)
+Jaleel: Fold
+Mudr0x: Fold
+Shelli : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 165 | Jaleel lost 15
+Mudr0x lost 30 (showed hand) [ 6h 5c ] (high card six)
+Shelli bet 120, collected 165, net +45
+
+-----------------------------------------------------
+
+Game #1012767 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-12:57:53.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #10 -- Seat 3 is the button
+Seat  3: Jaleel  (165 in chips)
+Seat  4: Mudr0x  (1,040 in chips)
+Seat  9: Shelli  (295 in chips)
+Mudr0x: Post Small Blind (15)
+Shelli: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Kd ]
+Dealt to Mudr0x [ Td ]
+Jaleel: Fold
+Mudr0x: Raise (280)
+Shelli: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 325 | Jaleel didn't bet (folded)
+Mudr0x bet 295, collected 325, net +30 (showed hand) [ Kd Td ] (high card king)
+Shelli lost 30
+
+-----------------------------------------------------
+
+Game #1012768 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-12:58:01.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #11 -- Seat 4 is the button
+Seat  3: Jaleel  (165 in chips)
+Seat  4: Mudr0x  (1,070 in chips)
+Seat  9: Shelli  (265 in chips)
+Shelli: Post Small Blind (15)
+Jaleel: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ As ]
+Dealt to Mudr0x [ 3s ]
+Mudr0x: Fold
+Shelli: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Jaleel bet 30, collected 45, net +15
+Mudr0x didn't bet (folded) (showed hand) [ As 3s ] (high card ace)
+Shelli lost 15
+
+-----------------------------------------------------
+
+Game #1012769 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-12:58:06.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #12 -- Seat 9 is the button
+Seat  3: Jaleel  (180 in chips)
+Seat  4: Mudr0x  (1,070 in chips)
+Seat  9: Shelli  (250 in chips)
+Jaleel: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Js ]
+Dealt to Mudr0x [ 7c ]
+Shelli: Fold
+Jaleel: Raise (105)
+Mudr0x: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 150 | Jaleel bet 120, collected 150, net +30
+Mudr0x lost 30 (showed hand) [ Js 7c ] (high card jack)
+Shelli didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012770 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-12:58:12.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #13 -- Seat 3 is the button
+Seat  3: Jaleel  (210 in chips)
+Seat  4: Mudr0x  (1,040 in chips)
+Seat  9: Shelli  (250 in chips)
+Mudr0x: Post Small Blind (15)
+Shelli: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 8h ]
+Dealt to Mudr0x [ 4d ]
+Jaleel: Fold
+Mudr0x: Fold
+Shelli : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Jaleel didn't bet (folded)
+Mudr0x lost 15 (showed hand) [ 8h 4d ] (high card eight)
+Shelli bet 30, collected 45, net +15
+
+-----------------------------------------------------
+
+Game #1012771 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-12:58:17.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #14 -- Seat 4 is the button
+Seat  3: Jaleel  (210 in chips)
+Seat  4: Mudr0x  (1,025 in chips)
+Seat  9: Shelli  (265 in chips)
+Shelli: Post Small Blind (15)
+Jaleel: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 7c ]
+Dealt to Mudr0x [ 9d ]
+Mudr0x: Fold
+Shelli: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Jaleel bet 30, collected 45, net +15
+Mudr0x didn't bet (folded) (showed hand) [ 7c 9d ] (high card nine)
+Shelli lost 15
+
+-----------------------------------------------------
+
+Game #1012772 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-12:58:22.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #15 -- Seat 9 is the button
+Seat  3: Jaleel  (225 in chips)
+Seat  4: Mudr0x  (1,025 in chips)
+Seat  9: Shelli  (250 in chips)
+Jaleel: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 4s ]
+Dealt to Mudr0x [ 8c ]
+Shelli: Fold
+Jaleel: Raise (105)
+Mudr0x: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 150 | Jaleel bet 120, collected 150, net +30
+Mudr0x lost 30 (showed hand) [ 4s 8c ] (high card eight)
+Shelli didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012773 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-12:58:28.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #16 -- Seat 3 is the button
+Seat  3: Jaleel  (255 in chips)
+Seat  4: Mudr0x  (995 in chips)
+Seat  9: Shelli  (250 in chips)
+Mudr0x: Post Small Blind (15)
+Shelli: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 4h ]
+Dealt to Mudr0x [ 9h ]
+Jaleel: Raise (145)
+Mudr0x: Fold
+Shelli: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 190 | Jaleel bet 145, collected 190, net +45
+Mudr0x lost 15 (showed hand) [ 4h 9h ] (high card nine)
+Shelli lost 30
+
+-----------------------------------------------------
+
+Game #1012774 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-12:58:34.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #17 -- Seat 4 is the button
+Seat  3: Jaleel  (300 in chips)
+Seat  4: Mudr0x  (980 in chips)
+Seat  9: Shelli  (220 in chips)
+Shelli: Post Small Blind (20)
+Jaleel: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 3c ]
+Dealt to Mudr0x [ 9h ]
+Mudr0x: Fold
+Shelli: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Jaleel bet 40, collected 60, net +20
+Mudr0x didn't bet (folded) (showed hand) [ 3c 9h ] (high card nine)
+Shelli lost 20
+
+-----------------------------------------------------
+
+Game #1012775 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-12:58:39.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #18 -- Seat 9 is the button
+Seat  3: Jaleel  (320 in chips)
+Seat  4: Mudr0x  (980 in chips)
+Seat  9: Shelli  (200 in chips)
+Jaleel: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 2s ]
+Dealt to Mudr0x [ Jc ]
+Shelli: Raise (160)
+Jaleel: Fold
+Mudr0x: Fold
+Shelli : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 220 | Jaleel lost 20
+Mudr0x lost 40 (showed hand) [ 2s Jc ] (high card jack)
+Shelli bet 160, collected 220, net +60
+
+-----------------------------------------------------
+
+Game #1012776 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-12:58:45.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #19 -- Seat 3 is the button
+Seat  3: Jaleel  (300 in chips)
+Seat  4: Mudr0x  (940 in chips)
+Seat  9: Shelli  (260 in chips)
+Mudr0x: Post Small Blind (20)
+Shelli: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 3h ]
+Dealt to Mudr0x [ 3s ]
+Jaleel: Raise (110)
+Mudr0x: Fold
+Shelli: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 170 | Jaleel bet 110, collected 170, net +60
+Mudr0x lost 20 (showed hand) [ 3h 3s ] (a pair of threes)
+Shelli lost 40
+
+-----------------------------------------------------
+
+Game #1012777 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-12:58:51.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #20 -- Seat 4 is the button
+Seat  3: Jaleel  (360 in chips)
+Seat  4: Mudr0x  (920 in chips)
+Seat  9: Shelli  (220 in chips)
+Shelli: Post Small Blind (20)
+Jaleel: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 7s ]
+Dealt to Mudr0x [ Ad ]
+Mudr0x: Fold
+Shelli: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Jaleel bet 40, collected 60, net +20
+Mudr0x didn't bet (folded) (showed hand) [ 7s Ad ] (high card ace)
+Shelli lost 20
+
+-----------------------------------------------------
+
+Game #1012778 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-12:58:57.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #21 -- Seat 9 is the button
+Seat  3: Jaleel  (380 in chips)
+Seat  4: Mudr0x  (920 in chips)
+Seat  9: Shelli  (200 in chips)
+Jaleel: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 8c ]
+Dealt to Mudr0x [ 8h ]
+Shelli: Raise (160)
+Jaleel: Fold
+Mudr0x: Raise (160)
+Shelli: Call (40)
+*** FLOP *** : [ Kh Qs 2d ]
+*** TURN *** : [ Kh Qs 2d ] [ 3s ]
+*** RIVER *** : [ Kh Qs 2d 3s ] [ 3d ]
+*** SUMMARY ***
+Pot: 420 | Board: [ Kh Qs 2d 3s 3d ]
+Jaleel lost 20
+Mudr0x bet 200, collected 420, net +220 (showed hand) [ 8c 8h ] (two pair, eights and threes)
+Shelli lost 200 (showed hand) [ 6h Ah ] (a pair of threes)
+
+-----------------------------------------------------
+
+Game #1012779 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-12:59:09.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #22 -- Seat 4 is the button
+Seat  3: Jaleel  (360 in chips)
+Seat  4: Mudr0x  (1,140 in chips)
+Mudr0x: Post Small Blind (20)
+Jaleel: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 6d ]
+Dealt to Mudr0x [ Qc ]
+Mudr0x: Raise (340)
+Jaleel: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 400 | Jaleel lost 40
+Mudr0x bet 360, collected 400, net +40 (showed hand) [ 6d Qc ] (high card queen)
+
+-----------------------------------------------------
+
+Game #1012780 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-12:59:15.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #23 -- Seat 3 is the button
+Seat  3: Jaleel  (320 in chips)
+Seat  4: Mudr0x  (1,180 in chips)
+Jaleel: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 9d ]
+Dealt to Mudr0x [ 6d ]
+Jaleel: Raise (140)
+Mudr0x: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 200 | Jaleel bet 160, collected 200, net +40
+Mudr0x lost 40 (showed hand) [ 9d 6d ] (high card nine)
+
+-----------------------------------------------------
+
+Game #1012781 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-12:59:21.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #24 -- Seat 4 is the button
+Seat  3: Jaleel  (360 in chips)
+Seat  4: Mudr0x  (1,140 in chips)
+Mudr0x: Post Small Blind (20)
+Jaleel: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ Kc ]
+Mudr0x: Raise (340)
+Jaleel: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 400 | Jaleel lost 40
+Mudr0x bet 360, collected 400, net +40 (showed hand) [ Td Kc ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012782 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-12:59:28.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #25 -- Seat 3 is the button
+Seat  3: Jaleel  (320 in chips)
+Seat  4: Mudr0x  (1,180 in chips)
+Jaleel: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 4h ]
+Dealt to Mudr0x [ 3s ]
+Jaleel: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 90 | Jaleel lost 30
+Mudr0x bet 60, collected 90, net +30 (showed hand) [ 4h 3s ] (high card four)
+
+-----------------------------------------------------
+
+Game #1012783 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-12:59:33.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #26 -- Seat 4 is the button
+Seat  3: Jaleel  (290 in chips)
+Seat  4: Mudr0x  (1,210 in chips)
+Mudr0x: Post Small Blind (30)
+Jaleel: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 9c ]
+Dealt to Mudr0x [ 8d ]
+Mudr0x: Raise (260)
+Jaleel: Call (230)
+*** FLOP *** : [ Jd 3d 3h ]
+*** TURN *** : [ Jd 3d 3h ] [ Tc ]
+*** RIVER *** : [ Jd 3d 3h Tc ] [ 2s ]
+*** SUMMARY ***
+Pot: 580 | Board: [ Jd 3d 3h Tc 2s ]
+Jaleel bet 290, collected 580, net +290 (showed hand) [ 6s 6d ] (two pair, sixes and threes)
+Mudr0x lost 290 (showed hand) [ 9c 8d ] (a pair of threes)
+
+-----------------------------------------------------
+
+Game #1012784 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-12:59:43.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #27 -- Seat 3 is the button
+Seat  3: Jaleel  (580 in chips)
+Seat  4: Mudr0x  (920 in chips)
+Jaleel: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 3c ]
+Dealt to Mudr0x [ Ts ]
+Jaleel: Raise (100)
+Mudr0x: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 190 | Jaleel bet 130, collected 190, net +60
+Mudr0x lost 60 (showed hand) [ 3c Ts ] (high card ten)
+
+-----------------------------------------------------
+
+Game #1012785 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-12:59:48.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #28 -- Seat 4 is the button
+Seat  3: Jaleel  (640 in chips)
+Seat  4: Mudr0x  (860 in chips)
+Mudr0x: Post Small Blind (30)
+Jaleel: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 8d ]
+Dealt to Mudr0x [ Js ]
+Mudr0x: Raise (610)
+Jaleel: Call (580)
+*** FLOP *** : [ Td Kh 6h ]
+*** TURN *** : [ Td Kh 6h ] [ 2c ]
+*** RIVER *** : [ Td Kh 6h 2c ] [ 6d ]
+*** SUMMARY ***
+Pot: 1,280 | Board: [ Td Kh 6h 2c 6d ]
+Jaleel bet 640, collected 1,280, net +640 (showed hand) [ Kc 8s ] (two pair, kings and sixes)
+Mudr0x lost 640 (showed hand) [ 8d Js ] (a pair of sixes)
+
+-----------------------------------------------------
+
+Game #1012786 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-12:59:58.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #29 -- Seat 3 is the button
+Seat  3: Jaleel  (1,280 in chips)
+Seat  4: Mudr0x  (220 in chips)
+Jaleel: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ Kd ]
+Dealt to Mudr0x [ Jh ]
+Jaleel: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 90 | Jaleel lost 30
+Mudr0x bet 60, collected 90, net +30 (showed hand) [ Kd Jh ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012787 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:00:03.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #30 -- Seat 4 is the button
+Seat  3: Jaleel  (1,250 in chips)
+Seat  4: Mudr0x  (250 in chips)
+Mudr0x: Post Small Blind (30)
+Jaleel: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 6s ]
+Dealt to Mudr0x [ Kh ]
+Mudr0x: Raise (220)
+Jaleel: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 310 | Jaleel lost 60
+Mudr0x bet 250, collected 310, net +60 (showed hand) [ 6s Kh ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012788 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:00:09.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #31 -- Seat 3 is the button
+Seat  3: Jaleel  (1,190 in chips)
+Seat  4: Mudr0x  (310 in chips)
+Jaleel: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 4h ]
+Dealt to Mudr0x [ 3c ]
+Jaleel: Raise (95)
+Mudr0x: Fold
+Jaleel : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 185 | Jaleel bet 125, collected 185, net +60
+Mudr0x lost 60 (showed hand) [ 4h 3c ] (high card four)
+
+-----------------------------------------------------
+
+Game #1012789 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:00:14.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #32 -- Seat 4 is the button
+Seat  3: Jaleel  (1,250 in chips)
+Seat  4: Mudr0x  (250 in chips)
+Mudr0x: Post Small Blind (30)
+Jaleel: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ Qd ]
+Dealt to Mudr0x [ Jd ]
+Mudr0x: Raise (220)
+Jaleel: Call (190)
+*** FLOP *** : [ 6s Ts 4d ]
+*** TURN *** : [ 6s Ts 4d ] [ Ks ]
+*** RIVER *** : [ 6s Ts 4d Ks ] [ Qh ]
+*** SUMMARY ***
+Pot: 500 | Board: [ 6s Ts 4d Ks Qh ]
+Jaleel bet 250, collected 500, net +250 (showed hand) [ 4s Js ] (a flush, king high)
+Mudr0x lost 250 (showed hand) [ Qd Jd ] (a pair of queens)
+
+-----------------------------------------------------
+
+Game #1012790 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:00:26.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 3 is the button
+Seat  3: Mudr0x  (500 in chips)
+Seat  5: Sunette  (500 in chips)
+Seat  8: Colum  (500 in chips)
+Sunette: Post Small Blind (10)
+Colum: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7d ]
+Dealt to Mudr0x [ 8d ]
+Mudr0x: Raise (50)
+Sunette: Fold
+Colum: Raise (90)
+Mudr0x: Fold
+Colum : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 170 | Mudr0x lost 50 (showed hand) [ 7d 8d ] (high card eight)
+Sunette lost 10
+Colum bet 110, collected 170, net +60
+
+-----------------------------------------------------
+
+Game #1012791 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:00:37.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 5 is the button
+Seat  3: Mudr0x  (450 in chips)
+Seat  5: Sunette  (490 in chips)
+Seat  8: Colum  (560 in chips)
+Colum: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 9d ]
+Dealt to Mudr0x [ 7s ]
+Sunette: Fold
+Colum: Call (10)
+Mudr0x: Check
+*** FLOP *** : [ Ts Jh Kh ]
+Colum: Bet (40)
+Mudr0x: Fold
+Colum : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 80 | Board: [ Ts Jh Kh ]
+Mudr0x lost 20 (showed hand) [ 9d 7s ] (high card king)
+Sunette didn't bet (folded)
+Colum bet 60, collected 80, net +20
+
+-----------------------------------------------------
+
+Game #1012792 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:00:46.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 8 is the button
+Seat  3: Mudr0x  (430 in chips)
+Seat  5: Sunette  (490 in chips)
+Seat  8: Colum  (580 in chips)
+Mudr0x: Post Small Blind (10)
+Sunette: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 8d ]
+Dealt to Mudr0x [ As ]
+Colum: Raise (100)
+Mudr0x: Raise (420)
+Sunette: Fold
+Colum: Call (330)
+*** FLOP *** : [ 4c 4d Ac ]
+*** TURN *** : [ 4c 4d Ac ] [ Js ]
+*** RIVER *** : [ 4c 4d Ac Js ] [ 3h ]
+*** SUMMARY ***
+Pot: 880 | Board: [ 4c 4d Ac Js 3h ]
+Mudr0x bet 430, collected 880, net +450 (showed hand) [ 8d As ] (two pair, aces and fours)
+Sunette lost 20
+Colum lost 430 (showed hand) [ Qh Kd ] (a pair of fours)
+
+-----------------------------------------------------
+
+Game #1012793 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:00:58.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 3 is the button
+Seat  3: Mudr0x  (880 in chips)
+Seat  5: Sunette  (470 in chips)
+Seat  8: Colum  (150 in chips)
+Sunette: Post Small Blind (10)
+Colum: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 8s ]
+Dealt to Mudr0x [ 4h ]
+Mudr0x: Fold
+Sunette: Fold
+Colum : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x didn't bet (folded) (showed hand) [ 8s 4h ] (high card eight)
+Sunette lost 10
+Colum bet 20, collected 30, net +10
+
+-----------------------------------------------------
+
+Game #1012794 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:01:03.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 5 is the button
+Seat  3: Mudr0x  (880 in chips)
+Seat  5: Sunette  (460 in chips)
+Seat  8: Colum  (160 in chips)
+Colum: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 4h ]
+Dealt to Mudr0x [ 2c ]
+Sunette: Fold
+Colum: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x bet 20, collected 30, net +10 (showed hand) [ 4h 2c ] (high card four)
+Sunette didn't bet (folded)
+Colum lost 10
+
+-----------------------------------------------------
+
+Game #1012795 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:01:09.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #6 -- Seat 8 is the button
+Seat  3: Mudr0x  (890 in chips)
+Seat  5: Sunette  (460 in chips)
+Seat  8: Colum  (150 in chips)
+Mudr0x: Post Small Blind (10)
+Sunette: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ As ]
+Colum: Fold
+Mudr0x: Raise (40)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 70 | Mudr0x bet 50, collected 70, net +20 (showed hand) [ Td As ] (high card ace)
+Sunette lost 20
+Colum didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012796 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:01:19.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #7 -- Seat 3 is the button
+Seat  3: Mudr0x  (910 in chips)
+Seat  5: Sunette  (440 in chips)
+Seat  8: Colum  (150 in chips)
+Sunette: Post Small Blind (10)
+Colum: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Th ]
+Dealt to Mudr0x [ Jc ]
+Mudr0x: Raise (50)
+Sunette: Fold
+Colum: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 80 | Mudr0x bet 50, collected 80, net +30 (showed hand) [ Th Jc ] (high card jack)
+Sunette lost 10
+Colum lost 20
+
+-----------------------------------------------------
+
+Game #1012797 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:01:29.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #8 -- Seat 5 is the button
+Seat  3: Mudr0x  (940 in chips)
+Seat  5: Sunette  (430 in chips)
+Seat  8: Colum  (130 in chips)
+Colum: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Ks ]
+Dealt to Mudr0x [ 8c ]
+Sunette: Fold
+Colum: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x bet 20, collected 30, net +10 (showed hand) [ Ks 8c ] (high card king)
+Sunette didn't bet (folded)
+Colum lost 10
+
+-----------------------------------------------------
+
+Game #1012798 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:01:35.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #9 -- Seat 8 is the button
+Seat  3: Mudr0x  (950 in chips)
+Seat  5: Sunette  (430 in chips)
+Seat  8: Colum  (120 in chips)
+Mudr0x: Post Small Blind (15)
+Sunette: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 4c ]
+Dealt to Mudr0x [ Ad ]
+Colum: Fold
+Mudr0x: Call (15)
+Sunette: Check
+*** FLOP *** : [ Qd 6d 9s ]
+Mudr0x: Check
+Sunette: Check
+*** TURN *** : [ Qd 6d 9s ] [ Ks ]
+Mudr0x: Check
+Sunette: Check
+*** RIVER *** : [ Qd 6d 9s Ks ] [ As ]
+Mudr0x: Bet (50)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 110 | Board: [ Qd 6d 9s Ks As ]
+Mudr0x bet 80, collected 110, net +30 (showed hand) [ 4c Ad ] (a pair of aces)
+Sunette lost 30
+Colum didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012799 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:01:56.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #10 -- Seat 3 is the button
+Seat  3: Mudr0x  (980 in chips)
+Seat  5: Sunette  (400 in chips)
+Seat  8: Colum  (120 in chips)
+Sunette: Post Small Blind (15)
+Colum: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 9s ]
+Dealt to Mudr0x [ Ad ]
+Mudr0x: Raise (75)
+Sunette: Fold
+Colum: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 120 | Mudr0x bet 75, collected 120, net +45 (showed hand) [ 9s Ad ] (high card ace)
+Sunette lost 15
+Colum lost 30
+
+-----------------------------------------------------
+
+Game #1012800 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:02:06.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #11 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,025 in chips)
+Seat  5: Sunette  (385 in chips)
+Seat  8: Colum  (90 in chips)
+Colum: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 7c ]
+Dealt to Mudr0x [ 9c ]
+Sunette: Raise (120)
+Colum: Call (75)
+Mudr0x: Fold
+*** FLOP *** : [ 8d 9s 5s ]
+*** TURN *** : [ 8d 9s 5s ] [ Qs ]
+*** RIVER *** : [ 8d 9s 5s Qs ] [ 2s ]
+*** SUMMARY ***
+Pot: 210 | Board: [ 8d 9s 5s Qs 2s ]
+Mudr0x lost 30 (showed hand) [ 7c 9c ] (a pair of nines)
+Sunette bet 120, collected 240, net +120 (showed hand) [ 3c 3h ] (a pair of threes)
+Colum lost 90 (showed hand) [ 4c Ah ] (high card ace)
+
+-----------------------------------------------------
+
+Game #1012801 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:02:15.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #12 -- Seat 3 is the button
+Seat  3: Mudr0x  (995 in chips)
+Seat  5: Sunette  (505 in chips)
+Mudr0x: Post Small Blind (15)
+Sunette: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Js ]
+Dealt to Mudr0x [ Ts ]
+Mudr0x: Raise (105)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 150 | Mudr0x bet 120, collected 150, net +30 (showed hand) [ Js Ts ] (high card jack)
+Sunette lost 30
+
+-----------------------------------------------------
+
+Game #1012802 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:02:25.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #13 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,025 in chips)
+Seat  5: Sunette  (475 in chips)
+Sunette: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Ts ]
+Dealt to Mudr0x [ 8c ]
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Mudr0x bet 30, collected 45, net +15 (showed hand) [ Ts 8c ] (high card ten)
+Sunette lost 15
+
+-----------------------------------------------------
+
+Game #1012803 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:02:29.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #14 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,040 in chips)
+Seat  5: Sunette  (460 in chips)
+Mudr0x: Post Small Blind (15)
+Sunette: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 5h ]
+Dealt to Mudr0x [ Js ]
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Mudr0x lost 15 (showed hand) [ 5h Js ] (high card jack)
+Sunette bet 30, collected 45, net +15
+
+-----------------------------------------------------
+
+Game #1012804 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:02:33.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #15 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,025 in chips)
+Seat  5: Sunette  (475 in chips)
+Sunette: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ As ]
+Dealt to Mudr0x [ Ts ]
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Mudr0x bet 30, collected 45, net +15 (showed hand) [ As Ts ] (high card ace)
+Sunette lost 15
+
+-----------------------------------------------------
+
+Game #1012805 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:02:38.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #16 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,040 in chips)
+Seat  5: Sunette  (460 in chips)
+Mudr0x: Post Small Blind (15)
+Sunette: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 3c ]
+Dealt to Mudr0x [ Jc ]
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Mudr0x lost 15 (showed hand) [ 3c Jc ] (high card jack)
+Sunette bet 30, collected 45, net +15
+
+-----------------------------------------------------
+
+Game #1012806 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:02:43.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #17 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,025 in chips)
+Seat  5: Sunette  (475 in chips)
+Sunette: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 5c ]
+Dealt to Mudr0x [ 6d ]
+Sunette: Raise (180)
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 240 | Mudr0x lost 40 (showed hand) [ 5c 6d ] (high card six)
+Sunette bet 200, collected 240, net +40
+
+-----------------------------------------------------
+
+Game #1012807 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:02:48.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #18 -- Seat 3 is the button
+Seat  3: Mudr0x  (985 in chips)
+Seat  5: Sunette  (515 in chips)
+Mudr0x: Post Small Blind (20)
+Sunette: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 8d ]
+Dealt to Mudr0x [ Ad ]
+Mudr0x: Raise (140)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 200 | Mudr0x bet 160, collected 200, net +40 (showed hand) [ 8d Ad ] (high card ace)
+Sunette lost 40
+
+-----------------------------------------------------
+
+Game #1012808 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:02:56.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #19 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,025 in chips)
+Seat  5: Sunette  (475 in chips)
+Sunette: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 2h ]
+Dealt to Mudr0x [ 5d ]
+Sunette: Call (20)
+Mudr0x: Check
+*** FLOP *** : [ 8c Kc 8h ]
+Mudr0x: Check
+Sunette: Check
+*** TURN *** : [ 8c Kc 8h ] [ 5h ]
+Mudr0x: Check
+Sunette: Check
+*** RIVER *** : [ 8c Kc 8h 5h ] [ Kd ]
+Mudr0x: Check
+Sunette: Check
+*** SUMMARY ***
+Pot: 80 | Board: [ 8c Kc 8h 5h Kd ]
+Mudr0x lost 40 (showed hand) [ 2h 5d ] (two pair, kings and eights)
+Sunette bet 40, collected 80, net +40 (showed hand) [ 4d As ] (two pair, kings and eights)
+
+-----------------------------------------------------
+
+Game #1012809 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:03:14.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #20 -- Seat 3 is the button
+Seat  3: Mudr0x  (985 in chips)
+Seat  5: Sunette  (515 in chips)
+Mudr0x: Post Small Blind (20)
+Sunette: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 7c ]
+Dealt to Mudr0x [ 7h ]
+Mudr0x: Raise (140)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 200 | Mudr0x bet 160, collected 200, net +40 (showed hand) [ 7c 7h ] (a pair of sevens)
+Sunette lost 40
+
+-----------------------------------------------------
+
+Game #1012810 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:03:22.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #21 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,025 in chips)
+Seat  5: Sunette  (475 in chips)
+Sunette: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ Qh ]
+Dealt to Mudr0x [ 6c ]
+Sunette: Raise (140)
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 200 | Mudr0x lost 40 (showed hand) [ Qh 6c ] (high card queen)
+Sunette bet 160, collected 200, net +40
+
+-----------------------------------------------------
+
+Game #1012811 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:03:27.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #22 -- Seat 3 is the button
+Seat  3: Mudr0x  (985 in chips)
+Seat  5: Sunette  (515 in chips)
+Mudr0x: Post Small Blind (20)
+Sunette: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ As ]
+Dealt to Mudr0x [ 3d ]
+Mudr0x: Raise (140)
+Sunette: Call (120)
+*** FLOP *** : [ Ad 5s Jd ]
+Sunette: Check
+Mudr0x: Bet (355)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 675 | Board: [ Ad 5s Jd ]
+Mudr0x bet 515, collected 675, net +160 (showed hand) [ As 3d ] (a pair of aces)
+Sunette lost 160
+
+-----------------------------------------------------
+
+Game #1012812 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:03:40.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #23 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,145 in chips)
+Seat  5: Sunette  (355 in chips)
+Sunette: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 3h ]
+Dealt to Mudr0x [ 3c ]
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Mudr0x bet 40, collected 60, net +20 (showed hand) [ 3h 3c ] (a pair of threes)
+Sunette lost 20
+
+-----------------------------------------------------
+
+Game #1012813 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:03:45.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #24 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,165 in chips)
+Seat  5: Sunette  (335 in chips)
+Mudr0x: Post Small Blind (20)
+Sunette: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 5h ]
+Dealt to Mudr0x [ 9h ]
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Mudr0x lost 20 (showed hand) [ 5h 9h ] (high card nine)
+Sunette bet 40, collected 60, net +20
+
+-----------------------------------------------------
+
+Game #1012814 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:03:49.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #25 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,145 in chips)
+Seat  5: Sunette  (355 in chips)
+Sunette: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ Jc ]
+Dealt to Mudr0x [ 3c ]
+Sunette: Raise (210)
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 300 | Mudr0x lost 60 (showed hand) [ Jc 3c ] (high card jack)
+Sunette bet 240, collected 300, net +60
+
+-----------------------------------------------------
+
+Game #1012815 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:03:54.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #26 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,085 in chips)
+Seat  5: Sunette  (415 in chips)
+Mudr0x: Post Small Blind (30)
+Sunette: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 5d ]
+Dealt to Mudr0x [ 7s ]
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 90 | Mudr0x lost 30 (showed hand) [ 5d 7s ] (high card seven)
+Sunette bet 60, collected 90, net +30
+
+-----------------------------------------------------
+
+Game #1012816 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:03:58.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #27 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,055 in chips)
+Seat  5: Sunette  (445 in chips)
+Sunette: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 2s ]
+Dealt to Mudr0x [ 2d ]
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 90 | Mudr0x bet 60, collected 90, net +30 (showed hand) [ 2s 2d ] (a pair of twos)
+Sunette lost 30
+
+-----------------------------------------------------
+
+Game #1012817 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:04:02.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #28 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,085 in chips)
+Seat  5: Sunette  (415 in chips)
+Mudr0x: Post Small Blind (30)
+Sunette: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ Ah ]
+Dealt to Mudr0x [ Kd ]
+Mudr0x: Raise (385)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 475 | Mudr0x bet 415, collected 475, net +60 (showed hand) [ Ah Kd ] (high card ace)
+Sunette lost 60
+
+-----------------------------------------------------
+
+Game #1012818 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:04:09.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #29 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,145 in chips)
+Seat  5: Sunette  (355 in chips)
+Sunette: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 8d ]
+Dealt to Mudr0x [ 8h ]
+Sunette: Call (30)
+Mudr0x: Raise (295)
+Sunette: Call (295)
+*** FLOP *** : [ Jd Qh Th ]
+*** TURN *** : [ Jd Qh Th ] [ 8c ]
+*** RIVER *** : [ Jd Qh Th 8c ] [ Ks ]
+*** SUMMARY ***
+Pot: 710 | Board: [ Jd Qh Th 8c Ks ]
+Mudr0x lost 355 (showed hand) [ 8d 8h ] (three of a kind, eights)
+Sunette bet 355, collected 710, net +355 (showed hand) [ 2c Ad ] (a straight, ten to ace)
+
+-----------------------------------------------------
+
+Game #1012819 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:04:21.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #30 -- Seat 3 is the button
+Seat  3: Mudr0x  (790 in chips)
+Seat  5: Sunette  (710 in chips)
+Mudr0x: Post Small Blind (30)
+Sunette: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ Qh ]
+Dealt to Mudr0x [ 7s ]
+Mudr0x: Raise (680)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 770 | Mudr0x bet 710, collected 770, net +60 (showed hand) [ Qh 7s ] (high card queen)
+Sunette lost 60
+
+-----------------------------------------------------
+
+Game #1012820 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:04:28.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #31 -- Seat 5 is the button
+Seat  3: Mudr0x  (850 in chips)
+Seat  5: Sunette  (650 in chips)
+Sunette: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 7d ]
+Dealt to Mudr0x [ Kc ]
+Sunette: Raise (270)
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 360 | Mudr0x lost 60 (showed hand) [ 7d Kc ] (high card king)
+Sunette bet 300, collected 360, net +60
+
+-----------------------------------------------------
+
+Game #1012821 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:04:32.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #32 -- Seat 3 is the button
+Seat  3: Mudr0x  (790 in chips)
+Seat  5: Sunette  (710 in chips)
+Mudr0x: Post Small Blind (30)
+Sunette: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ Ad ]
+Dealt to Mudr0x [ Ac ]
+Mudr0x: Raise (680)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 770 | Mudr0x bet 710, collected 770, net +60 (showed hand) [ Ad Ac ] (a pair of aces)
+Sunette lost 60
+
+-----------------------------------------------------
+
+Game #1012822 - Tournament DD Poker Spin&Go - 40/80 No Limit Texas Hold'em - 2022/02/14-13:04:39.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #33 -- Seat 5 is the button
+Seat  3: Mudr0x  (850 in chips)
+Seat  5: Sunette  (650 in chips)
+Sunette: Post Small Blind (40)
+Mudr0x: Post Big Blind (80)
+Dealing...
+Dealt to Mudr0x [ 3s ]
+Dealt to Mudr0x [ Ac ]
+Sunette: Raise (360)
+Mudr0x: Raise (570)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 1,050 | Mudr0x bet 650, collected 1,050, net +400 (showed hand) [ 3s Ac ] (high card ace)
+Sunette lost 400
+
+-----------------------------------------------------
+
+Game #1012823 - Tournament DD Poker Spin&Go - 40/80 No Limit Texas Hold'em - 2022/02/14-13:04:47.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #34 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,250 in chips)
+Seat  5: Sunette  (250 in chips)
+Mudr0x: Post Small Blind (40)
+Sunette: Post Big Blind (80)
+Dealing...
+Dealt to Mudr0x [ 4d ]
+Dealt to Mudr0x [ 6h ]
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 120 | Mudr0x lost 40 (showed hand) [ 4d 6h ] (high card six)
+Sunette bet 80, collected 120, net +40
+
+-----------------------------------------------------
+
+Game #1012824 - Tournament DD Poker Spin&Go - 40/80 No Limit Texas Hold'em - 2022/02/14-13:04:51.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #35 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,210 in chips)
+Seat  5: Sunette  (290 in chips)
+Sunette: Post Small Blind (40)
+Mudr0x: Post Big Blind (80)
+Dealing...
+Dealt to Mudr0x [ 2d ]
+Dealt to Mudr0x [ 3s ]
+Sunette: Raise (250)
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 370 | Mudr0x lost 80 (showed hand) [ 2d 3s ] (high card three)
+Sunette bet 290, collected 370, net +80
+
+-----------------------------------------------------
+
+Game #1012825 - Tournament DD Poker Spin&Go - 40/80 No Limit Texas Hold'em - 2022/02/14-13:04:56.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #36 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,130 in chips)
+Seat  5: Sunette  (370 in chips)
+Mudr0x: Post Small Blind (40)
+Sunette: Post Big Blind (80)
+Dealing...
+Dealt to Mudr0x [ Js ]
+Dealt to Mudr0x [ 6c ]
+Mudr0x: Raise (330)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 450 | Mudr0x bet 370, collected 450, net +80 (showed hand) [ Js 6c ] (high card jack)
+Sunette lost 80
+
+-----------------------------------------------------
+
+Game #1012826 - Tournament DD Poker Spin&Go - 40/80 No Limit Texas Hold'em - 2022/02/14-13:05:02.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #37 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,210 in chips)
+Seat  5: Sunette  (290 in chips)
+Sunette: Post Small Blind (40)
+Mudr0x: Post Big Blind (80)
+Dealing...
+Dealt to Mudr0x [ 4h ]
+Dealt to Mudr0x [ Jh ]
+Sunette: Raise (250)
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 370 | Mudr0x lost 80 (showed hand) [ 4h Jh ] (high card jack)
+Sunette bet 290, collected 370, net +80
+
+-----------------------------------------------------
+
+Game #1012827 - Tournament DD Poker Spin&Go - 40/80 No Limit Texas Hold'em - 2022/02/14-13:05:07.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #38 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,130 in chips)
+Seat  5: Sunette  (370 in chips)
+Mudr0x: Post Small Blind (40)
+Sunette: Post Big Blind (80)
+Dealing...
+Dealt to Mudr0x [ 8h ]
+Dealt to Mudr0x [ Qs ]
+Mudr0x: Raise (330)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 450 | Mudr0x bet 370, collected 450, net +80 (showed hand) [ 8h Qs ] (high card queen)
+Sunette lost 80
+
+-----------------------------------------------------
+
+Game #1012828 - Tournament DD Poker Spin&Go - 40/80 No Limit Texas Hold'em - 2022/02/14-13:05:13.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #39 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,210 in chips)
+Seat  5: Sunette  (290 in chips)
+Sunette: Post Small Blind (40)
+Mudr0x: Post Big Blind (80)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ Jd ]
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 120 | Mudr0x bet 80, collected 120, net +40 (showed hand) [ Td Jd ] (high card jack)
+Sunette lost 40
+
+-----------------------------------------------------
+
+Game #1012829 - Tournament DD Poker Spin&Go - 40/80 No Limit Texas Hold'em - 2022/02/14-13:05:18.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #40 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,250 in chips)
+Seat  5: Sunette  (250 in chips)
+Mudr0x: Post Small Blind (40)
+Sunette: Post Big Blind (80)
+Dealing...
+Dealt to Mudr0x [ 5d ]
+Dealt to Mudr0x [ 6c ]
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 120 | Mudr0x lost 40 (showed hand) [ 5d 6c ] (high card six)
+Sunette bet 80, collected 120, net +40
+
+-----------------------------------------------------
+
+Game #1012830 - Tournament DD Poker Spin&Go - 50/100 No Limit Texas Hold'em - 2022/02/14-13:05:22.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #41 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,210 in chips)
+Seat  5: Sunette  (290 in chips)
+Sunette: Post Small Blind (50)
+Mudr0x: Post Big Blind (100)
+Dealing...
+Dealt to Mudr0x [ 8c ]
+Dealt to Mudr0x [ Kh ]
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 150 | Mudr0x bet 100, collected 150, net +50 (showed hand) [ 8c Kh ] (high card king)
+Sunette lost 50
+
+-----------------------------------------------------
+
+Game #1012831 - Tournament DD Poker Spin&Go - 50/100 No Limit Texas Hold'em - 2022/02/14-13:05:26.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #42 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,260 in chips)
+Seat  5: Sunette  (240 in chips)
+Mudr0x: Post Small Blind (50)
+Sunette: Post Big Blind (100)
+Dealing...
+Dealt to Mudr0x [ Ah ]
+Dealt to Mudr0x [ 2c ]
+Mudr0x: Raise (190)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 340 | Mudr0x bet 240, collected 340, net +100 (showed hand) [ Ah 2c ] (high card ace)
+Sunette lost 100
+
+-----------------------------------------------------
+
+Game #1012832 - Tournament DD Poker Spin&Go - 50/100 No Limit Texas Hold'em - 2022/02/14-13:05:33.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #43 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,360 in chips)
+Seat  5: Sunette  (140 in chips)
+Sunette: Post Small Blind (50)
+Mudr0x: Post Big Blind (100)
+Dealing...
+Dealt to Mudr0x [ Kh ]
+Dealt to Mudr0x [ Tc ]
+Sunette: Raise (90)
+Mudr0x: Call (40)
+*** FLOP *** : [ 8s 4d 7s ]
+*** TURN *** : [ 8s 4d 7s ] [ 3d ]
+*** RIVER *** : [ 8s 4d 7s 3d ] [ 4c ]
+*** SUMMARY ***
+Pot: 280 | Board: [ 8s 4d 7s 3d 4c ]
+Mudr0x lost 140 (showed hand) [ Kh Tc ] (a pair of fours)
+Sunette bet 140, collected 280, net +140 (showed hand) [ 9d 9h ] (two pair, nines and fours)
+
+-----------------------------------------------------
+
+Game #1012833 - Tournament DD Poker Spin&Go - 50/100 No Limit Texas Hold'em - 2022/02/14-13:05:43.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #44 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,220 in chips)
+Seat  5: Sunette  (280 in chips)
+Mudr0x: Post Small Blind (50)
+Sunette: Post Big Blind (100)
+Dealing...
+Dealt to Mudr0x [ 3h ]
+Dealt to Mudr0x [ Ac ]
+Mudr0x: Raise (230)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 380 | Mudr0x bet 280, collected 380, net +100 (showed hand) [ 3h Ac ] (high card ace)
+Sunette lost 100
+
+-----------------------------------------------------
+
+Game #1012834 - Tournament DD Poker Spin&Go - 50/100 No Limit Texas Hold'em - 2022/02/14-13:05:50.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #45 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,320 in chips)
+Seat  5: Sunette  (180 in chips)
+Sunette: Post Small Blind (50)
+Mudr0x: Post Big Blind (100)
+Dealing...
+Dealt to Mudr0x [ 4d ]
+Dealt to Mudr0x [ Kd ]
+Sunette: Raise (130)
+Mudr0x: Call (80)
+*** FLOP *** : [ 5c Js 4c ]
+*** TURN *** : [ 5c Js 4c ] [ 9s ]
+*** RIVER *** : [ 5c Js 4c 9s ] [ 2d ]
+*** SUMMARY ***
+Pot: 360 | Board: [ 5c Js 4c 9s 2d ]
+Mudr0x lost 180 (showed hand) [ 4d Kd ] (a pair of fours)
+Sunette bet 180, collected 360, net +180 (showed hand) [ Kh Jc ] (a pair of jacks)
+
+-----------------------------------------------------
+
+Game #1012835 - Tournament DD Poker Spin&Go - 50/100 No Limit Texas Hold'em - 2022/02/14-13:06:00.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #46 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,140 in chips)
+Seat  5: Sunette  (360 in chips)
+Mudr0x: Post Small Blind (50)
+Sunette: Post Big Blind (100)
+Dealing...
+Dealt to Mudr0x [ 6s ]
+Dealt to Mudr0x [ 9d ]
+Mudr0x: Raise (310)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 460 | Mudr0x bet 360, collected 460, net +100 (showed hand) [ 6s 9d ] (high card nine)
+Sunette lost 100
+
+-----------------------------------------------------
+
+Game #1012836 - Tournament DD Poker Spin&Go - 50/100 No Limit Texas Hold'em - 2022/02/14-13:06:08.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #47 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,240 in chips)
+Seat  5: Sunette  (260 in chips)
+Sunette: Post Small Blind (50)
+Mudr0x: Post Big Blind (100)
+Dealing...
+Dealt to Mudr0x [ 7d ]
+Dealt to Mudr0x [ 5c ]
+Sunette: Raise (210)
+Mudr0x: Fold
+Sunette : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 360 | Mudr0x lost 100 (showed hand) [ 7d 5c ] (high card seven)
+Sunette bet 260, collected 360, net +100
+
+-----------------------------------------------------
+
+Game #1012837 - Tournament DD Poker Spin&Go - 50/100 No Limit Texas Hold'em - 2022/02/14-13:06:12.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #48 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,140 in chips)
+Seat  5: Sunette  (360 in chips)
+Mudr0x: Post Small Blind (50)
+Sunette: Post Big Blind (100)
+Dealing...
+Dealt to Mudr0x [ Th ]
+Dealt to Mudr0x [ Kd ]
+Mudr0x: Raise (310)
+Sunette: Call (260)
+*** FLOP *** : [ 6s Ad 7h ]
+*** TURN *** : [ 6s Ad 7h ] [ 3h ]
+*** RIVER *** : [ 6s Ad 7h 3h ] [ Ac ]
+*** SUMMARY ***
+Pot: 720 | Board: [ 6s Ad 7h 3h Ac ]
+Mudr0x lost 360 (showed hand) [ Th Kd ] (a pair of aces)
+Sunette bet 360, collected 720, net +360 (showed hand) [ Js Ks ] (a pair of aces)
+
+-----------------------------------------------------
+
+Game #1012838 - Tournament DD Poker Spin&Go - 60/120 No Limit Texas Hold'em - 2022/02/14-13:06:22.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #49 -- Seat 5 is the button
+Seat  3: Mudr0x  (780 in chips)
+Seat  5: Sunette  (720 in chips)
+Sunette: Post Small Blind (60)
+Mudr0x: Post Big Blind (120)
+Dealing...
+Dealt to Mudr0x [ Kc ]
+Dealt to Mudr0x [ Ad ]
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 180 | Mudr0x bet 120, collected 180, net +60 (showed hand) [ Kc Ad ] (high card ace)
+Sunette lost 60
+
+-----------------------------------------------------
+
+Game #1012839 - Tournament DD Poker Spin&Go - 60/120 No Limit Texas Hold'em - 2022/02/14-13:06:27.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #50 -- Seat 3 is the button
+Seat  3: Mudr0x  (840 in chips)
+Seat  5: Sunette  (660 in chips)
+Mudr0x: Post Small Blind (60)
+Sunette: Post Big Blind (120)
+Dealing...
+Dealt to Mudr0x [ 4h ]
+Dealt to Mudr0x [ Qh ]
+Mudr0x: Raise (600)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 780 | Mudr0x bet 660, collected 780, net +120 (showed hand) [ 4h Qh ] (high card queen)
+Sunette lost 120
+
+-----------------------------------------------------
+
+Game #1012840 - Tournament DD Poker Spin&Go - 60/120 No Limit Texas Hold'em - 2022/02/14-13:06:34.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #51 -- Seat 5 is the button
+Seat  3: Mudr0x  (960 in chips)
+Seat  5: Sunette  (540 in chips)
+Sunette: Post Small Blind (60)
+Mudr0x: Post Big Blind (120)
+Dealing...
+Dealt to Mudr0x [ Tc ]
+Dealt to Mudr0x [ 8d ]
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 180 | Mudr0x bet 120, collected 180, net +60 (showed hand) [ Tc 8d ] (high card ten)
+Sunette lost 60
+
+-----------------------------------------------------
+
+Game #1012841 - Tournament DD Poker Spin&Go - 60/120 No Limit Texas Hold'em - 2022/02/14-13:06:39.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #52 -- Seat 3 is the button
+Seat  3: Mudr0x  (1,020 in chips)
+Seat  5: Sunette  (480 in chips)
+Mudr0x: Post Small Blind (60)
+Sunette: Post Big Blind (120)
+Dealing...
+Dealt to Mudr0x [ As ]
+Dealt to Mudr0x [ 8s ]
+Mudr0x: Raise (420)
+Sunette: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 600 | Mudr0x bet 480, collected 600, net +120 (showed hand) [ As 8s ] (high card ace)
+Sunette lost 120
+
+-----------------------------------------------------
+
+Game #1012842 - Tournament DD Poker Spin&Go - 60/120 No Limit Texas Hold'em - 2022/02/14-13:06:45.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #53 -- Seat 5 is the button
+Seat  3: Mudr0x  (1,140 in chips)
+Seat  5: Sunette  (360 in chips)
+Sunette: Post Small Blind (60)
+Mudr0x: Post Big Blind (120)
+Dealing...
+Dealt to Mudr0x [ Qc ]
+Dealt to Mudr0x [ 9c ]
+Sunette: Call (60)
+Mudr0x: Raise (240)
+Sunette: Call (240)
+*** FLOP *** : [ Qh 2c Jh ]
+*** TURN *** : [ Qh 2c Jh ] [ 4s ]
+*** RIVER *** : [ Qh 2c Jh 4s ] [ 4d ]
+*** SUMMARY ***
+Pot: 720 | Board: [ Qh 2c Jh 4s 4d ]
+Mudr0x bet 360, collected 720, net +360 (showed hand) [ Qc 9c ] (two pair, queens and fours)
+Sunette lost 360 (showed hand) [ 8d As ] (a pair of fours)
+
+-----------------------------------------------------
+
+Game #1012843 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:06:59.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 5 is the button
+Seat  1: Jennings  (500 in chips)
+Seat  3: Eldora  (500 in chips)
+Seat  5: Mudr0x  (500 in chips)
+Jennings: Post Small Blind (10)
+Eldora: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 9h ]
+Dealt to Mudr0x [ Kh ]
+Mudr0x: Raise (50)
+Jennings: Fold
+Eldora: Call (30)
+*** FLOP *** : [ Jc Ad 8c ]
+Eldora: Check
+Mudr0x: Bet (80)
+Eldora: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 190 | Board: [ Jc Ad 8c ]
+Jennings lost 10
+Eldora lost 50
+Mudr0x bet 130, collected 190, net +60 (showed hand) [ 9h Kh ] (high card ace)
+
+-----------------------------------------------------
+
+Game #1012844 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:07:16.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 1 is the button
+Seat  1: Jennings  (490 in chips)
+Seat  3: Eldora  (450 in chips)
+Seat  5: Mudr0x  (560 in chips)
+Eldora: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Tc ]
+Dealt to Mudr0x [ Qh ]
+Jennings: Raise (90)
+Eldora: Call (80)
+Mudr0x: Fold
+*** FLOP *** : [ 8s Qs 4s ]
+Eldora: Bet (120)
+Jennings: Call (120)
+*** TURN *** : [ 8s Qs 4s ] [ 3h ]
+Eldora: Check
+Jennings: Check
+*** RIVER *** : [ 8s Qs 4s 3h ] [ 9d ]
+Eldora: Check
+Jennings: Check
+*** SUMMARY ***
+Pot: 440 | Board: [ 8s Qs 4s 3h 9d ]
+Jennings lost 210
+Eldora bet 210, collected 440, net +230 (showed hand) [ 7h 8d ] (a pair of eights)
+Mudr0x lost 20 (showed hand) [ Tc Qh ] (a pair of queens)
+
+-----------------------------------------------------
+
+Game #1012845 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:07:30.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 3 is the button
+Seat  1: Jennings  (280 in chips)
+Seat  3: Eldora  (680 in chips)
+Seat  5: Mudr0x  (540 in chips)
+Mudr0x: Post Small Blind (10)
+Jennings: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 5c ]
+Dealt to Mudr0x [ Td ]
+Eldora: Raise (100)
+Mudr0x: Fold
+Jennings: Call (80)
+*** FLOP *** : [ 3h Kh 9d ]
+Jennings: Check
+Eldora: Check
+*** TURN *** : [ 3h Kh 9d ] [ 2c ]
+Jennings: Check
+Eldora: Check
+*** RIVER *** : [ 3h Kh 9d 2c ] [ Qh ]
+Jennings: Check
+Eldora: Check
+*** SUMMARY ***
+Pot: 210 | Board: [ 3h Kh 9d 2c Qh ]
+Jennings bet 100, collected 210, net +110 (showed hand) [ 7d 8c ] (high card king)
+Eldora lost 100 (showed hand) [ 6s 7c ] (high card king)
+Mudr0x lost 10 (showed hand) [ 5c Td ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012846 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:07:45.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 5 is the button
+Seat  1: Jennings  (390 in chips)
+Seat  3: Eldora  (580 in chips)
+Seat  5: Mudr0x  (530 in chips)
+Jennings: Post Small Blind (10)
+Eldora: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7s ]
+Dealt to Mudr0x [ Jh ]
+Mudr0x: Fold
+Jennings: Raise (70)
+Eldora: Call (60)
+*** FLOP *** : [ 2d 8d 7c ]
+Jennings: Check
+Eldora: Check
+*** TURN *** : [ 2d 8d 7c ] [ 6s ]
+Jennings: Check
+Eldora: Check
+*** RIVER *** : [ 2d 8d 7c 6s ] [ Jc ]
+Jennings: Check
+Eldora: Check
+*** SUMMARY ***
+Pot: 160 | Board: [ 2d 8d 7c 6s Jc ]
+Jennings bet 80, collected 160, net +80 (showed hand) [ Kh Qs ] (high card king)
+Eldora lost 80
+Mudr0x didn't bet (folded) (showed hand) [ 7s Jh ] (two pair, jacks and sevens)
+
+-----------------------------------------------------
+
+Game #1012847 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:07:59.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 1 is the button
+Seat  1: Jennings  (470 in chips)
+Seat  3: Eldora  (500 in chips)
+Seat  5: Mudr0x  (530 in chips)
+Eldora: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 8h ]
+Dealt to Mudr0x [ 7h ]
+Jennings: Raise (95)
+Eldora: Call (85)
+Mudr0x: Fold
+*** FLOP *** : [ Ks 9c 8c ]
+Eldora: Check
+Jennings: Check
+*** TURN *** : [ Ks 9c 8c ] [ 6s ]
+Eldora: Check
+Jennings: Check
+*** RIVER *** : [ Ks 9c 8c 6s ] [ 3s ]
+Eldora: Check
+Jennings: Check
+*** SUMMARY ***
+Pot: 210 | Board: [ Ks 9c 8c 6s 3s ]
+Jennings bet 95, collected 210, net +115 (showed hand) [ 6d Ac ] (a pair of sixes)
+Eldora lost 95
+Mudr0x lost 20 (showed hand) [ 8h 7h ] (a pair of eights)
+
+-----------------------------------------------------
+
+Game #1012848 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:08:15.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #6 -- Seat 3 is the button
+Seat  1: Jennings  (585 in chips)
+Seat  3: Eldora  (405 in chips)
+Seat  5: Mudr0x  (510 in chips)
+Mudr0x: Post Small Blind (10)
+Jennings: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 3d ]
+Dealt to Mudr0x [ 8c ]
+Eldora: Raise (90)
+Mudr0x: Fold
+Jennings: Fold
+Eldora : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 120 | Jennings lost 20
+Eldora bet 90, collected 120, net +30
+Mudr0x lost 10 (showed hand) [ 3d 8c ] (high card eight)
+
+-----------------------------------------------------
+
+Game #1012849 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:08:20.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #7 -- Seat 5 is the button
+Seat  1: Jennings  (565 in chips)
+Seat  3: Eldora  (435 in chips)
+Seat  5: Mudr0x  (500 in chips)
+Jennings: Post Small Blind (10)
+Eldora: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Ah ]
+Dealt to Mudr0x [ 6d ]
+Mudr0x: Raise (50)
+Jennings: Fold
+Eldora: Call (30)
+*** FLOP *** : [ 2c 3h 4d ]
+Eldora: Check
+Mudr0x: Bet (80)
+Eldora: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 190 | Board: [ 2c 3h 4d ]
+Jennings lost 10
+Eldora lost 50
+Mudr0x bet 130, collected 190, net +60 (showed hand) [ Ah 6d ] (high card ace)
+
+-----------------------------------------------------
+
+Game #1012850 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:08:37.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #8 -- Seat 1 is the button
+Seat  1: Jennings  (555 in chips)
+Seat  3: Eldora  (385 in chips)
+Seat  5: Mudr0x  (560 in chips)
+Eldora: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 4d ]
+Dealt to Mudr0x [ Js ]
+Jennings: Raise (100)
+Eldora: Call (90)
+Mudr0x: Fold
+*** FLOP *** : [ 5s 9s Ks ]
+Eldora: Check
+Jennings: Check
+*** TURN *** : [ 5s 9s Ks ] [ 6c ]
+Eldora: Check
+Jennings: Check
+*** RIVER *** : [ 5s 9s Ks 6c ] [ Qd ]
+Eldora: Check
+Jennings: Check
+*** SUMMARY ***
+Pot: 220 | Board: [ 5s 9s Ks 6c Qd ]
+Jennings bet 100, collected 220, net +120 (showed hand) [ Ad 4c ] (high card ace)
+Eldora lost 100
+Mudr0x lost 20 (showed hand) [ 4d Js ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012851 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:08:52.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #9 -- Seat 3 is the button
+Seat  1: Jennings  (675 in chips)
+Seat  3: Eldora  (285 in chips)
+Seat  5: Mudr0x  (540 in chips)
+Mudr0x: Post Small Blind (15)
+Jennings: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 6h ]
+Dealt to Mudr0x [ Ac ]
+Eldora: Fold
+Mudr0x: Call (15)
+Jennings: Check
+*** FLOP *** : [ Tc 4h Kc ]
+Mudr0x: Check
+Jennings: Bet (40)
+Mudr0x: Fold
+Jennings : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 100 | Board: [ Tc 4h Kc ]
+Jennings bet 70, collected 100, net +30
+Eldora didn't bet (folded)
+Mudr0x lost 30 (showed hand) [ 6h Ac ] (high card ace)
+
+-----------------------------------------------------
+
+Game #1012852 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:09:04.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #10 -- Seat 5 is the button
+Seat  1: Jennings  (705 in chips)
+Seat  3: Eldora  (285 in chips)
+Seat  5: Mudr0x  (510 in chips)
+Jennings: Post Small Blind (15)
+Eldora: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Jh ]
+Dealt to Mudr0x [ 9h ]
+Mudr0x: Raise (60)
+Jennings: Call (45)
+Eldora: Fold
+*** FLOP *** : [ 7s Ks 3s ]
+Jennings: Check
+Mudr0x: Check
+*** TURN *** : [ 7s Ks 3s ] [ 4s ]
+Jennings: Check
+Mudr0x: Check
+*** RIVER *** : [ 7s Ks 3s 4s ] [ Jd ]
+Jennings: Check
+Mudr0x: Check
+*** SUMMARY ***
+Pot: 150 | Board: [ 7s Ks 3s 4s Jd ]
+Jennings lost 60
+Eldora lost 30
+Mudr0x bet 60, collected 150, net +90 (showed hand) [ Jh 9h ] (a pair of jacks)
+
+-----------------------------------------------------
+
+Game #1012853 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:09:25.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #11 -- Seat 1 is the button
+Seat  1: Jennings  (645 in chips)
+Seat  3: Eldora  (255 in chips)
+Seat  5: Mudr0x  (600 in chips)
+Eldora: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ Ks ]
+Jennings: Fold
+Eldora: Raise (55)
+Mudr0x: Raise (225)
+Eldora: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 325 | Jennings didn't bet (folded)
+Eldora lost 70
+Mudr0x bet 255, collected 325, net +70 (showed hand) [ Td Ks ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012854 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:09:34.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #12 -- Seat 3 is the button
+Seat  1: Jennings  (645 in chips)
+Seat  3: Eldora  (185 in chips)
+Seat  5: Mudr0x  (670 in chips)
+Mudr0x: Post Small Blind (15)
+Jennings: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 9s ]
+Dealt to Mudr0x [ 2c ]
+Eldora: Fold
+Mudr0x: Fold
+Jennings : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Jennings bet 30, collected 45, net +15
+Eldora didn't bet (folded)
+Mudr0x lost 15 (showed hand) [ 9s 2c ] (high card nine)
+
+-----------------------------------------------------
+
+Game #1012855 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:09:39.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #13 -- Seat 5 is the button
+Seat  1: Jennings  (660 in chips)
+Seat  3: Eldora  (185 in chips)
+Seat  5: Mudr0x  (655 in chips)
+Jennings: Post Small Blind (15)
+Eldora: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 6c ]
+Dealt to Mudr0x [ 6d ]
+Mudr0x: Raise (75)
+Jennings: Fold
+Eldora: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 120 | Jennings lost 15
+Eldora lost 30
+Mudr0x bet 75, collected 120, net +45 (showed hand) [ 6c 6d ] (a pair of sixes)
+
+-----------------------------------------------------
+
+Game #1012856 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:09:49.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #14 -- Seat 1 is the button
+Seat  1: Jennings  (645 in chips)
+Seat  3: Eldora  (155 in chips)
+Seat  5: Mudr0x  (700 in chips)
+Eldora: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Jd ]
+Dealt to Mudr0x [ 5c ]
+Jennings: Raise (80)
+Eldora: Fold
+Mudr0x: Fold
+Jennings : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 125 | Jennings bet 80, collected 125, net +45
+Eldora lost 15
+Mudr0x lost 30 (showed hand) [ Jd 5c ] (high card jack)
+
+-----------------------------------------------------
+
+Game #1012857 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:09:55.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #15 -- Seat 3 is the button
+Seat  1: Jennings  (690 in chips)
+Seat  3: Eldora  (140 in chips)
+Seat  5: Mudr0x  (670 in chips)
+Mudr0x: Post Small Blind (15)
+Jennings: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 8s ]
+Dealt to Mudr0x [ 7s ]
+Eldora: Fold
+Mudr0x: Call (15)
+Jennings: Check
+*** FLOP *** : [ Qc 8d As ]
+Mudr0x: Bet (45)
+Jennings: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 105 | Board: [ Qc 8d As ]
+Jennings lost 30
+Eldora didn't bet (folded)
+Mudr0x bet 75, collected 105, net +30 (showed hand) [ 8s 7s ] (a pair of eights)
+
+-----------------------------------------------------
+
+Game #1012858 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:10:08.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #16 -- Seat 5 is the button
+Seat  1: Jennings  (660 in chips)
+Seat  3: Eldora  (140 in chips)
+Seat  5: Mudr0x  (700 in chips)
+Jennings: Post Small Blind (15)
+Eldora: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ Ah ]
+Mudr0x: Raise (75)
+Jennings: Call (60)
+Eldora: Fold
+*** FLOP *** : [ Ac 5s Ad ]
+Jennings: Check
+Mudr0x: Bet (135)
+Jennings: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 315 | Board: [ Ac 5s Ad ]
+Jennings lost 75
+Eldora lost 30
+Mudr0x bet 210, collected 315, net +105 (showed hand) [ Td Ah ] (three of a kind, aces)
+
+-----------------------------------------------------
+
+Game #1012859 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:10:25.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #17 -- Seat 1 is the button
+Seat  1: Jennings  (585 in chips)
+Seat  3: Eldora  (110 in chips)
+Seat  5: Mudr0x  (805 in chips)
+Eldora: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ Kh ]
+Dealt to Mudr0x [ 4h ]
+Jennings: Raise (115)
+Eldora: Fold
+Mudr0x: Fold
+Jennings : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 175 | Jennings bet 115, collected 175, net +60
+Eldora lost 20
+Mudr0x lost 40 (showed hand) [ Kh 4h ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012860 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:10:31.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #18 -- Seat 3 is the button
+Seat  1: Jennings  (645 in chips)
+Seat  3: Eldora  (90 in chips)
+Seat  5: Mudr0x  (765 in chips)
+Mudr0x: Post Small Blind (20)
+Jennings: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ Ac ]
+Dealt to Mudr0x [ 3c ]
+Eldora: Fold
+Mudr0x: Call (20)
+Jennings: Raise (55)
+Mudr0x: Call (55)
+*** FLOP *** : [ 6s Qs Tc ]
+Mudr0x: Bet (140)
+Jennings: Call (140)
+*** TURN *** : [ 6s Qs Tc ] [ Js ]
+Mudr0x: Bet (410)
+Jennings: Call (410)
+*** RIVER *** : [ 6s Qs Tc Js ] [ Kd ]
+*** SUMMARY ***
+Pot: 1,290 | Board: [ 6s Qs Tc Js Kd ]
+Jennings bet 645, collected 645, net 0 (showed hand) [ Jc Ad ] (a straight, ten to ace)
+Eldora didn't bet (folded)
+Mudr0x bet 645, collected 645, net 0 (showed hand) [ Ac 3c ] (a straight, ten to ace)
+
+-----------------------------------------------------
+
+Game #1012861 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:10:51.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #19 -- Seat 5 is the button
+Seat  1: Jennings  (645 in chips)
+Seat  3: Eldora  (90 in chips)
+Seat  5: Mudr0x  (765 in chips)
+Jennings: Post Small Blind (20)
+Eldora: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 5d ]
+Dealt to Mudr0x [ 3h ]
+Mudr0x: Fold
+Jennings: Fold
+Eldora : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Jennings lost 20
+Eldora bet 40, collected 60, net +20
+Mudr0x didn't bet (folded) (showed hand) [ 5d 3h ] (high card five)
+
+-----------------------------------------------------
+
+Game #1012862 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:10:56.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #20 -- Seat 1 is the button
+Seat  1: Jennings  (625 in chips)
+Seat  3: Eldora  (110 in chips)
+Seat  5: Mudr0x  (765 in chips)
+Eldora: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 6d ]
+Dealt to Mudr0x [ Qs ]
+Jennings: Fold
+Eldora: Raise (60)
+Mudr0x: Fold
+Eldora : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 120 | Jennings didn't bet (folded)
+Eldora bet 80, collected 120, net +40
+Mudr0x lost 40 (showed hand) [ 6d Qs ] (high card queen)
+
+-----------------------------------------------------
+
+Game #1012863 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:11:02.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #21 -- Seat 3 is the button
+Seat  1: Jennings  (625 in chips)
+Seat  3: Eldora  (150 in chips)
+Seat  5: Mudr0x  (725 in chips)
+Mudr0x: Post Small Blind (20)
+Jennings: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 3h ]
+Dealt to Mudr0x [ 9s ]
+Eldora: Raise (110)
+Mudr0x: Fold
+Jennings: Call (70)
+*** FLOP *** : [ Qs 5c Qc ]
+Jennings: Check
+Eldora: Check
+*** TURN *** : [ Qs 5c Qc ] [ 7c ]
+Jennings: Check
+Eldora: Check
+*** RIVER *** : [ Qs 5c Qc 7c ] [ Kd ]
+Jennings: Check
+Eldora: Check
+*** SUMMARY ***
+Pot: 240 | Board: [ Qs 5c Qc 7c Kd ]
+Jennings bet 110, collected 240, net +130 (showed hand) [ Js 8s ] (a pair of queens)
+Eldora lost 110 (showed hand) [ 8d 2d ] (a pair of queens)
+Mudr0x lost 20 (showed hand) [ 3h 9s ] (a pair of queens)
+
+-----------------------------------------------------
+
+Game #1012864 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:11:16.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #22 -- Seat 5 is the button
+Seat  1: Jennings  (755 in chips)
+Seat  3: Eldora  (40 in chips)
+Seat  5: Mudr0x  (705 in chips)
+Jennings: Post Small Blind (20)
+Eldora: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 2d ]
+Dealt to Mudr0x [ 9s ]
+Mudr0x: Fold
+Jennings: Fold
+Eldora : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Jennings lost 20
+Eldora bet 40, collected 60, net +20
+Mudr0x didn't bet (folded) (showed hand) [ 2d 9s ] (high card nine)
+
+-----------------------------------------------------
+
+Game #1012865 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:11:21.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #23 -- Seat 1 is the button
+Seat  1: Jennings  (735 in chips)
+Seat  3: Eldora  (60 in chips)
+Seat  5: Mudr0x  (705 in chips)
+Eldora: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 8c ]
+Dealt to Mudr0x [ 2s ]
+Jennings: Fold
+Eldora: Raise (40)
+Mudr0x: Fold
+Eldora : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 100 | Jennings didn't bet (folded)
+Eldora bet 60, collected 100, net +40
+Mudr0x lost 40 (showed hand) [ 8c 2s ] (high card eight)
+
+-----------------------------------------------------
+
+Game #1012866 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:11:27.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #24 -- Seat 3 is the button
+Seat  1: Jennings  (735 in chips)
+Seat  3: Eldora  (100 in chips)
+Seat  5: Mudr0x  (665 in chips)
+Mudr0x: Post Small Blind (20)
+Jennings: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 6c ]
+Dealt to Mudr0x [ 8s ]
+Eldora: Fold
+Mudr0x: Fold
+Jennings : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Jennings bet 40, collected 60, net +20
+Eldora didn't bet (folded)
+Mudr0x lost 20 (showed hand) [ 6c 8s ] (high card eight)
+
+-----------------------------------------------------
+
+Game #1012867 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:11:32.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #25 -- Seat 5 is the button
+Seat  1: Jennings  (755 in chips)
+Seat  3: Eldora  (100 in chips)
+Seat  5: Mudr0x  (645 in chips)
+Jennings: Post Small Blind (30)
+Eldora: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 2c ]
+Dealt to Mudr0x [ 9s ]
+Mudr0x: Fold
+Jennings: Raise (70)
+Eldora: Fold
+Jennings : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 160 | Jennings bet 100, collected 160, net +60
+Eldora lost 60
+Mudr0x didn't bet (folded) (showed hand) [ 2c 9s ] (high card nine)
+
+-----------------------------------------------------
+
+Game #1012868 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:11:38.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #26 -- Seat 1 is the button
+Seat  1: Jennings  (815 in chips)
+Seat  3: Eldora  (40 in chips)
+Seat  5: Mudr0x  (645 in chips)
+Eldora: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 6c ]
+Dealt to Mudr0x [ 6d ]
+Jennings: Raise (170)
+Eldora: Call (10)
+Mudr0x: Raise (585)
+Jennings: Call (475)
+*** FLOP *** : [ 9h 2d Td ]
+*** TURN *** : [ 9h 2d Td ] [ 4c ]
+*** RIVER *** : [ 9h 2d Td 4c ] [ Jh ]
+*** SUMMARY ***
+Pot: 120 | Side pot 1: 1,210 | Board: [ 9h 2d Td 4c Jh ]
+Jennings bet 645, collected 1,210, net +565 (showed hand) [ Ah Ad ] (a pair of aces)
+Eldora bet 40, collected 120, net +80 (showed hand) [ Js Tc ] (two pair, jacks and tens)
+Mudr0x lost 645 (showed hand) [ 6c 6d ] (a pair of sixes)
+
+-----------------------------------------------------
+
+Game #1012869 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:11:52.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 1 is the button
+Seat  3: Mudr0x  (500 in chips)
+Seat  4: Saeward  (500 in chips)
+Seat 10: Leonor  (500 in chips)
+Mudr0x: Post Small Blind (10)
+Saeward: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Ts ]
+Dealt to Mudr0x [ 6c ]
+Leonor: Fold
+Mudr0x: Fold
+Saeward : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x lost 10 (showed hand) [ Ts 6c ] (high card ten)
+Saeward bet 20, collected 30, net +10
+Leonor didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012870 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:11:57.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 3 is the button
+Seat  3: Mudr0x  (490 in chips)
+Seat  4: Saeward  (510 in chips)
+Seat 10: Leonor  (500 in chips)
+Saeward: Post Small Blind (10)
+Leonor: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ 9s ]
+Mudr0x: Raise (50)
+Saeward: Fold
+Leonor: Call (30)
+*** FLOP *** : [ Jc Kh 4d ]
+Leonor: Bet (60)
+Mudr0x: Fold
+Leonor : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 170 | Board: [ Jc Kh 4d ]
+Mudr0x lost 50 (showed hand) [ Td 9s ] (high card king)
+Saeward lost 10
+Leonor bet 110, collected 170, net +60
+
+-----------------------------------------------------
+
+Game #1012871 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:12:09.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 4 is the button
+Seat  3: Mudr0x  (440 in chips)
+Seat  4: Saeward  (500 in chips)
+Seat 10: Leonor  (560 in chips)
+Leonor: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7d ]
+Dealt to Mudr0x [ Ks ]
+Saeward: Fold
+Leonor: Raise (70)
+Mudr0x: Fold
+Leonor : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 100 | Mudr0x lost 20 (showed hand) [ 7d Ks ] (high card king)
+Saeward didn't bet (folded)
+Leonor bet 80, collected 100, net +20
+
+-----------------------------------------------------
+
+Game #1012872 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:12:15.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 1 is the button
+Seat  3: Mudr0x  (420 in chips)
+Seat  4: Saeward  (500 in chips)
+Seat 10: Leonor  (580 in chips)
+Mudr0x: Post Small Blind (10)
+Saeward: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 6h ]
+Dealt to Mudr0x [ Ts ]
+Leonor: Raise (95)
+Mudr0x: Fold
+Saeward: Fold
+Leonor : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 125 | Mudr0x lost 10 (showed hand) [ 6h Ts ] (high card ten)
+Saeward lost 20
+Leonor bet 95, collected 125, net +30
+
+-----------------------------------------------------
+
+Game #1012873 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:12:21.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 3 is the button
+Seat  3: Mudr0x  (410 in chips)
+Seat  4: Saeward  (480 in chips)
+Seat 10: Leonor  (610 in chips)
+Saeward: Post Small Blind (10)
+Leonor: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Jd ]
+Dealt to Mudr0x [ Kd ]
+Mudr0x: Raise (50)
+Saeward: Fold
+Leonor: Call (30)
+*** FLOP *** : [ 4h Kc 6c ]
+Leonor: Check
+Mudr0x: Bet (80)
+Leonor: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 190 | Board: [ 4h Kc 6c ]
+Mudr0x bet 130, collected 190, net +60 (showed hand) [ Jd Kd ] (a pair of kings)
+Saeward lost 10
+Leonor lost 50
+
+-----------------------------------------------------
+
+Game #1012874 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:12:38.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #6 -- Seat 4 is the button
+Seat  3: Mudr0x  (470 in chips)
+Seat  4: Saeward  (470 in chips)
+Seat 10: Leonor  (560 in chips)
+Leonor: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Qd ]
+Dealt to Mudr0x [ 8h ]
+Saeward: Fold
+Leonor: Raise (70)
+Mudr0x: Fold
+Leonor : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 100 | Mudr0x lost 20 (showed hand) [ Qd 8h ] (high card queen)
+Saeward didn't bet (folded)
+Leonor bet 80, collected 100, net +20
+
+-----------------------------------------------------
+
+Game #1012875 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:12:44.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #7 -- Seat 1 is the button
+Seat  3: Mudr0x  (450 in chips)
+Seat  4: Saeward  (470 in chips)
+Seat 10: Leonor  (580 in chips)
+Mudr0x: Post Small Blind (10)
+Saeward: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 3c ]
+Dealt to Mudr0x [ 9h ]
+Leonor: Raise (90)
+Mudr0x: Fold
+Saeward: Fold
+Leonor : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 120 | Mudr0x lost 10 (showed hand) [ 3c 9h ] (high card nine)
+Saeward lost 20
+Leonor bet 90, collected 120, net +30
+
+-----------------------------------------------------
+
+Game #1012876 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:12:50.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #8 -- Seat 3 is the button
+Seat  3: Mudr0x  (440 in chips)
+Seat  4: Saeward  (450 in chips)
+Seat 10: Leonor  (610 in chips)
+Saeward: Post Small Blind (10)
+Leonor: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 2s ]
+Dealt to Mudr0x [ 4s ]
+Mudr0x: Fold
+Saeward: Raise (70)
+Leonor: Call (60)
+*** FLOP *** : [ Jd Ac 5s ]
+Saeward: Bet (160)
+Leonor: Call (160)
+*** TURN *** : [ Jd Ac 5s ] [ 5c ]
+Saeward: Bet (210)
+Leonor: Call (210)
+*** RIVER *** : [ Jd Ac 5s 5c ] [ 9d ]
+*** SUMMARY ***
+Pot: 900 | Board: [ Jd Ac 5s 5c 9d ]
+Mudr0x didn't bet (folded) (showed hand) [ 2s 4s ] (a pair of fives)
+Saeward bet 450, collected 900, net +450 (showed hand) [ As Js ] (two pair, aces and jacks)
+Leonor lost 450 (showed hand) [ 6s Qc ] (a pair of fives)
+
+-----------------------------------------------------
+
+Game #1012877 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:13:03.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #9 -- Seat 4 is the button
+Seat  3: Mudr0x  (440 in chips)
+Seat  4: Saeward  (900 in chips)
+Seat 10: Leonor  (160 in chips)
+Leonor: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 5h ]
+Dealt to Mudr0x [ 3c ]
+Saeward: Fold
+Leonor: Raise (55)
+Mudr0x: Fold
+Leonor : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 100 | Mudr0x lost 30 (showed hand) [ 5h 3c ] (high card five)
+Saeward didn't bet (folded)
+Leonor bet 70, collected 100, net +30
+
+-----------------------------------------------------
+
+Game #1012878 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:13:09.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #10 -- Seat 1 is the button
+Seat  3: Mudr0x  (410 in chips)
+Seat  4: Saeward  (900 in chips)
+Seat 10: Leonor  (190 in chips)
+Mudr0x: Post Small Blind (15)
+Saeward: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 9c ]
+Dealt to Mudr0x [ As ]
+Leonor: Raise (145)
+Mudr0x: Raise (395)
+Saeward: Fold
+Leonor: Call (45)
+*** FLOP *** : [ 6s 4d Jd ]
+*** TURN *** : [ 6s 4d Jd ] [ 4h ]
+*** RIVER *** : [ 6s 4d Jd 4h ] [ 2d ]
+*** SUMMARY ***
+Pot: 410 | Board: [ 6s 4d Jd 4h 2d ]
+Mudr0x lost 190 (showed hand) [ 9c As ] (a pair of fours)
+Saeward lost 30
+Leonor bet 190, collected 410, net +220 (showed hand) [ Kc Ks ] (two pair, kings and fours)
+
+-----------------------------------------------------
+
+Game #1012879 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:13:21.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #11 -- Seat 3 is the button
+Seat  3: Mudr0x  (220 in chips)
+Seat  4: Saeward  (870 in chips)
+Seat 10: Leonor  (410 in chips)
+Saeward: Post Small Blind (15)
+Leonor: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Kc ]
+Dealt to Mudr0x [ 4d ]
+Mudr0x: Fold
+Saeward: Fold
+Leonor : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Mudr0x didn't bet (folded) (showed hand) [ Kc 4d ] (high card king)
+Saeward lost 15
+Leonor bet 30, collected 45, net +15
+
+-----------------------------------------------------
+
+Game #1012880 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:13:25.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #12 -- Seat 4 is the button
+Seat  3: Mudr0x  (220 in chips)
+Seat  4: Saeward  (855 in chips)
+Seat 10: Leonor  (425 in chips)
+Leonor: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Qh ]
+Dealt to Mudr0x [ 8c ]
+Saeward: Fold
+Leonor: Raise (45)
+Mudr0x: Raise (190)
+Leonor: Call (160)
+*** FLOP *** : [ Jd Td Jc ]
+*** TURN *** : [ Jd Td Jc ] [ 5s ]
+*** RIVER *** : [ Jd Td Jc 5s ] [ 2d ]
+*** SUMMARY ***
+Pot: 440 | Board: [ Jd Td Jc 5s 2d ]
+Mudr0x lost 220 (showed hand) [ Qh 8c ] (a pair of jacks)
+Saeward didn't bet (folded)
+Leonor bet 220, collected 440, net +220 (showed hand) [ 2s 9s ] (two pair, jacks and twos)
+
+-----------------------------------------------------
+
+Game #1012881 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:13:40.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 7 is the button
+Seat  2: Stanley  (500 in chips)
+Seat  7: Janine  (500 in chips)
+Seat  9: Mudr0x  (500 in chips)
+Mudr0x: Post Small Blind (10)
+Stanley: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 3c ]
+Dealt to Mudr0x [ 6h ]
+Janine: Fold
+Mudr0x: Fold
+Stanley : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Stanley bet 20, collected 30, net +10
+Janine didn't bet (folded)
+Mudr0x lost 10 (showed hand) [ 3c 6h ] (high card six)
+
+-----------------------------------------------------
+
+Game #1012882 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:13:46.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 9 is the button
+Seat  2: Stanley  (510 in chips)
+Seat  7: Janine  (500 in chips)
+Seat  9: Mudr0x  (490 in chips)
+Stanley: Post Small Blind (10)
+Janine: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 9c ]
+Dealt to Mudr0x [ 4d ]
+Mudr0x: Fold
+Stanley: Fold
+Janine : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Stanley lost 10
+Janine bet 20, collected 30, net +10
+Mudr0x didn't bet (folded) (showed hand) [ 9c 4d ] (high card nine)
+
+-----------------------------------------------------
+
+Game #1012883 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:13:51.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 2 is the button
+Seat  2: Stanley  (500 in chips)
+Seat  7: Janine  (510 in chips)
+Seat  9: Mudr0x  (490 in chips)
+Janine: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 5h ]
+Dealt to Mudr0x [ Kd ]
+Stanley: Fold
+Janine: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Stanley didn't bet (folded)
+Janine lost 10
+Mudr0x bet 20, collected 30, net +10 (showed hand) [ 5h Kd ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012884 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:13:57.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 7 is the button
+Seat  2: Stanley  (500 in chips)
+Seat  7: Janine  (500 in chips)
+Seat  9: Mudr0x  (500 in chips)
+Mudr0x: Post Small Blind (10)
+Stanley: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 8s ]
+Dealt to Mudr0x [ Jh ]
+Janine: Fold
+Mudr0x: Call (10)
+Stanley: Check
+*** FLOP *** : [ Js Qc 7c ]
+Mudr0x: Bet (30)
+Stanley: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 70 | Board: [ Js Qc 7c ]
+Stanley lost 20
+Janine didn't bet (folded)
+Mudr0x bet 50, collected 70, net +20 (showed hand) [ 8s Jh ] (a pair of jacks)
+
+-----------------------------------------------------
+
+Game #1012885 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:14:10.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 9 is the button
+Seat  2: Stanley  (480 in chips)
+Seat  7: Janine  (500 in chips)
+Seat  9: Mudr0x  (520 in chips)
+Stanley: Post Small Blind (10)
+Janine: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 3c ]
+Dealt to Mudr0x [ 8h ]
+Mudr0x: Fold
+Stanley: Call (10)
+Janine: Check
+*** FLOP *** : [ Qd Ad Ts ]
+Stanley: Check
+Janine: Check
+*** TURN *** : [ Qd Ad Ts ] [ As ]
+Stanley: Check
+Janine: Check
+*** RIVER *** : [ Qd Ad Ts As ] [ 5c ]
+Stanley: Bet (460)
+Janine: Fold
+Stanley : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 500 | Board: [ Qd Ad Ts As 5c ]
+Stanley bet 480, collected 500, net +20
+Janine lost 20
+Mudr0x didn't bet (folded) (showed hand) [ 3c 8h ] (a pair of aces)
+
+-----------------------------------------------------
+
+Game #1012886 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:14:25.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #6 -- Seat 2 is the button
+Seat  2: Stanley  (500 in chips)
+Seat  7: Janine  (480 in chips)
+Seat  9: Mudr0x  (520 in chips)
+Janine: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ 9d ]
+Stanley: Raise (80)
+Janine: Raise (160)
+Mudr0x: Fold
+Stanley: Call (90)
+*** FLOP *** : [ Qd Ac 6d ]
+Janine: Check
+Stanley: Bet (310)
+Janine: Call (310)
+*** TURN *** : [ Qd Ac 6d ] [ 4c ]
+*** RIVER *** : [ Qd Ac 6d 4c ] [ Jh ]
+*** SUMMARY ***
+Pot: 980 | Board: [ Qd Ac 6d 4c Jh ]
+Stanley bet 480, collected 980, net +500 (showed hand) [ Ts Ks ] (a straight, ten to ace)
+Janine lost 480 (showed hand) [ Jd Kc ] (a pair of jacks)
+Mudr0x lost 20 (showed hand) [ Td 9d ] (high card ace)
+
+-----------------------------------------------------
+
+Game #1012887 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:14:38.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #7 -- Seat 9 is the button
+Seat  2: Stanley  (1,000 in chips)
+Seat  9: Mudr0x  (500 in chips)
+Mudr0x: Post Small Blind (10)
+Stanley: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 5c ]
+Dealt to Mudr0x [ 7d ]
+Mudr0x: Fold
+Stanley : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Stanley bet 20, collected 30, net +10
+Mudr0x lost 10 (showed hand) [ 5c 7d ] (high card seven)
+
+-----------------------------------------------------
+
+Game #1012888 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:14:42.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #8 -- Seat 2 is the button
+Seat  2: Stanley  (1,010 in chips)
+Seat  9: Mudr0x  (490 in chips)
+Stanley: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Ac ]
+Dealt to Mudr0x [ Qc ]
+Stanley: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Stanley lost 10
+Mudr0x bet 20, collected 30, net +10 (showed hand) [ Ac Qc ] (high card ace)
+
+-----------------------------------------------------
+
+Game #1012889 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:14:47.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #9 -- Seat 9 is the button
+Seat  2: Stanley  (1,000 in chips)
+Seat  9: Mudr0x  (500 in chips)
+Mudr0x: Post Small Blind (15)
+Stanley: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 6s ]
+Dealt to Mudr0x [ Ts ]
+Mudr0x: Fold
+Stanley : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Stanley bet 30, collected 45, net +15
+Mudr0x lost 15 (showed hand) [ 6s Ts ] (high card ten)
+
+-----------------------------------------------------
+
+Game #1012890 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:14:51.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #10 -- Seat 2 is the button
+Seat  2: Stanley  (1,015 in chips)
+Seat  9: Mudr0x  (485 in chips)
+Stanley: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Tc ]
+Dealt to Mudr0x [ Qh ]
+Stanley: Raise (105)
+Mudr0x: Call (90)
+*** FLOP *** : [ Jd Qs 3c ]
+Mudr0x: Check
+Stanley: Bet (180)
+Mudr0x: Raise (365)
+Stanley: Call (185)
+*** TURN *** : [ Jd Qs 3c ] [ 4h ]
+*** RIVER *** : [ Jd Qs 3c 4h ] [ Jh ]
+*** SUMMARY ***
+Pot: 970 | Board: [ Jd Qs 3c 4h Jh ]
+Stanley lost 485 (showed hand) [ Td 9d ] (a pair of jacks)
+Mudr0x bet 485, collected 970, net +485 (showed hand) [ Tc Qh ] (two pair, queens and jacks)
+
+-----------------------------------------------------
+
+Game #1012891 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:15:07.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #11 -- Seat 9 is the button
+Seat  2: Stanley  (530 in chips)
+Seat  9: Mudr0x  (970 in chips)
+Mudr0x: Post Small Blind (15)
+Stanley: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 5c ]
+Dealt to Mudr0x [ 6h ]
+Mudr0x: Fold
+Stanley : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Stanley bet 30, collected 45, net +15
+Mudr0x lost 15 (showed hand) [ 5c 6h ] (high card six)
+
+-----------------------------------------------------
+
+Game #1012892 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:15:11.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #12 -- Seat 2 is the button
+Seat  2: Stanley  (545 in chips)
+Seat  9: Mudr0x  (955 in chips)
+Stanley: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 7d ]
+Dealt to Mudr0x [ Ac ]
+Stanley: Raise (105)
+Mudr0x: Call (90)
+*** FLOP *** : [ 2s 6s Kc ]
+Mudr0x: Bet (425)
+Stanley: Call (425)
+*** TURN *** : [ 2s 6s Kc ] [ Qc ]
+*** RIVER *** : [ 2s 6s Kc Qc ] [ 5h ]
+*** SUMMARY ***
+Pot: 1,090 | Board: [ 2s 6s Kc Qc 5h ]
+Stanley bet 545, collected 1,090, net +545 (showed hand) [ 5c 6c ] (two pair, sixes and fives)
+Mudr0x lost 545 (showed hand) [ 7d Ac ] (high card ace)
+
+-----------------------------------------------------
+
+Game #1012893 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:15:24.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #13 -- Seat 9 is the button
+Seat  2: Stanley  (1,090 in chips)
+Seat  9: Mudr0x  (410 in chips)
+Mudr0x: Post Small Blind (15)
+Stanley: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Th ]
+Dealt to Mudr0x [ 5h ]
+Mudr0x: Fold
+Stanley : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Stanley bet 30, collected 45, net +15
+Mudr0x lost 15 (showed hand) [ Th 5h ] (high card ten)
+
+-----------------------------------------------------
+
+Game #1012894 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:15:28.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #14 -- Seat 2 is the button
+Seat  2: Stanley  (1,105 in chips)
+Seat  9: Mudr0x  (395 in chips)
+Stanley: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 2s ]
+Dealt to Mudr0x [ 9s ]
+Stanley: Raise (105)
+Mudr0x: Fold
+Stanley : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 150 | Stanley bet 120, collected 150, net +30
+Mudr0x lost 30 (showed hand) [ 2s 9s ] (high card nine)
+
+-----------------------------------------------------
+
+Game #1012895 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:15:33.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #15 -- Seat 9 is the button
+Seat  2: Stanley  (1,135 in chips)
+Seat  9: Mudr0x  (365 in chips)
+Mudr0x: Post Small Blind (15)
+Stanley: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Ts ]
+Dealt to Mudr0x [ 5c ]
+Mudr0x: Fold
+Stanley : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Stanley bet 30, collected 45, net +15
+Mudr0x lost 15 (showed hand) [ Ts 5c ] (high card ten)
+
+-----------------------------------------------------
+
+Game #1012896 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:15:36.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #16 -- Seat 2 is the button
+Seat  2: Stanley  (1,150 in chips)
+Seat  9: Mudr0x  (350 in chips)
+Stanley: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 9s ]
+Dealt to Mudr0x [ 5s ]
+Stanley: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Stanley lost 15
+Mudr0x bet 30, collected 45, net +15 (showed hand) [ 9s 5s ] (high card nine)
+
+-----------------------------------------------------
+
+Game #1012897 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:15:41.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #17 -- Seat 9 is the button
+Seat  2: Stanley  (1,135 in chips)
+Seat  9: Mudr0x  (365 in chips)
+Mudr0x: Post Small Blind (20)
+Stanley: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 5c ]
+Dealt to Mudr0x [ Qh ]
+Mudr0x: Raise (345)
+Stanley: Call (325)
+*** FLOP *** : [ Jd 7d Ac ]
+*** TURN *** : [ Jd 7d Ac ] [ 4s ]
+*** RIVER *** : [ Jd 7d Ac 4s ] [ 3h ]
+*** SUMMARY ***
+Pot: 730 | Board: [ Jd 7d Ac 4s 3h ]
+Stanley bet 365, collected 730, net +365 (showed hand) [ Ks Ad ] (a pair of aces)
+Mudr0x lost 365 (showed hand) [ 5c Qh ] (high card ace)
+
+-----------------------------------------------------
+
+Game #1012898 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:15:53.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 4 is the button
+Seat  1: Oakley  (500 in chips)
+Seat  3: Mudr0x  (500 in chips)
+Seat  4: Anais  (500 in chips)
+Oakley: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Ah ]
+Dealt to Mudr0x [ 2h ]
+Anais: Raise (95)
+Oakley: Fold
+Mudr0x: Fold
+Anais : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 125 | Oakley lost 10
+Mudr0x lost 20 (showed hand) [ Ah 2h ] (high card ace)
+Anais bet 95, collected 125, net +30
+
+-----------------------------------------------------
+
+Game #1012899 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:15:59.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 1 is the button
+Seat  1: Oakley  (490 in chips)
+Seat  3: Mudr0x  (480 in chips)
+Seat  4: Anais  (530 in chips)
+Mudr0x: Post Small Blind (10)
+Anais: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7h ]
+Dealt to Mudr0x [ 7d ]
+Oakley: Raise (80)
+Mudr0x: Raise (470)
+Anais: Fold
+Oakley: Call (400)
+*** FLOP *** : [ 8h Ts 8c ]
+*** TURN *** : [ 8h Ts 8c ] [ Qc ]
+*** RIVER *** : [ 8h Ts 8c Qc ] [ As ]
+*** SUMMARY ***
+Pot: 980 | Board: [ 8h Ts 8c Qc As ]
+Oakley bet 480, collected 980, net +500 (showed hand) [ Ad 3d ] (two pair, aces and eights)
+Mudr0x lost 480 (showed hand) [ 7h 7d ] (two pair, eights and sevens)
+Anais lost 20
+
+-----------------------------------------------------
+
+Game #1012900 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:16:14.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 1 is the button
+Seat  1: Mudr0x  (500 in chips)
+Seat  5: Fermin  (500 in chips)
+Seat  7: Shannon  (500 in chips)
+Fermin: Post Small Blind (10)
+Shannon: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Tc ]
+Dealt to Mudr0x [ Kc ]
+Mudr0x: Raise (50)
+Fermin: Call (40)
+Shannon: Fold
+*** FLOP *** : [ 9s 2s Ts ]
+Fermin: Bet (65)
+Mudr0x: Call (65)
+*** TURN *** : [ 9s 2s Ts ] [ Qd ]
+Fermin: Check
+Mudr0x: Check
+*** RIVER *** : [ 9s 2s Ts Qd ] [ 6s ]
+Fermin: Check
+Mudr0x: Check
+*** SUMMARY ***
+Pot: 250 | Board: [ 9s 2s Ts Qd 6s ]
+Mudr0x lost 115 (showed hand) [ Tc Kc ] (a pair of tens)
+Fermin bet 115, collected 250, net +135 (showed hand) [ Td 6h ] (two pair, tens and sixes)
+Shannon lost 20
+
+-----------------------------------------------------
+
+Game #1012901 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:16:35.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 5 is the button
+Seat  1: Mudr0x  (385 in chips)
+Seat  5: Fermin  (635 in chips)
+Seat  7: Shannon  (480 in chips)
+Shannon: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 9c ]
+Dealt to Mudr0x [ 3h ]
+Fermin: Raise (95)
+Shannon: Fold
+Mudr0x: Fold
+Fermin : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 125 | Mudr0x lost 20 (showed hand) [ 9c 3h ] (high card nine)
+Fermin bet 95, collected 125, net +30
+Shannon lost 10
+
+-----------------------------------------------------
+
+Game #1012902 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:16:41.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 7 is the button
+Seat  1: Mudr0x  (365 in chips)
+Seat  5: Fermin  (665 in chips)
+Seat  7: Shannon  (470 in chips)
+Mudr0x: Post Small Blind (10)
+Fermin: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7d ]
+Dealt to Mudr0x [ Qc ]
+Shannon: Fold
+Mudr0x: Fold
+Fermin : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x lost 10 (showed hand) [ 7d Qc ] (high card queen)
+Fermin bet 20, collected 30, net +10
+Shannon didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012903 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:16:46.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 1 is the button
+Seat  1: Mudr0x  (355 in chips)
+Seat  5: Fermin  (675 in chips)
+Seat  7: Shannon  (470 in chips)
+Fermin: Post Small Blind (10)
+Shannon: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ As ]
+Dealt to Mudr0x [ 9c ]
+Mudr0x: Raise (50)
+Fermin: Call (40)
+Shannon: Call (30)
+*** FLOP *** : [ 9s Ks 5s ]
+Fermin: Check
+Shannon: Check
+Mudr0x: Bet (90)
+Fermin: Fold
+Shannon: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 240 | Board: [ 9s Ks 5s ]
+Mudr0x bet 140, collected 240, net +100 (showed hand) [ As 9c ] (a pair of nines)
+Fermin lost 50
+Shannon lost 50
+
+-----------------------------------------------------
+
+Game #1012904 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:17:05.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 5 is the button
+Seat  1: Mudr0x  (455 in chips)
+Seat  5: Fermin  (625 in chips)
+Seat  7: Shannon  (420 in chips)
+Shannon: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 8s ]
+Dealt to Mudr0x [ 3s ]
+Fermin: Fold
+Shannon: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x bet 20, collected 30, net +10 (showed hand) [ 8s 3s ] (high card eight)
+Fermin didn't bet (folded)
+Shannon lost 10
+
+-----------------------------------------------------
+
+Game #1012905 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:17:11.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #6 -- Seat 7 is the button
+Seat  1: Mudr0x  (465 in chips)
+Seat  5: Fermin  (625 in chips)
+Seat  7: Shannon  (410 in chips)
+Mudr0x: Post Small Blind (10)
+Fermin: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Tc ]
+Dealt to Mudr0x [ 2h ]
+Shannon: Fold
+Mudr0x: Fold
+Fermin : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x lost 10 (showed hand) [ Tc 2h ] (high card ten)
+Fermin bet 20, collected 30, net +10
+Shannon didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012906 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:17:16.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #7 -- Seat 1 is the button
+Seat  1: Mudr0x  (455 in chips)
+Seat  5: Fermin  (635 in chips)
+Seat  7: Shannon  (410 in chips)
+Fermin: Post Small Blind (10)
+Shannon: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Qh ]
+Dealt to Mudr0x [ 5h ]
+Mudr0x: Fold
+Fermin: Raise (70)
+Shannon: Call (60)
+*** FLOP *** : [ 4s Qc 8c ]
+Fermin: Bet (145)
+Shannon: Fold
+Fermin : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 305 | Board: [ 4s Qc 8c ]
+Mudr0x didn't bet (folded) (showed hand) [ Qh 5h ] (a pair of queens)
+Fermin bet 225, collected 305, net +80
+Shannon lost 80
+
+-----------------------------------------------------
+
+Game #1012907 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:17:26.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #8 -- Seat 5 is the button
+Seat  1: Mudr0x  (455 in chips)
+Seat  5: Fermin  (715 in chips)
+Seat  7: Shannon  (330 in chips)
+Shannon: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7d ]
+Dealt to Mudr0x [ As ]
+Fermin: Raise (55)
+Shannon: Fold
+Mudr0x: Raise (435)
+Fermin: Call (400)
+*** FLOP *** : [ 2s Kd 5s ]
+*** TURN *** : [ 2s Kd 5s ] [ 7h ]
+*** RIVER *** : [ 2s Kd 5s 7h ] [ 3h ]
+*** SUMMARY ***
+Pot: 920 | Board: [ 2s Kd 5s 7h 3h ]
+Mudr0x bet 455, collected 920, net +465 (showed hand) [ 7d As ] (a pair of sevens)
+Fermin lost 455 (showed hand) [ Jc Th ] (high card king)
+Shannon lost 10
+
+-----------------------------------------------------
+
+Game #1012908 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:17:38.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #9 -- Seat 7 is the button
+Seat  1: Mudr0x  (920 in chips)
+Seat  5: Fermin  (260 in chips)
+Seat  7: Shannon  (320 in chips)
+Mudr0x: Post Small Blind (15)
+Fermin: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 9d ]
+Dealt to Mudr0x [ 8s ]
+Shannon: Fold
+Mudr0x: Fold
+Fermin : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Mudr0x lost 15 (showed hand) [ 9d 8s ] (high card nine)
+Fermin bet 30, collected 45, net +15
+Shannon didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012909 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:17:43.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #10 -- Seat 1 is the button
+Seat  1: Mudr0x  (905 in chips)
+Seat  5: Fermin  (275 in chips)
+Seat  7: Shannon  (320 in chips)
+Fermin: Post Small Blind (15)
+Shannon: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 7h ]
+Dealt to Mudr0x [ 6d ]
+Mudr0x: Fold
+Fermin: Raise (50)
+Shannon: Fold
+Fermin : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 95 | Mudr0x didn't bet (folded) (showed hand) [ 7h 6d ] (high card seven)
+Fermin bet 65, collected 95, net +30
+Shannon lost 30
+
+-----------------------------------------------------
+
+Game #1012910 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:17:49.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #11 -- Seat 5 is the button
+Seat  1: Mudr0x  (905 in chips)
+Seat  5: Fermin  (305 in chips)
+Seat  7: Shannon  (290 in chips)
+Shannon: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Qh ]
+Dealt to Mudr0x [ 9d ]
+Fermin: Raise (75)
+Shannon: Fold
+Mudr0x: Fold
+Fermin : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 120 | Mudr0x lost 30 (showed hand) [ Qh 9d ] (high card queen)
+Fermin bet 75, collected 120, net +45
+Shannon lost 15
+
+-----------------------------------------------------
+
+Game #1012911 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:17:56.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #12 -- Seat 7 is the button
+Seat  1: Mudr0x  (875 in chips)
+Seat  5: Fermin  (350 in chips)
+Seat  7: Shannon  (275 in chips)
+Mudr0x: Post Small Blind (15)
+Fermin: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Ks ]
+Dealt to Mudr0x [ Qc ]
+Shannon: Fold
+Mudr0x: Raise (335)
+Fermin: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 380 | Mudr0x bet 350, collected 380, net +30 (showed hand) [ Ks Qc ] (high card king)
+Fermin lost 30
+Shannon didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012912 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:18:03.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #13 -- Seat 1 is the button
+Seat  1: Mudr0x  (905 in chips)
+Seat  5: Fermin  (320 in chips)
+Seat  7: Shannon  (275 in chips)
+Fermin: Post Small Blind (15)
+Shannon: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Th ]
+Dealt to Mudr0x [ 4c ]
+Mudr0x: Fold
+Fermin: Raise (55)
+Shannon: Raise (130)
+Fermin: Call (90)
+*** FLOP *** : [ 7h Jc Ad ]
+Fermin: Check
+Shannon: Bet (115)
+Fermin: Call (115)
+*** TURN *** : [ 7h Jc Ad ] [ 3d ]
+*** RIVER *** : [ 7h Jc Ad 3d ] [ 9c ]
+*** SUMMARY ***
+Pot: 550 | Board: [ 7h Jc Ad 3d 9c ]
+Mudr0x didn't bet (folded) (showed hand) [ Th 4c ] (high card ace)
+Fermin lost 275 (showed hand) [ 4s Qh ] (high card ace)
+Shannon bet 275, collected 550, net +275 (showed hand) [ Qd Qc ] (a pair of queens)
+
+-----------------------------------------------------
+
+Game #1012913 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:18:16.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #14 -- Seat 5 is the button
+Seat  1: Mudr0x  (905 in chips)
+Seat  5: Fermin  (45 in chips)
+Seat  7: Shannon  (550 in chips)
+Shannon: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ 6d ]
+Fermin: Raise (45)
+Shannon: Fold
+Mudr0x: Fold
+Fermin : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 90 | Mudr0x lost 30 (showed hand) [ Td 6d ] (high card ten)
+Fermin bet 45, collected 90, net +45
+Shannon lost 15
+
+-----------------------------------------------------
+
+Game #1012914 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:18:21.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #15 -- Seat 7 is the button
+Seat  1: Mudr0x  (875 in chips)
+Seat  5: Fermin  (90 in chips)
+Seat  7: Shannon  (535 in chips)
+Mudr0x: Post Small Blind (15)
+Fermin: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 6s ]
+Dealt to Mudr0x [ Ts ]
+Shannon: Fold
+Mudr0x: Fold
+Fermin : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Mudr0x lost 15 (showed hand) [ 6s Ts ] (high card ten)
+Fermin bet 30, collected 45, net +15
+Shannon didn't bet (folded)
+
+-----------------------------------------------------
+
+Game #1012915 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:18:26.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #16 -- Seat 1 is the button
+Seat  1: Mudr0x  (860 in chips)
+Seat  5: Fermin  (105 in chips)
+Seat  7: Shannon  (535 in chips)
+Fermin: Post Small Blind (15)
+Shannon: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 5d ]
+Dealt to Mudr0x [ Ts ]
+Mudr0x: Fold
+Fermin: Raise (55)
+Shannon: Call (40)
+*** FLOP *** : [ Kc Td Qh ]
+Fermin: Bet (35)
+Shannon: Call (35)
+*** TURN *** : [ Kc Td Qh ] [ 7c ]
+*** RIVER *** : [ Kc Td Qh 7c ] [ 7d ]
+*** SUMMARY ***
+Pot: 210 | Board: [ Kc Td Qh 7c 7d ]
+Mudr0x didn't bet (folded) (showed hand) [ 5d Ts ] (two pair, tens and sevens)
+Fermin bet 105, collected 210, net +105 (showed hand) [ 8h Kh ] (two pair, kings and sevens)
+Shannon lost 105 (showed hand) [ 9c 5c ] (a pair of sevens)
+
+-----------------------------------------------------
+
+Game #1012916 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:18:37.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #17 -- Seat 5 is the button
+Seat  1: Mudr0x  (860 in chips)
+Seat  5: Fermin  (210 in chips)
+Seat  7: Shannon  (430 in chips)
+Shannon: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 6d ]
+Dealt to Mudr0x [ 4s ]
+Fermin: Raise (110)
+Shannon: Raise (210)
+Mudr0x: Fold
+Fermin: Call (100)
+*** FLOP *** : [ Kd 6s 8c ]
+*** TURN *** : [ Kd 6s 8c ] [ Qc ]
+*** RIVER *** : [ Kd 6s 8c Qc ] [ 5d ]
+*** SUMMARY ***
+Pot: 460 | Board: [ Kd 6s 8c Qc 5d ]
+Mudr0x lost 40 (showed hand) [ 6d 4s ] (a pair of sixes)
+Fermin lost 210 (showed hand) [ Tc 9s ] (high card king)
+Shannon bet 230, collected 480, net +250 (showed hand) [ 7s 7d ] (a pair of sevens)
+
+-----------------------------------------------------
+
+Game #1012917 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:18:47.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #18 -- Seat 1 is the button
+Seat  1: Mudr0x  (820 in chips)
+Seat  7: Shannon  (680 in chips)
+Mudr0x: Post Small Blind (20)
+Shannon: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 3c ]
+Dealt to Mudr0x [ 9s ]
+Mudr0x: Fold
+Shannon : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Mudr0x lost 20 (showed hand) [ 3c 9s ] (high card nine)
+Shannon bet 40, collected 60, net +20
+
+-----------------------------------------------------
+
+Game #1012918 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:18:50.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #19 -- Seat 7 is the button
+Seat  1: Mudr0x  (800 in chips)
+Seat  7: Shannon  (700 in chips)
+Shannon: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 7d ]
+Dealt to Mudr0x [ 4d ]
+Shannon: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Mudr0x bet 40, collected 60, net +20 (showed hand) [ 7d 4d ] (high card seven)
+Shannon lost 20
+
+-----------------------------------------------------
+
+Game #1012919 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:18:55.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #20 -- Seat 1 is the button
+Seat  1: Mudr0x  (820 in chips)
+Seat  7: Shannon  (680 in chips)
+Mudr0x: Post Small Blind (20)
+Shannon: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 9s ]
+Dealt to Mudr0x [ 5s ]
+Mudr0x: Fold
+Shannon : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Mudr0x lost 20 (showed hand) [ 9s 5s ] (high card nine)
+Shannon bet 40, collected 60, net +20
+
+-----------------------------------------------------
+
+Game #1012920 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:18:59.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #21 -- Seat 7 is the button
+Seat  1: Mudr0x  (800 in chips)
+Seat  7: Shannon  (700 in chips)
+Shannon: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 2s ]
+Dealt to Mudr0x [ 9d ]
+Shannon: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Mudr0x bet 40, collected 60, net +20 (showed hand) [ 2s 9d ] (high card nine)
+Shannon lost 20
+
+-----------------------------------------------------
+
+Game #1012921 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:19:04.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #22 -- Seat 1 is the button
+Seat  1: Mudr0x  (820 in chips)
+Seat  7: Shannon  (680 in chips)
+Mudr0x: Post Small Blind (20)
+Shannon: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 2s ]
+Dealt to Mudr0x [ Ad ]
+Mudr0x: Raise (140)
+Shannon: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 200 | Mudr0x bet 160, collected 200, net +40 (showed hand) [ 2s Ad ] (high card ace)
+Shannon lost 40
+
+-----------------------------------------------------
+
+Game #1012922 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:19:12.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #23 -- Seat 7 is the button
+Seat  1: Mudr0x  (860 in chips)
+Seat  7: Shannon  (640 in chips)
+Shannon: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 3d ]
+Dealt to Mudr0x [ 5d ]
+Shannon: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Mudr0x bet 40, collected 60, net +20 (showed hand) [ 3d 5d ] (high card five)
+Shannon lost 20
+
+-----------------------------------------------------
+
+Game #1012923 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:19:17.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #24 -- Seat 1 is the button
+Seat  1: Mudr0x  (880 in chips)
+Seat  7: Shannon  (620 in chips)
+Mudr0x: Post Small Blind (20)
+Shannon: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 8s ]
+Dealt to Mudr0x [ 3d ]
+Mudr0x: Fold
+Shannon : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Mudr0x lost 20 (showed hand) [ 8s 3d ] (high card eight)
+Shannon bet 40, collected 60, net +20
+
+-----------------------------------------------------
+
+Game #1012924 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:19:21.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #25 -- Seat 7 is the button
+Seat  1: Mudr0x  (860 in chips)
+Seat  7: Shannon  (640 in chips)
+Shannon: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ Qs ]
+Dealt to Mudr0x [ 4d ]
+Shannon: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 90 | Mudr0x bet 60, collected 90, net +30 (showed hand) [ Qs 4d ] (high card queen)
+Shannon lost 30
+
+-----------------------------------------------------
+
+Game #1012925 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:19:26.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #26 -- Seat 1 is the button
+Seat  1: Mudr0x  (890 in chips)
+Seat  7: Shannon  (610 in chips)
+Mudr0x: Post Small Blind (30)
+Shannon: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ Tc ]
+Dealt to Mudr0x [ Qd ]
+Mudr0x: Raise (580)
+Shannon: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 670 | Mudr0x bet 610, collected 670, net +60 (showed hand) [ Tc Qd ] (high card queen)
+Shannon lost 60
+
+-----------------------------------------------------
+
+Game #1012926 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:19:32.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #27 -- Seat 7 is the button
+Seat  1: Mudr0x  (950 in chips)
+Seat  7: Shannon  (550 in chips)
+Shannon: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 7c ]
+Dealt to Mudr0x [ 7s ]
+Shannon: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 90 | Mudr0x bet 60, collected 90, net +30 (showed hand) [ 7c 7s ] (a pair of sevens)
+Shannon lost 30
+
+-----------------------------------------------------
+
+Game #1012927 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:19:37.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #28 -- Seat 1 is the button
+Seat  1: Mudr0x  (980 in chips)
+Seat  7: Shannon  (520 in chips)
+Mudr0x: Post Small Blind (30)
+Shannon: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 9d ]
+Dealt to Mudr0x [ 5c ]
+Mudr0x: Fold
+Shannon : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 90 | Mudr0x lost 30 (showed hand) [ 9d 5c ] (high card nine)
+Shannon bet 60, collected 90, net +30
+
+-----------------------------------------------------
+
+Game #1012928 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:19:42.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #29 -- Seat 7 is the button
+Seat  1: Mudr0x  (950 in chips)
+Seat  7: Shannon  (550 in chips)
+Shannon: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 4s ]
+Dealt to Mudr0x [ 4h ]
+Shannon: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 90 | Mudr0x bet 60, collected 90, net +30 (showed hand) [ 4s 4h ] (a pair of fours)
+Shannon lost 30
+
+-----------------------------------------------------
+
+Game #1012929 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:19:46.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #30 -- Seat 1 is the button
+Seat  1: Mudr0x  (980 in chips)
+Seat  7: Shannon  (520 in chips)
+Mudr0x: Post Small Blind (30)
+Shannon: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ 8h ]
+Mudr0x: Raise (490)
+Shannon: Call (460)
+*** FLOP *** : [ Jd Qs Ad ]
+*** TURN *** : [ Jd Qs Ad ] [ Qd ]
+*** RIVER *** : [ Jd Qs Ad Qd ] [ 6d ]
+*** SUMMARY ***
+Pot: 1,040 | Board: [ Jd Qs Ad Qd 6d ]
+Mudr0x bet 520, collected 1,040, net +520 (showed hand) [ Td 8h ] (a flush, ace high)
+Shannon lost 520 (showed hand) [ Ac Kc ] (two pair, aces and queens)
+
+-----------------------------------------------------
+
+Game #1012930 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:19:59.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 2 is the button
+Seat  1: Noah  (500 in chips)
+Seat  2: Mariano  (500 in chips)
+Seat  9: Mudr0x  (500 in chips)
+Mudr0x: Post Small Blind (10)
+Noah: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 5d ]
+Dealt to Mudr0x [ 6h ]
+Mariano: Raise (95)
+Mudr0x: Fold
+Noah: Fold
+Mariano : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 125 | Noah lost 20
+Mariano bet 95, collected 125, net +30
+Mudr0x lost 10 (showed hand) [ 5d 6h ] (high card six)
+
+-----------------------------------------------------
+
+Game #1012931 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:20:05.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 9 is the button
+Seat  1: Noah  (480 in chips)
+Seat  2: Mariano  (530 in chips)
+Seat  9: Mudr0x  (490 in chips)
+Noah: Post Small Blind (10)
+Mariano: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 2h ]
+Dealt to Mudr0x [ 8s ]
+Mudr0x: Fold
+Noah: Fold
+Mariano : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Noah lost 10
+Mariano bet 20, collected 30, net +10
+Mudr0x didn't bet (folded) (showed hand) [ 2h 8s ] (high card eight)
+
+-----------------------------------------------------
+
+Game #1012932 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:20:09.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 1 is the button
+Seat  1: Noah  (470 in chips)
+Seat  2: Mariano  (540 in chips)
+Seat  9: Mudr0x  (490 in chips)
+Mariano: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Jc ]
+Dealt to Mudr0x [ Qs ]
+Noah: Raise (80)
+Mariano: Call (70)
+Mudr0x: Call (60)
+*** FLOP *** : [ 8c Qc 7s ]
+Mariano: Check
+Mudr0x: Bet (140)
+Noah: Call (140)
+Mariano: Fold
+*** TURN *** : [ 8c Qc 7s ] [ 8d ]
+Mudr0x: Bet (250)
+Noah: Call (250)
+*** RIVER *** : [ 8c Qc 7s 8d ] [ Kd ]
+*** SUMMARY ***
+Pot: 1,020 | Board: [ 8c Qc 7s 8d Kd ]
+Noah bet 470, collected 510, net +40 (showed hand) [ Qd Td ] (two pair, queens and eights)
+Mariano lost 80
+Mudr0x bet 470, collected 510, net +40 (showed hand) [ Jc Qs ] (two pair, queens and eights)
+
+-----------------------------------------------------
+
+Game #1012933 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:20:30.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 2 is the button
+Seat  1: Noah  (510 in chips)
+Seat  2: Mariano  (460 in chips)
+Seat  9: Mudr0x  (530 in chips)
+Mudr0x: Post Small Blind (10)
+Noah: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Th ]
+Dealt to Mudr0x [ 5s ]
+Mariano: Raise (95)
+Mudr0x: Fold
+Noah: Fold
+Mariano : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 125 | Noah lost 20
+Mariano bet 95, collected 125, net +30
+Mudr0x lost 10 (showed hand) [ Th 5s ] (high card ten)
+
+-----------------------------------------------------
+
+Game #1012934 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:20:35.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 9 is the button
+Seat  1: Noah  (490 in chips)
+Seat  2: Mariano  (490 in chips)
+Seat  9: Mudr0x  (520 in chips)
+Noah: Post Small Blind (10)
+Mariano: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Kc ]
+Dealt to Mudr0x [ 7h ]
+Mudr0x: Fold
+Noah: Fold
+Mariano : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Noah lost 10
+Mariano bet 20, collected 30, net +10
+Mudr0x didn't bet (folded) (showed hand) [ Kc 7h ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012935 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:20:41.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #6 -- Seat 1 is the button
+Seat  1: Noah  (480 in chips)
+Seat  2: Mariano  (500 in chips)
+Seat  9: Mudr0x  (520 in chips)
+Mariano: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 9h ]
+Dealt to Mudr0x [ 3d ]
+Noah: Raise (100)
+Mariano: Call (90)
+Mudr0x: Fold
+*** FLOP *** : [ 4s As 5h ]
+Mariano: Check
+Noah: Check
+*** TURN *** : [ 4s As 5h ] [ 7d ]
+Mariano: Check
+Noah: Check
+*** RIVER *** : [ 4s As 5h 7d ] [ 9c ]
+Mariano: Check
+Noah: Check
+*** SUMMARY ***
+Pot: 220 | Board: [ 4s As 5h 7d 9c ]
+Noah bet 100, collected 220, net +120 (showed hand) [ Kd Jh ] (high card ace)
+Mariano lost 100
+Mudr0x lost 20 (showed hand) [ 9h 3d ] (a pair of nines)
+
+-----------------------------------------------------
+
+Game #1012936 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:20:55.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #7 -- Seat 2 is the button
+Seat  1: Noah  (600 in chips)
+Seat  2: Mariano  (400 in chips)
+Seat  9: Mudr0x  (500 in chips)
+Mudr0x: Post Small Blind (10)
+Noah: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 8s ]
+Dealt to Mudr0x [ Kc ]
+Mariano: Fold
+Mudr0x: Raise (40)
+Noah: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 70 | Noah lost 20
+Mariano didn't bet (folded)
+Mudr0x bet 50, collected 70, net +20 (showed hand) [ 8s Kc ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012937 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:21:05.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #8 -- Seat 9 is the button
+Seat  1: Noah  (580 in chips)
+Seat  2: Mariano  (400 in chips)
+Seat  9: Mudr0x  (520 in chips)
+Noah: Post Small Blind (10)
+Mariano: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7h ]
+Dealt to Mudr0x [ Qc ]
+Mudr0x: Fold
+Noah: Fold
+Mariano : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Noah lost 10
+Mariano bet 20, collected 30, net +10
+Mudr0x didn't bet (folded) (showed hand) [ 7h Qc ] (high card queen)
+
+-----------------------------------------------------
+
+Game #1012938 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:21:10.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #9 -- Seat 1 is the button
+Seat  1: Noah  (570 in chips)
+Seat  2: Mariano  (410 in chips)
+Seat  9: Mudr0x  (520 in chips)
+Mariano: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 2h ]
+Dealt to Mudr0x [ Ks ]
+Noah: Call (30)
+Mariano: Call (15)
+Mudr0x: Check
+*** FLOP *** : [ Kd 4h Kc ]
+Mariano: Check
+Mudr0x: Bet (55)
+Noah: Fold
+Mariano: Call (55)
+*** TURN *** : [ Kd 4h Kc ] [ 3d ]
+Mariano: Check
+Mudr0x: Bet (135)
+Mariano: Call (135)
+*** RIVER *** : [ Kd 4h Kc 3d ] [ 9h ]
+Mariano: Check
+Mudr0x: Bet (190)
+Mariano: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 660 | Board: [ Kd 4h Kc 3d 9h ]
+Noah lost 30
+Mariano lost 220
+Mudr0x bet 410, collected 660, net +250 (showed hand) [ 2h Ks ] (three of a kind, kings)
+
+-----------------------------------------------------
+
+Game #1012939 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:21:38.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #10 -- Seat 2 is the button
+Seat  1: Noah  (540 in chips)
+Seat  2: Mariano  (190 in chips)
+Seat  9: Mudr0x  (770 in chips)
+Mudr0x: Post Small Blind (15)
+Noah: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Kd ]
+Dealt to Mudr0x [ Qs ]
+Mariano: Raise (150)
+Mudr0x: Raise (525)
+Noah: Fold
+Mariano: Call (40)
+*** FLOP *** : [ 2s 6h 5c ]
+*** TURN *** : [ 2s 6h 5c ] [ Qh ]
+*** RIVER *** : [ 2s 6h 5c Qh ] [ 9d ]
+*** SUMMARY ***
+Pot: 410 | Board: [ 2s 6h 5c Qh 9d ]
+Noah lost 30
+Mariano lost 190 (showed hand) [ 3h 5h ] (a pair of fives)
+Mudr0x bet 540, collected 760, net +220 (showed hand) [ Kd Qs ] (a pair of queens)
+
+-----------------------------------------------------
+
+Game #1012940 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:21:50.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #11 -- Seat 1 is the button
+Seat  1: Noah  (510 in chips)
+Seat  9: Mudr0x  (990 in chips)
+Noah: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 5s ]
+Dealt to Mudr0x [ 8h ]
+Noah: Raise (105)
+Mudr0x: Fold
+Noah : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 150 | Noah bet 120, collected 150, net +30
+Mudr0x lost 30 (showed hand) [ 5s 8h ] (high card eight)
+
+-----------------------------------------------------
+
+Game #1012941 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:21:55.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #12 -- Seat 9 is the button
+Seat  1: Noah  (540 in chips)
+Seat  9: Mudr0x  (960 in chips)
+Mudr0x: Post Small Blind (15)
+Noah: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Kh ]
+Dealt to Mudr0x [ 9c ]
+Mudr0x: Raise (105)
+Noah: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 150 | Noah lost 30
+Mudr0x bet 120, collected 150, net +30 (showed hand) [ Kh 9c ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012942 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:22:03.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #13 -- Seat 1 is the button
+Seat  1: Noah  (510 in chips)
+Seat  9: Mudr0x  (990 in chips)
+Noah: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Th ]
+Dealt to Mudr0x [ 3d ]
+Noah: Raise (105)
+Mudr0x: Fold
+Noah : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 150 | Noah bet 120, collected 150, net +30
+Mudr0x lost 30 (showed hand) [ Th 3d ] (high card ten)
+
+-----------------------------------------------------
+
+Game #1012943 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:22:08.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #14 -- Seat 9 is the button
+Seat  1: Noah  (540 in chips)
+Seat  9: Mudr0x  (960 in chips)
+Mudr0x: Post Small Blind (15)
+Noah: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 2s ]
+Dealt to Mudr0x [ 5d ]
+Mudr0x: Fold
+Noah : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Noah bet 30, collected 45, net +15
+Mudr0x lost 15 (showed hand) [ 2s 5d ] (high card five)
+
+-----------------------------------------------------
+
+Game #1012944 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:22:12.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #15 -- Seat 1 is the button
+Seat  1: Noah  (555 in chips)
+Seat  9: Mudr0x  (945 in chips)
+Noah: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Jh ]
+Dealt to Mudr0x [ Ks ]
+Noah: Raise (105)
+Mudr0x: Call (90)
+*** FLOP *** : [ Jd 5s Ac ]
+Mudr0x: Check
+Noah: Check
+*** TURN *** : [ Jd 5s Ac ] [ As ]
+Mudr0x: Bet (180)
+Noah: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 420 | Board: [ Jd 5s Ac As ]
+Noah lost 120
+Mudr0x bet 300, collected 420, net +120 (showed hand) [ Jh Ks ] (two pair, aces and jacks)
+
+-----------------------------------------------------
+
+Game #1012945 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:22:29.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #16 -- Seat 9 is the button
+Seat  1: Noah  (435 in chips)
+Seat  9: Mudr0x  (1,065 in chips)
+Mudr0x: Post Small Blind (15)
+Noah: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 7s ]
+Dealt to Mudr0x [ Jc ]
+Mudr0x: Fold
+Noah : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Noah bet 30, collected 45, net +15
+Mudr0x lost 15 (showed hand) [ 7s Jc ] (high card jack)
+
+-----------------------------------------------------
+
+Game #1012946 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:22:33.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #17 -- Seat 1 is the button
+Seat  1: Noah  (450 in chips)
+Seat  9: Mudr0x  (1,050 in chips)
+Noah: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ Js ]
+Dealt to Mudr0x [ 3d ]
+Noah: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Noah lost 20
+Mudr0x bet 40, collected 60, net +20 (showed hand) [ Js 3d ] (high card jack)
+
+-----------------------------------------------------
+
+Game #1012947 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:22:38.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #18 -- Seat 9 is the button
+Seat  1: Noah  (430 in chips)
+Seat  9: Mudr0x  (1,070 in chips)
+Mudr0x: Post Small Blind (20)
+Noah: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 4h ]
+Dealt to Mudr0x [ 4s ]
+Mudr0x: Raise (410)
+Noah: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 470 | Noah lost 40
+Mudr0x bet 430, collected 470, net +40 (showed hand) [ 4h 4s ] (a pair of fours)
+
+-----------------------------------------------------
+
+Game #1012948 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:22:44.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #19 -- Seat 1 is the button
+Seat  1: Noah  (390 in chips)
+Seat  9: Mudr0x  (1,110 in chips)
+Noah: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 3s ]
+Dealt to Mudr0x [ 7s ]
+Noah: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Noah lost 20
+Mudr0x bet 40, collected 60, net +20 (showed hand) [ 3s 7s ] (high card seven)
+
+-----------------------------------------------------
+
+Game #1012949 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:22:49.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #20 -- Seat 9 is the button
+Seat  1: Noah  (370 in chips)
+Seat  9: Mudr0x  (1,130 in chips)
+Mudr0x: Post Small Blind (20)
+Noah: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ Kh ]
+Dealt to Mudr0x [ Jc ]
+Mudr0x: Raise (350)
+Noah: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 410 | Noah lost 40
+Mudr0x bet 370, collected 410, net +40 (showed hand) [ Kh Jc ] (high card king)
+
+-----------------------------------------------------
+
+Game #1012950 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:22:56.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #21 -- Seat 1 is the button
+Seat  1: Noah  (330 in chips)
+Seat  9: Mudr0x  (1,170 in chips)
+Noah: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 9d ]
+Dealt to Mudr0x [ 3h ]
+Noah: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Noah lost 20
+Mudr0x bet 40, collected 60, net +20 (showed hand) [ 9d 3h ] (high card nine)
+
+-----------------------------------------------------
+
+Game #1012951 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:23:00.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #22 -- Seat 9 is the button
+Seat  1: Noah  (310 in chips)
+Seat  9: Mudr0x  (1,190 in chips)
+Mudr0x: Post Small Blind (20)
+Noah: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 9s ]
+Dealt to Mudr0x [ 3s ]
+Mudr0x: Fold
+Noah : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Noah bet 40, collected 60, net +20
+Mudr0x lost 20 (showed hand) [ 9s 3s ] (high card nine)
+
+-----------------------------------------------------
+
+Game #1012952 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:23:05.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #23 -- Seat 1 is the button
+Seat  1: Noah  (330 in chips)
+Seat  9: Mudr0x  (1,170 in chips)
+Noah: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 3h ]
+Dealt to Mudr0x [ Qs ]
+Noah: Raise (140)
+Mudr0x: Fold
+Noah : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 200 | Noah bet 160, collected 200, net +40
+Mudr0x lost 40 (showed hand) [ 3h Qs ] (high card queen)
+
+-----------------------------------------------------
+
+Game #1012953 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:23:09.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #24 -- Seat 9 is the button
+Seat  1: Noah  (370 in chips)
+Seat  9: Mudr0x  (1,130 in chips)
+Mudr0x: Post Small Blind (20)
+Noah: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 7c ]
+Dealt to Mudr0x [ Ah ]
+Mudr0x: Raise (350)
+Noah: Call (330)
+*** FLOP *** : [ 7d Ad Ac ]
+*** TURN *** : [ 7d Ad Ac ] [ 8c ]
+*** RIVER *** : [ 7d Ad Ac 8c ] [ Tc ]
+*** SUMMARY ***
+Pot: 740 | Board: [ 7d Ad Ac 8c Tc ]
+Noah lost 370 (showed hand) [ 9c 9d ] (two pair, aces and nines)
+Mudr0x bet 370, collected 740, net +370 (showed hand) [ 7c Ah ] (a full house, aces full of sevens)
+
+-----------------------------------------------------
+
+Game #1012954 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:23:21.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 2 is the button
+Seat  2: Mudr0x  (500 in chips)
+Seat  8: Hanley  (500 in chips)
+Seat  9: Bernard  (500 in chips)
+Hanley: Post Small Blind (10)
+Bernard: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 8c ]
+Dealt to Mudr0x [ 8h ]
+Mudr0x: Raise (50)
+Hanley: Raise (100)
+Bernard: Call (90)
+Mudr0x: Raise (450)
+Hanley: Call (390)
+Bernard: Fold
+*** FLOP *** : [ 3c Td 5c ]
+*** TURN *** : [ 3c Td 5c ] [ 3h ]
+*** RIVER *** : [ 3c Td 5c 3h ] [ 9c ]
+*** SUMMARY ***
+Pot: 1,110 | Board: [ 3c Td 5c 3h 9c ]
+Mudr0x lost 500 (showed hand) [ 8c 8h ] (two pair, eights and threes)
+Hanley bet 500, collected 1,110, net +610 (showed hand) [ As Ad ] (two pair, aces and threes)
+Bernard lost 110
+
+-----------------------------------------------------
+
+Game #1012955 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:23:41.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 1 is the button
+Seat  1: Mudr0x  (500 in chips)
+Seat  4: Jacalyn  (500 in chips)
+Seat  8: Roman  (500 in chips)
+Jacalyn: Post Small Blind (10)
+Roman: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Qd ]
+Dealt to Mudr0x [ 8c ]
+Mudr0x: Fold
+Jacalyn: Fold
+Roman : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mudr0x didn't bet (folded) (showed hand) [ Qd 8c ] (high card queen)
+Jacalyn lost 10
+Roman bet 20, collected 30, net +10
+
+-----------------------------------------------------
+
+Game #1012956 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:23:47.0 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 4 is the button
+Seat  1: Mudr0x  (500 in chips)
+Seat  4: Jacalyn  (490 in chips)
+Seat  8: Roman  (510 in chips)
+Roman: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7s ]
+Dealt to Mudr0x [ Ac ]
+Jacalyn: Raise (100)
+Roman: Call (90)
+Mudr0x: Fold
+*** FLOP *** : [ 9s 3h 2d ]
+Roman: Check
+Jacalyn: Bet (180)
+Roman: Call (180)
+*** TURN *** : [ 9s 3h 2d ] [ Jc ]
+Roman: Check
+Jacalyn: Check
+*** RIVER *** : [ 9s 3h 2d Jc ] [ Ah ]
+Roman: Bet (210)
+Jacalyn: Fold
+Roman : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 790 | Board: [ 9s 3h 2d Jc Ah ]
+Mudr0x lost 20 (showed hand) [ 7s Ac ] (a pair of aces)
+Jacalyn lost 280
+Roman bet 490, collected 790, net +300
+
+-----------------------------------------------------
+
+Game #1012957 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:24:02.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 8 is the button
+Seat  1: Mudr0x  (480 in chips)
+Seat  4: Jacalyn  (210 in chips)
+Seat  8: Roman  (810 in chips)
+Mudr0x: Post Small Blind (10)
+Jacalyn: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 7h ]
+Dealt to Mudr0x [ 4c ]
+Roman: Raise (55)
+Mudr0x: Fold
+Jacalyn: Fold
+Roman : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 85 | Mudr0x lost 10 (showed hand) [ 7h 4c ] (high card seven)
+Jacalyn lost 20
+Roman bet 55, collected 85, net +30
+
+-----------------------------------------------------
+
+Game #1012958 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:24:09.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 1 is the button
+Seat  1: Mudr0x  (470 in chips)
+Seat  4: Jacalyn  (190 in chips)
+Seat  8: Roman  (840 in chips)
+Jacalyn: Post Small Blind (10)
+Roman: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Ad ]
+Dealt to Mudr0x [ 8c ]
+Mudr0x: Raise (50)
+Jacalyn: Fold
+Roman: Call (30)
+*** FLOP *** : [ Qs Qh 2d ]
+Roman: Check
+Mudr0x: Bet (80)
+Roman: Call (80)
+*** TURN *** : [ Qs Qh 2d ] [ Jd ]
+Roman: Check
+Mudr0x: Check
+*** RIVER *** : [ Qs Qh 2d Jd ] [ Td ]
+Roman: Check
+Mudr0x: Check
+*** SUMMARY ***
+Pot: 270 | Board: [ Qs Qh 2d Jd Td ]
+Mudr0x bet 130, collected 270, net +140 (showed hand) [ Ad 8c ] (a pair of queens)
+Jacalyn lost 10
+Roman lost 130
+
+-----------------------------------------------------
+
+Game #1012959 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:24:34.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 4 is the button
+Seat  1: Mudr0x  (610 in chips)
+Seat  4: Jacalyn  (180 in chips)
+Seat  8: Roman  (710 in chips)
+Roman: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Tc ]
+Dealt to Mudr0x [ Ks ]
+Jacalyn: Fold
+Roman: Raise (70)
+Mudr0x: Raise (590)
+Roman: Call (530)
+*** FLOP *** : [ Ah 9d 7d ]
+*** TURN *** : [ Ah 9d 7d ] [ Qc ]
+*** RIVER *** : [ Ah 9d 7d Qc ] [ 3s ]
+*** SUMMARY ***
+Pot: 1,220 | Board: [ Ah 9d 7d Qc 3s ]
+Mudr0x lost 610 (showed hand) [ Tc Ks ] (high card ace)
+Jacalyn didn't bet (folded)
+Roman bet 610, collected 1,220, net +610 (showed hand) [ As 9c ] (two pair, aces and nines)
+
+-----------------------------------------------------
+
+Game #1012960 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:24:49.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #1 -- Seat 4 is the button
+Seat  1: Mal  (500 in chips)
+Seat  4: Garner  (500 in chips)
+Seat 10: Mudr0x  (500 in chips)
+Mudr0x: Post Small Blind (10)
+Mal: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 2d ]
+Dealt to Mudr0x [ 7h ]
+Garner: Fold
+Mudr0x: Fold
+Mal : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mal bet 20, collected 30, net +10
+Garner didn't bet (folded)
+Mudr0x lost 10 (showed hand) [ 2d 7h ] (high card seven)
+
+-----------------------------------------------------
+
+Game #1012961 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:24:54.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #2 -- Seat 1 is the button
+Seat  1: Mal  (510 in chips)
+Seat  4: Garner  (500 in chips)
+Seat 10: Mudr0x  (490 in chips)
+Mal: Post Small Blind (10)
+Garner: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Ts ]
+Dealt to Mudr0x [ Qc ]
+Mudr0x: Raise (50)
+Mal: Call (40)
+Garner: Fold
+*** FLOP *** : [ 2s 2h Kc ]
+Mal: Check
+Mudr0x: Bet (90)
+Mal: Call (90)
+*** TURN *** : [ 2s 2h Kc ] [ 9d ]
+Mal: Check
+Mudr0x: Check
+*** RIVER *** : [ 2s 2h Kc 9d ] [ As ]
+Mal: Check
+Mudr0x: Check
+*** SUMMARY ***
+Pot: 300 | Board: [ 2s 2h Kc 9d As ]
+Mal bet 140, collected 150, net +10 (showed hand) [ 4c Qd ] (a pair of twos)
+Garner lost 20
+Mudr0x bet 140, collected 150, net +10 (showed hand) [ Ts Qc ] (a pair of twos)
+
+-----------------------------------------------------
+
+Game #1012962 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:25:19.4 (CST)
+Table "DD Poker Spin&Go 1" Hand #3 -- Seat 1 is the button
+Seat  1: Mal  (520 in chips)
+Seat  4: Garner  (480 in chips)
+Seat 10: Mudr0x  (500 in chips)
+Garner: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 2c ]
+Dealt to Mudr0x [ 8s ]
+Mal: Raise (100)
+Garner: Call (90)
+Mudr0x: Fold
+*** FLOP *** : [ 2d 3d 7c ]
+Garner: Check
+Mal: Check
+*** TURN *** : [ 2d 3d 7c ] [ Qd ]
+Garner: Check
+Mal: Check
+*** RIVER *** : [ 2d 3d 7c Qd ] [ 9c ]
+Garner: Check
+Mal: Bet (215)
+Garner: Fold
+Mal : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 435 | Board: [ 2d 3d 7c Qd 9c ]
+Mal bet 315, collected 435, net +120
+Garner lost 100
+Mudr0x lost 20 (showed hand) [ 2c 8s ] (a pair of twos)
+
+-----------------------------------------------------
+
+Game #1012963 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:25:35.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #4 -- Seat 4 is the button
+Seat  1: Mal  (640 in chips)
+Seat  4: Garner  (380 in chips)
+Seat 10: Mudr0x  (480 in chips)
+Mudr0x: Post Small Blind (10)
+Mal: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Js ]
+Dealt to Mudr0x [ As ]
+Garner: Fold
+Mudr0x: Raise (40)
+Mal: Call (30)
+*** FLOP *** : [ 4c Jh 3s ]
+Mudr0x: Bet (80)
+Mal: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 180 | Board: [ 4c Jh 3s ]
+Mal lost 50
+Garner didn't bet (folded)
+Mudr0x bet 130, collected 180, net +50 (showed hand) [ Js As ] (a pair of jacks)
+
+-----------------------------------------------------
+
+Game #1012964 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:25:50.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #5 -- Seat 1 is the button
+Seat  1: Mal  (590 in chips)
+Seat  4: Garner  (380 in chips)
+Seat 10: Mudr0x  (530 in chips)
+Mal: Post Small Blind (10)
+Garner: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 4c ]
+Dealt to Mudr0x [ Tc ]
+Mudr0x: Fold
+Mal: Raise (30)
+Garner: Raise (85)
+Mal: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 145 | Mal lost 40
+Garner bet 105, collected 145, net +40
+Mudr0x didn't bet (folded) (showed hand) [ 4c Tc ] (high card ten)
+
+-----------------------------------------------------
+
+Game #1012965 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:25:58.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #6 -- Seat 1 is the button
+Seat  1: Mal  (550 in chips)
+Seat  4: Garner  (420 in chips)
+Seat 10: Mudr0x  (530 in chips)
+Garner: Post Small Blind (10)
+Mudr0x: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 6c ]
+Dealt to Mudr0x [ Qs ]
+Mal: Fold
+Garner: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 30 | Mal didn't bet (folded)
+Garner lost 10
+Mudr0x bet 20, collected 30, net +10 (showed hand) [ 6c Qs ] (high card queen)
+
+-----------------------------------------------------
+
+Game #1012966 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:26:04.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #7 -- Seat 4 is the button
+Seat  1: Mal  (550 in chips)
+Seat  4: Garner  (410 in chips)
+Seat 10: Mudr0x  (540 in chips)
+Mudr0x: Post Small Blind (10)
+Mal: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ 6c ]
+Dealt to Mudr0x [ Ad ]
+Garner: Fold
+Mudr0x: Raise (40)
+Mal: Call (30)
+*** FLOP *** : [ 6s 7c 2s ]
+Mudr0x: Bet (80)
+Mal: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 180 | Board: [ 6s 7c 2s ]
+Mal lost 50
+Garner didn't bet (folded)
+Mudr0x bet 130, collected 180, net +50 (showed hand) [ 6c Ad ] (a pair of sixes)
+
+-----------------------------------------------------
+
+Game #1012967 - Tournament DD Poker Spin&Go - 10/20 No Limit Texas Hold'em - 2022/02/14-13:26:19.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #8 -- Seat 1 is the button
+Seat  1: Mal  (500 in chips)
+Seat  4: Garner  (410 in chips)
+Seat 10: Mudr0x  (590 in chips)
+Mal: Post Small Blind (10)
+Garner: Post Big Blind (20)
+Dealing...
+Dealt to Mudr0x [ Ad ]
+Dealt to Mudr0x [ 2d ]
+Mudr0x: Raise (50)
+Mal: Call (40)
+Garner: Fold
+*** FLOP *** : [ Kc Qd Jc ]
+Mal: Check
+Mudr0x: Bet (90)
+Mal: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 210 | Board: [ Kc Qd Jc ]
+Mal lost 50
+Garner lost 20
+Mudr0x bet 140, collected 210, net +70 (showed hand) [ Ad 2d ] (high card ace)
+
+-----------------------------------------------------
+
+Game #1012968 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:26:36.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #9 -- Seat 1 is the button
+Seat  1: Mal  (450 in chips)
+Seat  4: Garner  (390 in chips)
+Seat 10: Mudr0x  (660 in chips)
+Garner: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Qs ]
+Dealt to Mudr0x [ Qd ]
+Mal: Raise (70)
+Garner: Call (55)
+Mudr0x: Raise (420)
+Mal: Call (380)
+Garner: Fold
+*** FLOP *** : [ Ts Tc Ks ]
+*** TURN *** : [ Ts Tc Ks ] [ Js ]
+*** RIVER *** : [ Ts Tc Ks Js ] [ Td ]
+*** SUMMARY ***
+Pot: 970 | Board: [ Ts Tc Ks Js Td ]
+Mal lost 450 (showed hand) [ As Jh ] (a full house, tens full of jacks)
+Garner lost 70
+Mudr0x bet 450, collected 970, net +520 (showed hand) [ Qs Qd ] (a full house, tens full of queens)
+
+-----------------------------------------------------
+
+Game #1012969 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:26:49.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #10 -- Seat 1 is the button
+Seat  4: Garner  (320 in chips)
+Seat 10: Mudr0x  (1,180 in chips)
+Mudr0x: Post Small Blind (15)
+Garner: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 4s ]
+Dealt to Mudr0x [ Th ]
+Mudr0x: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Garner bet 30, collected 45, net +15
+Mudr0x lost 15 (showed hand) [ 4s Th ] (high card ten)
+
+-----------------------------------------------------
+
+Game #1012970 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:26:53.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #11 -- Seat 4 is the button
+Seat  4: Garner  (335 in chips)
+Seat 10: Mudr0x  (1,165 in chips)
+Garner: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 3d ]
+Dealt to Mudr0x [ 7d ]
+Garner: Raise (105)
+Mudr0x: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 150 | Garner bet 120, collected 150, net +30
+Mudr0x lost 30 (showed hand) [ 3d 7d ] (high card seven)
+
+-----------------------------------------------------
+
+Game #1012971 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:26:58.3 (CST)
+Table "DD Poker Spin&Go 1" Hand #12 -- Seat 1 is the button
+Seat  4: Garner  (365 in chips)
+Seat 10: Mudr0x  (1,135 in chips)
+Mudr0x: Post Small Blind (15)
+Garner: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 7h ]
+Dealt to Mudr0x [ Qh ]
+Mudr0x: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Garner bet 30, collected 45, net +15
+Mudr0x lost 15 (showed hand) [ 7h Qh ] (high card queen)
+
+-----------------------------------------------------
+
+Game #1012972 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:27:01.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #13 -- Seat 4 is the button
+Seat  4: Garner  (380 in chips)
+Seat 10: Mudr0x  (1,120 in chips)
+Garner: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ 2h ]
+Dealt to Mudr0x [ Ac ]
+Garner: Raise (105)
+Mudr0x: Call (90)
+*** FLOP *** : [ Td 2s 9h ]
+Mudr0x: Bet (180)
+Garner: Call (180)
+*** TURN *** : [ Td 2s 9h ] [ 6d ]
+Mudr0x: Bet (80)
+Garner: Call (80)
+*** RIVER *** : [ Td 2s 9h 6d ] [ 6h ]
+*** SUMMARY ***
+Pot: 760 | Board: [ Td 2s 9h 6d 6h ]
+Garner bet 380, collected 760, net +380 (showed hand) [ Qc Ts ] (two pair, tens and sixes)
+Mudr0x lost 380 (showed hand) [ 2h Ac ] (two pair, sixes and twos)
+
+-----------------------------------------------------
+
+Game #1012973 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:27:18.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #14 -- Seat 1 is the button
+Seat  4: Garner  (760 in chips)
+Seat 10: Mudr0x  (740 in chips)
+Mudr0x: Post Small Blind (15)
+Garner: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Jc ]
+Dealt to Mudr0x [ Ts ]
+Mudr0x: Raise (105)
+Garner: Call (90)
+*** FLOP *** : [ Ac Ad 5d ]
+Garner: Check
+Mudr0x: Bet (180)
+Garner: Call (180)
+*** TURN *** : [ Ac Ad 5d ] [ Ks ]
+Garner: Check
+Mudr0x: Check
+*** RIVER *** : [ Ac Ad 5d Ks ] [ 4c ]
+Garner: Check
+Mudr0x: Check
+*** SUMMARY ***
+Pot: 600 | Board: [ Ac Ad 5d Ks 4c ]
+Garner lost 300
+Mudr0x bet 300, collected 600, net +300 (showed hand) [ Jc Ts ] (a pair of aces)
+
+-----------------------------------------------------
+
+Game #1012974 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:27:43.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #15 -- Seat 4 is the button
+Seat  4: Garner  (460 in chips)
+Seat 10: Mudr0x  (1,040 in chips)
+Garner: Post Small Blind (15)
+Mudr0x: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Qc ]
+Dealt to Mudr0x [ 8d ]
+Garner: Raise (105)
+Mudr0x: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 150 | Garner bet 120, collected 150, net +30
+Mudr0x lost 30 (showed hand) [ Qc 8d ] (high card queen)
+
+-----------------------------------------------------
+
+Game #1012975 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/14-13:27:48.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #16 -- Seat 1 is the button
+Seat  4: Garner  (490 in chips)
+Seat 10: Mudr0x  (1,010 in chips)
+Mudr0x: Post Small Blind (15)
+Garner: Post Big Blind (30)
+Dealing...
+Dealt to Mudr0x [ Qh ]
+Dealt to Mudr0x [ 7c ]
+Mudr0x: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 45 | Garner bet 30, collected 45, net +15
+Mudr0x lost 15 (showed hand) [ Qh 7c ] (high card queen)
+
+-----------------------------------------------------
+
+Game #1012976 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:27:52.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #17 -- Seat 4 is the button
+Seat  4: Garner  (505 in chips)
+Seat 10: Mudr0x  (995 in chips)
+Garner: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 7d ]
+Dealt to Mudr0x [ 5c ]
+Garner: Raise (140)
+Mudr0x: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 200 | Garner bet 160, collected 200, net +40
+Mudr0x lost 40 (showed hand) [ 7d 5c ] (high card seven)
+
+-----------------------------------------------------
+
+Game #1012977 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:27:57.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #18 -- Seat 1 is the button
+Seat  4: Garner  (545 in chips)
+Seat 10: Mudr0x  (955 in chips)
+Mudr0x: Post Small Blind (20)
+Garner: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 8h ]
+Dealt to Mudr0x [ Th ]
+Mudr0x: Raise (140)
+Garner: Call (120)
+*** FLOP *** : [ 5h 9s Tc ]
+Garner: Check
+Mudr0x: Bet (385)
+Garner: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 705 | Board: [ 5h 9s Tc ]
+Garner lost 160
+Mudr0x bet 545, collected 705, net +160 (showed hand) [ 8h Th ] (a pair of tens)
+
+-----------------------------------------------------
+
+Game #1012978 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:28:10.9 (CST)
+Table "DD Poker Spin&Go 1" Hand #19 -- Seat 4 is the button
+Seat  4: Garner  (385 in chips)
+Seat 10: Mudr0x  (1,115 in chips)
+Garner: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 5c ]
+Dealt to Mudr0x [ 8d ]
+Garner: Raise (140)
+Mudr0x: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 200 | Garner bet 160, collected 200, net +40
+Mudr0x lost 40 (showed hand) [ 5c 8d ] (high card eight)
+
+-----------------------------------------------------
+
+Game #1012979 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:28:15.7 (CST)
+Table "DD Poker Spin&Go 1" Hand #20 -- Seat 1 is the button
+Seat  4: Garner  (425 in chips)
+Seat 10: Mudr0x  (1,075 in chips)
+Mudr0x: Post Small Blind (20)
+Garner: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 3d ]
+Dealt to Mudr0x [ Jd ]
+Mudr0x: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 60 | Garner bet 40, collected 60, net +20
+Mudr0x lost 20 (showed hand) [ 3d Jd ] (high card jack)
+
+-----------------------------------------------------
+
+Game #1012980 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:28:19.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #21 -- Seat 4 is the button
+Seat  4: Garner  (445 in chips)
+Seat 10: Mudr0x  (1,055 in chips)
+Garner: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 6h ]
+Dealt to Mudr0x [ 6c ]
+Garner: Raise (140)
+Mudr0x: Raise (405)
+Garner: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 605 | Garner lost 160
+Mudr0x bet 445, collected 605, net +160 (showed hand) [ 6h 6c ] (a pair of sixes)
+
+-----------------------------------------------------
+
+Game #1012981 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:28:28.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #22 -- Seat 1 is the button
+Seat  4: Garner  (285 in chips)
+Seat 10: Mudr0x  (1,215 in chips)
+Mudr0x: Post Small Blind (20)
+Garner: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ 8h ]
+Dealt to Mudr0x [ Qh ]
+Mudr0x: Raise (265)
+Garner: Call (245)
+*** FLOP *** : [ 3d 2s Td ]
+*** TURN *** : [ 3d 2s Td ] [ 5c ]
+*** RIVER *** : [ 3d 2s Td 5c ] [ 8d ]
+*** SUMMARY ***
+Pot: 570 | Board: [ 3d 2s Td 5c 8d ]
+Garner bet 285, collected 570, net +285 (showed hand) [ 4d Ad ] (a flush, ace high)
+Mudr0x lost 285 (showed hand) [ 8h Qh ] (a pair of eights)
+
+-----------------------------------------------------
+
+Game #1012982 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:28:38.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #23 -- Seat 4 is the button
+Seat  4: Garner  (570 in chips)
+Seat 10: Mudr0x  (930 in chips)
+Garner: Post Small Blind (20)
+Mudr0x: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ Jd ]
+Dealt to Mudr0x [ 7h ]
+Garner: Raise (140)
+Mudr0x: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 200 | Garner bet 160, collected 200, net +40
+Mudr0x lost 40 (showed hand) [ Jd 7h ] (high card jack)
+
+-----------------------------------------------------
+
+Game #1012983 - Tournament DD Poker Spin&Go - 20/40 No Limit Texas Hold'em - 2022/02/14-13:28:43.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #24 -- Seat 1 is the button
+Seat  4: Garner  (610 in chips)
+Seat 10: Mudr0x  (890 in chips)
+Mudr0x: Post Small Blind (20)
+Garner: Post Big Blind (40)
+Dealing...
+Dealt to Mudr0x [ Ks ]
+Dealt to Mudr0x [ Jh ]
+Mudr0x: Raise (140)
+Garner: Call (120)
+*** FLOP *** : [ 8c 5c Kd ]
+Garner: Check
+Mudr0x: Bet (450)
+Garner: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 770 | Board: [ 8c 5c Kd ]
+Garner lost 160
+Mudr0x bet 610, collected 770, net +160 (showed hand) [ Ks Jh ] (a pair of kings)
+
+-----------------------------------------------------
+
+Game #1012984 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:28:56.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #25 -- Seat 4 is the button
+Seat  4: Garner  (450 in chips)
+Seat 10: Mudr0x  (1,050 in chips)
+Garner: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 5c ]
+Dealt to Mudr0x [ Qd ]
+Garner: Raise (110)
+Mudr0x: Fold
+Garner : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 200 | Garner bet 140, collected 200, net +60
+Mudr0x lost 60 (showed hand) [ 5c Qd ] (high card queen)
+
+-----------------------------------------------------
+
+Game #1012985 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:29:02.1 (CST)
+Table "DD Poker Spin&Go 1" Hand #26 -- Seat 1 is the button
+Seat  4: Garner  (510 in chips)
+Seat 10: Mudr0x  (990 in chips)
+Mudr0x: Post Small Blind (30)
+Garner: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 8d ]
+Dealt to Mudr0x [ Ah ]
+Mudr0x: Raise (480)
+Garner: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 570 | Garner lost 60
+Mudr0x bet 510, collected 570, net +60 (showed hand) [ 8d Ah ] (high card ace)
+
+-----------------------------------------------------
+
+Game #1012986 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:29:08.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #27 -- Seat 4 is the button
+Seat  4: Garner  (450 in chips)
+Seat 10: Mudr0x  (1,050 in chips)
+Garner: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 8c ]
+Dealt to Mudr0x [ Qs ]
+Garner: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 90 | Garner lost 30
+Mudr0x bet 60, collected 90, net +30 (showed hand) [ 8c Qs ] (high card queen)
+
+-----------------------------------------------------
+
+Game #1012987 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:29:13.8 (CST)
+Table "DD Poker Spin&Go 1" Hand #28 -- Seat 1 is the button
+Seat  4: Garner  (420 in chips)
+Seat 10: Mudr0x  (1,080 in chips)
+Mudr0x: Post Small Blind (30)
+Garner: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 9s ]
+Dealt to Mudr0x [ 9h ]
+Mudr0x: Raise (390)
+Garner: Fold
+Mudr0x : Winner -- doesn't show cards
+*** SUMMARY ***
+Pot: 480 | Garner lost 60
+Mudr0x bet 420, collected 480, net +60 (showed hand) [ 9s 9h ] (a pair of nines)
+
+-----------------------------------------------------
+
+Game #1012988 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:29:21.2 (CST)
+Table "DD Poker Spin&Go 1" Hand #29 -- Seat 4 is the button
+Seat  4: Garner  (360 in chips)
+Seat 10: Mudr0x  (1,140 in chips)
+Garner: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 7d ]
+Dealt to Mudr0x [ Kh ]
+Garner: Raise (100)
+Mudr0x: Raise (300)
+Garner: Call (230)
+*** FLOP *** : [ 4h 9h 5c ]
+*** TURN *** : [ 4h 9h 5c ] [ 4c ]
+*** RIVER *** : [ 4h 9h 5c 4c ] [ Tc ]
+*** SUMMARY ***
+Pot: 720 | Board: [ 4h 9h 5c 4c Tc ]
+Garner bet 360, collected 720, net +360 (showed hand) [ Ac Td ] (two pair, tens and fours)
+Mudr0x lost 360 (showed hand) [ 7d Kh ] (a pair of fours)
+
+-----------------------------------------------------
+
+Game #1012989 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:29:32.5 (CST)
+Table "DD Poker Spin&Go 1" Hand #30 -- Seat 1 is the button
+Seat  4: Garner  (720 in chips)
+Seat 10: Mudr0x  (780 in chips)
+Mudr0x: Post Small Blind (30)
+Garner: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ Td ]
+Dealt to Mudr0x [ 9h ]
+Mudr0x: Raise (690)
+Garner: Call (660)
+*** FLOP *** : [ Qd 7c Jd ]
+*** TURN *** : [ Qd 7c Jd ] [ 4h ]
+*** RIVER *** : [ Qd 7c Jd 4h ] [ 4s ]
+*** SUMMARY ***
+Pot: 1,440 | Board: [ Qd 7c Jd 4h 4s ]
+Garner bet 720, collected 1,440, net +720 (showed hand) [ 8d Kd ] (a pair of fours)
+Mudr0x lost 720 (showed hand) [ Td 9h ] (a pair of fours)
+
+-----------------------------------------------------
+
+Game #1012990 - Tournament DD Poker Spin&Go - 30/60 No Limit Texas Hold'em - 2022/02/14-13:29:43.6 (CST)
+Table "DD Poker Spin&Go 1" Hand #31 -- Seat 4 is the button
+Seat  4: Garner  (1,440 in chips)
+Seat 10: Mudr0x  (60 in chips)
+Garner: Post Small Blind (30)
+Mudr0x: Post Big Blind (60)
+Dealing...
+Dealt to Mudr0x [ 6d ]
+Dealt to Mudr0x [ 5c ]
+Garner: Call (30)
+*** FLOP *** : [ 6s Ah Qc ]
+*** TURN *** : [ 6s Ah Qc ] [ 8s ]
+*** RIVER *** : [ 6s Ah Qc 8s ] [ Qd ]
+*** SUMMARY ***
+Pot: 120 | Board: [ 6s Ah Qc 8s Qd ]
+Garner bet 60, collected 120, net +60 (showed hand) [ 8h Ts ] (two pair, queens and eights)
+Mudr0x lost 60 (showed hand) [ 6d 5c ] (two pair, queens and sixes)
+
+-----------------------------------------------------
+

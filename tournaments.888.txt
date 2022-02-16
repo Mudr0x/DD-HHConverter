@@ -1,0 +1,65 @@
+***** Tournament Summary *****
+Tournament ID: 1
+Buy-In: €0.93 + €0.07
+Mudr0x finished 2/3 and lost €1
+
+***** Tournament Summary *****
+Tournament ID: 2
+Buy-In: €0.93 + €0.07
+Mudr0x finished 3/3 and lost €1
+
+***** Tournament Summary *****
+Tournament ID: 3
+Buy-In: €0.93 + €0.07
+Mudr0x finished 3/3 and lost €1
+
+***** Tournament Summary *****
+Tournament ID: 4
+Buy-In: €0.93 + €0.07
+Mudr0x finished 1/3 and won €1.5
+
+***** Tournament Summary *****
+Tournament ID: 5
+Buy-In: €0.93 + €0.07
+Mudr0x finished 1/3 and won €1.5
+
+***** Tournament Summary *****
+Tournament ID: 6
+Buy-In: €0.93 + €0.07
+Mudr0x finished 3/3 and lost €1
+
+***** Tournament Summary *****
+Tournament ID: 7
+Buy-In: €0.93 + €0.07
+Mudr0x finished 2/3 and lost €1
+
+***** Tournament Summary *****
+Tournament ID: 8
+Buy-In: €0.93 + €0.07
+Mudr0x finished 3/3 and lost €1
+
+***** Tournament Summary *****
+Tournament ID: 9
+Buy-In: €0.93 + €0.07
+Mudr0x finished 3/3 and lost €1
+
+***** Tournament Summary *****
+Tournament ID: 10
+Buy-In: €0.93 + €0.07
+Mudr0x finished 1/3 and won €1.5
+
+***** Tournament Summary *****
+Tournament ID: 11
+Buy-In: €0.93 + €0.07
+Mudr0x finished 2/3 and lost €1
+
+***** Tournament Summary *****
+Tournament ID: 12
+Buy-In: €0.93 + €0.07
+Mudr0x finished 3/3 and lost €1
+
+***** Tournament Summary *****
+Tournament ID: 13
+Buy-In: €0.93 + €0.07
+Mudr0x finished 3/3 and lost €1
+

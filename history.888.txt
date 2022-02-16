@@ -1,0 +1,5715 @@
+#Game No : 1012742
+***** 888poker Hand History for Game 1012742 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:53:33
+Tournament #1 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 5: Mudr0x ( 500 )
+Seat 6: Dempsey ( 500 )
+Seat 8: Deborah ( 500 )
+Deborah posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 4s, 3c ]
+Dempsey folds
+Deborah folds
+** Summary **
+Mudr0x shows [ 4s, 3c ]
+Mudr0x collected [ 30 ]
+
+
+
+#Game No : 1012743
+***** 888poker Hand History for Game 1012743 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:53:40
+Tournament #1 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 5: Mudr0x ( 510 )
+Seat 6: Dempsey ( 500 )
+Seat 8: Deborah ( 490 )
+Mudr0x posts small blind [10]
+Dempsey posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 3s, Td ]
+Deborah folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 3s, Td ]
+Dempsey collected [ 30 ]
+
+
+
+#Game No : 1012744
+***** 888poker Hand History for Game 1012744 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:53:45
+Tournament #1 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 5: Mudr0x ( 500 )
+Seat 6: Dempsey ( 510 )
+Seat 8: Deborah ( 490 )
+Dempsey posts small blind [10]
+Deborah posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 9s, 8c ]
+Mudr0x folds
+Dempsey raises [70]
+Deborah calls [60]
+** Dealing flop ** [ 5d, 3d, Qs ]
+Dempsey bets [105]
+Deborah folds
+** Summary **
+Mudr0x shows [ 9s, 8c ]
+Dempsey collected [ 265 ]
+
+
+
+#Game No : 1012745
+***** 888poker Hand History for Game 1012745 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:53:55
+Tournament #1 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 5: Mudr0x ( 500 )
+Seat 6: Dempsey ( 590 )
+Seat 8: Deborah ( 410 )
+Deborah posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Ah, 7h ]
+Dempsey raises [95]
+Deborah calls [85]
+Mudr0x folds
+** Dealing flop ** [ 7c, 2s, 4s ]
+Deborah checks
+Dempsey checks
+** Dealing turn ** [ Jd ]
+Deborah bets [220]
+Dempsey calls [220]
+** Dealing river ** [ Kc ]
+Deborah bets [95]
+Dempsey calls [95]
+** Summary **
+Mudr0x shows [ Ah, 7h ]
+Deborah shows [ Kh, 5h ]
+Deborah collected [ 840 ]
+
+
+
+#Game No : 1012746
+***** 888poker Hand History for Game 1012746 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:54:10
+Tournament #1 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 5: Mudr0x ( 480 )
+Seat 6: Dempsey ( 180 )
+Seat 8: Deborah ( 840 )
+Mudr0x posts small blind [10]
+Dempsey posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 8h, Ks ]
+Deborah folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 8h, Ks ]
+Dempsey collected [ 30 ]
+
+
+
+#Game No : 1012747
+***** 888poker Hand History for Game 1012747 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:54:16
+Tournament #1 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 5: Mudr0x ( 470 )
+Seat 6: Dempsey ( 190 )
+Seat 8: Deborah ( 840 )
+Dempsey posts small blind [10]
+Deborah posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 2c, Jc ]
+Mudr0x folds
+Dempsey folds
+** Summary **
+Mudr0x shows [ 2c, Jc ]
+Deborah collected [ 30 ]
+
+
+
+#Game No : 1012748
+***** 888poker Hand History for Game 1012748 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:54:21
+Tournament #1 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 5: Mudr0x ( 470 )
+Seat 6: Dempsey ( 180 )
+Seat 8: Deborah ( 850 )
+Deborah posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 2d, 8s ]
+Dempsey folds
+Deborah folds
+** Summary **
+Mudr0x shows [ 2d, 8s ]
+Mudr0x collected [ 30 ]
+
+
+
+#Game No : 1012749
+***** 888poker Hand History for Game 1012749 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:54:27
+Tournament #1 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 5: Mudr0x ( 480 )
+Seat 6: Dempsey ( 180 )
+Seat 8: Deborah ( 840 )
+Mudr0x posts small blind [10]
+Dempsey posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, 2c ]
+Deborah folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Td, 2c ]
+Dempsey collected [ 30 ]
+
+
+
+#Game No : 1012750
+***** 888poker Hand History for Game 1012750 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 12:54:32
+Tournament #1 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 5: Mudr0x ( 470 )
+Seat 6: Dempsey ( 190 )
+Seat 8: Deborah ( 840 )
+Dempsey posts small blind [15]
+Deborah posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 5d, 5c ]
+Mudr0x raises [470]
+Dempsey folds
+Deborah calls [440]
+** Dealing flop ** [ 8c, As, 7h ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ Th ]
+** Summary **
+Mudr0x shows [ 5d, 5c ]
+Deborah shows [ 6c, Ah ]
+Deborah collected [ 955 ]
+
+
+
+#Game No : 1012751
+***** 888poker Hand History for Game 1012751 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:54:46
+Tournament #2 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 4: Mudr0x ( 500 )
+Seat 8: Dane ( 500 )
+Seat 9: Janel ( 500 )
+Janel posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 2d, 8c ]
+Dane raises [100]
+Janel calls [90]
+Mudr0x folds
+** Dealing flop ** [ 8h, 7c, 6d ]
+Janel checks
+Dane checks
+** Dealing turn ** [ Jd ]
+Janel bets [180]
+Dane calls [180]
+** Dealing river ** [ Qc ]
+Janel checks
+Dane checks
+** Summary **
+Mudr0x shows [ 2d, 8c ]
+Dane shows [ 4d, Ad ]
+Janel shows [ Kc, 3s ]
+Dane collected [ 580 ]
+
+
+
+#Game No : 1012752
+***** 888poker Hand History for Game 1012752 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:55:01
+Tournament #2 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 4: Mudr0x ( 480 )
+Seat 8: Dane ( 800 )
+Seat 9: Janel ( 220 )
+Mudr0x posts small blind [10]
+Dane posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 4h, Qh ]
+Janel folds
+Mudr0x calls [10]
+Dane raises [75]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 4h, Qh ]
+Dane collected [ 115 ]
+
+
+
+#Game No : 1012753
+***** 888poker Hand History for Game 1012753 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:55:09
+Tournament #2 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: Mudr0x ( 460 )
+Seat 8: Dane ( 820 )
+Seat 9: Janel ( 220 )
+Dane posts small blind [10]
+Janel posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 6c, 4s ]
+Mudr0x folds
+Dane folds
+** Summary **
+Mudr0x shows [ 6c, 4s ]
+Janel collected [ 30 ]
+
+
+
+#Game No : 1012754
+***** 888poker Hand History for Game 1012754 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:55:18
+Tournament #2 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 4: Mudr0x ( 460 )
+Seat 8: Dane ( 810 )
+Seat 9: Janel ( 230 )
+Janel posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Jd, 2c ]
+Dane raises [55]
+Janel folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Jd, 2c ]
+Dane collected [ 85 ]
+
+
+
+#Game No : 1012755
+***** 888poker Hand History for Game 1012755 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:55:24
+Tournament #2 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 4: Mudr0x ( 440 )
+Seat 8: Dane ( 840 )
+Seat 9: Janel ( 220 )
+Mudr0x posts small blind [10]
+Dane posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 6c, 7d ]
+Janel raises [100]
+Mudr0x folds
+Dane folds
+** Summary **
+Mudr0x shows [ 6c, 7d ]
+Janel collected [ 130 ]
+
+
+
+#Game No : 1012756
+***** 888poker Hand History for Game 1012756 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:55:30
+Tournament #2 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: Mudr0x ( 430 )
+Seat 8: Dane ( 820 )
+Seat 9: Janel ( 250 )
+Dane posts small blind [10]
+Janel posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 3d, Tc ]
+Mudr0x folds
+Dane raises [35]
+Janel folds
+** Summary **
+Mudr0x shows [ 3d, Tc ]
+Dane collected [ 65 ]
+
+
+
+#Game No : 1012757
+***** 888poker Hand History for Game 1012757 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:55:36
+Tournament #2 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 4: Mudr0x ( 430 )
+Seat 8: Dane ( 840 )
+Seat 9: Janel ( 230 )
+Janel posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Ts, 9d ]
+Dane raises [45]
+Janel folds
+Mudr0x calls [25]
+** Dealing flop ** [ Js, 9s, Kc ]
+Mudr0x checks
+Dane bets [45]
+Mudr0x raises [385]
+Dane calls [340]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ Kh ]
+** Summary **
+Mudr0x shows [ Ts, 9d ]
+Dane shows [ Qh, Th ]
+Dane collected [ 870 ]
+
+
+
+#Game No : 1012758
+***** 888poker Hand History for Game 1012758 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:55:55
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 500 )
+Seat 4: Mudr0x ( 500 )
+Seat 9: Shelli ( 500 )
+Mudr0x posts small blind [10]
+Shelli posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7h, 8c ]
+Jaleel raises [100]
+Mudr0x folds
+Shelli folds
+** Summary **
+Mudr0x shows [ 7h, 8c ]
+Jaleel collected [ 130 ]
+
+
+
+#Game No : 1012759
+***** 888poker Hand History for Game 1012759 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:56:02
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 530 )
+Seat 4: Mudr0x ( 490 )
+Seat 9: Shelli ( 480 )
+Shelli posts small blind [10]
+Jaleel posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Kc, 8c ]
+Mudr0x raises [40]
+Shelli folds
+Jaleel calls [20]
+** Dealing flop ** [ 3s, 4d, Qs ]
+Jaleel checks
+Mudr0x bets [70]
+Jaleel folds
+** Summary **
+Mudr0x shows [ Kc, 8c ]
+Mudr0x collected [ 160 ]
+
+
+
+#Game No : 1012760
+***** 888poker Hand History for Game 1012760 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:56:18
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 490 )
+Seat 4: Mudr0x ( 540 )
+Seat 9: Shelli ( 470 )
+Jaleel posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 9h, 9c ]
+Shelli raises [80]
+Jaleel calls [70]
+Mudr0x calls [60]
+** Dealing flop ** [ Kh, 4d, Ad ]
+Jaleel checks
+Mudr0x checks
+Shelli checks
+** Dealing turn ** [ Qh ]
+Jaleel checks
+Mudr0x checks
+Shelli checks
+** Dealing river ** [ 3s ]
+Jaleel checks
+Mudr0x checks
+Shelli checks
+** Summary **
+Mudr0x shows [ 9h, 9c ]
+Shelli shows [ 8c, 8h ]
+Mudr0x collected [ 240 ]
+
+
+
+#Game No : 1012761
+***** 888poker Hand History for Game 1012761 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:56:40
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 410 )
+Seat 4: Mudr0x ( 700 )
+Seat 9: Shelli ( 390 )
+Mudr0x posts small blind [10]
+Shelli posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Th, 6h ]
+Jaleel raises [100]
+Mudr0x folds
+Shelli calls [80]
+** Dealing flop ** [ 3s, 2c, Jd ]
+Shelli checks
+Jaleel checks
+** Dealing turn ** [ 4c ]
+Shelli checks
+Jaleel checks
+** Dealing river ** [ Ts ]
+Shelli checks
+Jaleel checks
+** Summary **
+Jaleel shows [ 9s, Qd ]
+Mudr0x shows [ Th, 6h ]
+Jaleel collected [ 210 ]
+
+
+
+#Game No : 1012762
+***** 888poker Hand History for Game 1012762 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:56:55
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 520 )
+Seat 4: Mudr0x ( 690 )
+Seat 9: Shelli ( 290 )
+Shelli posts small blind [10]
+Jaleel posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Qc, Ac ]
+Mudr0x raises [50]
+Shelli folds
+Jaleel calls [30]
+** Dealing flop ** [ 5s, Js, 2s ]
+Jaleel checks
+Mudr0x bets [80]
+Jaleel calls [80]
+** Dealing turn ** [ Ah ]
+Jaleel checks
+Mudr0x bets [180]
+Jaleel calls [180]
+** Dealing river ** [ 3h ]
+Jaleel checks
+Mudr0x checks
+** Summary **
+Mudr0x shows [ Qc, Ac ]
+Mudr0x collected [ 630 ]
+
+
+
+#Game No : 1012763
+***** 888poker Hand History for Game 1012763 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:57:22
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 210 )
+Seat 4: Mudr0x ( 1,010 )
+Seat 9: Shelli ( 280 )
+Jaleel posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 4c, Ts ]
+Shelli folds
+Jaleel folds
+** Summary **
+Mudr0x shows [ 4c, Ts ]
+Mudr0x collected [ 30 ]
+
+
+
+#Game No : 1012764
+***** 888poker Hand History for Game 1012764 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:57:28
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 200 )
+Seat 4: Mudr0x ( 1,020 )
+Seat 9: Shelli ( 280 )
+Mudr0x posts small blind [10]
+Shelli posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Jd, Qs ]
+Jaleel folds
+Mudr0x raises [40]
+Shelli folds
+** Summary **
+Mudr0x shows [ Jd, Qs ]
+Mudr0x collected [ 70 ]
+
+
+
+#Game No : 1012765
+***** 888poker Hand History for Game 1012765 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 12:57:37
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 200 )
+Seat 4: Mudr0x ( 1,040 )
+Seat 9: Shelli ( 260 )
+Shelli posts small blind [10]
+Jaleel posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7c, 5d ]
+Mudr0x raises [50]
+Shelli folds
+Jaleel folds
+** Summary **
+Mudr0x shows [ 7c, 5d ]
+Mudr0x collected [ 80 ]
+
+
+
+#Game No : 1012766
+***** 888poker Hand History for Game 1012766 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 12:57:47
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 180 )
+Seat 4: Mudr0x ( 1,070 )
+Seat 9: Shelli ( 250 )
+Jaleel posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 6h, 5c ]
+Shelli raises [120]
+Jaleel folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 6h, 5c ]
+Shelli collected [ 165 ]
+
+
+
+#Game No : 1012767
+***** 888poker Hand History for Game 1012767 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 12:57:53
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 165 )
+Seat 4: Mudr0x ( 1,040 )
+Seat 9: Shelli ( 295 )
+Mudr0x posts small blind [15]
+Shelli posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Kd, Td ]
+Jaleel folds
+Mudr0x raises [280]
+Shelli folds
+** Summary **
+Mudr0x shows [ Kd, Td ]
+Mudr0x collected [ 325 ]
+
+
+
+#Game No : 1012768
+***** 888poker Hand History for Game 1012768 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 12:58:01
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 165 )
+Seat 4: Mudr0x ( 1,070 )
+Seat 9: Shelli ( 265 )
+Shelli posts small blind [15]
+Jaleel posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ As, 3s ]
+Mudr0x folds
+Shelli folds
+** Summary **
+Mudr0x shows [ As, 3s ]
+Jaleel collected [ 45 ]
+
+
+
+#Game No : 1012769
+***** 888poker Hand History for Game 1012769 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 12:58:06
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 180 )
+Seat 4: Mudr0x ( 1,070 )
+Seat 9: Shelli ( 250 )
+Jaleel posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Js, 7c ]
+Shelli folds
+Jaleel raises [105]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Js, 7c ]
+Jaleel collected [ 150 ]
+
+
+
+#Game No : 1012770
+***** 888poker Hand History for Game 1012770 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 12:58:12
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 210 )
+Seat 4: Mudr0x ( 1,040 )
+Seat 9: Shelli ( 250 )
+Mudr0x posts small blind [15]
+Shelli posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 8h, 4d ]
+Jaleel folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 8h, 4d ]
+Shelli collected [ 45 ]
+
+
+
+#Game No : 1012771
+***** 888poker Hand History for Game 1012771 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 12:58:17
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 210 )
+Seat 4: Mudr0x ( 1,025 )
+Seat 9: Shelli ( 265 )
+Shelli posts small blind [15]
+Jaleel posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 7c, 9d ]
+Mudr0x folds
+Shelli folds
+** Summary **
+Mudr0x shows [ 7c, 9d ]
+Jaleel collected [ 45 ]
+
+
+
+#Game No : 1012772
+***** 888poker Hand History for Game 1012772 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 12:58:22
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 225 )
+Seat 4: Mudr0x ( 1,025 )
+Seat 9: Shelli ( 250 )
+Jaleel posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 4s, 8c ]
+Shelli folds
+Jaleel raises [105]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 4s, 8c ]
+Jaleel collected [ 150 ]
+
+
+
+#Game No : 1012773
+***** 888poker Hand History for Game 1012773 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 12:58:28
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 255 )
+Seat 4: Mudr0x ( 995 )
+Seat 9: Shelli ( 250 )
+Mudr0x posts small blind [15]
+Shelli posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 4h, 9h ]
+Jaleel raises [145]
+Mudr0x folds
+Shelli folds
+** Summary **
+Mudr0x shows [ 4h, 9h ]
+Jaleel collected [ 190 ]
+
+
+
+#Game No : 1012774
+***** 888poker Hand History for Game 1012774 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 12:58:34
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 300 )
+Seat 4: Mudr0x ( 980 )
+Seat 9: Shelli ( 220 )
+Shelli posts small blind [20]
+Jaleel posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 3c, 9h ]
+Mudr0x folds
+Shelli folds
+** Summary **
+Mudr0x shows [ 3c, 9h ]
+Jaleel collected [ 60 ]
+
+
+
+#Game No : 1012775
+***** 888poker Hand History for Game 1012775 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 12:58:39
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 320 )
+Seat 4: Mudr0x ( 980 )
+Seat 9: Shelli ( 200 )
+Jaleel posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 2s, Jc ]
+Shelli raises [160]
+Jaleel folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 2s, Jc ]
+Shelli collected [ 220 ]
+
+
+
+#Game No : 1012776
+***** 888poker Hand History for Game 1012776 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 12:58:45
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 300 )
+Seat 4: Mudr0x ( 940 )
+Seat 9: Shelli ( 260 )
+Mudr0x posts small blind [20]
+Shelli posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 3h, 3s ]
+Jaleel raises [110]
+Mudr0x folds
+Shelli folds
+** Summary **
+Mudr0x shows [ 3h, 3s ]
+Jaleel collected [ 170 ]
+
+
+
+#Game No : 1012777
+***** 888poker Hand History for Game 1012777 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 12:58:51
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 360 )
+Seat 4: Mudr0x ( 920 )
+Seat 9: Shelli ( 220 )
+Shelli posts small blind [20]
+Jaleel posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 7s, Ad ]
+Mudr0x folds
+Shelli folds
+** Summary **
+Mudr0x shows [ 7s, Ad ]
+Jaleel collected [ 60 ]
+
+
+
+#Game No : 1012778
+***** 888poker Hand History for Game 1012778 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 12:58:57
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 3: Jaleel ( 380 )
+Seat 4: Mudr0x ( 920 )
+Seat 9: Shelli ( 200 )
+Jaleel posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 8c, 8h ]
+Shelli raises [160]
+Jaleel folds
+Mudr0x raises [160]
+Shelli calls [40]
+** Dealing flop ** [ Kh, Qs, 2d ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 3d ]
+** Summary **
+Mudr0x shows [ 8c, 8h ]
+Shelli shows [ 6h, Ah ]
+Mudr0x collected [ 420 ]
+
+
+
+#Game No : 1012779
+***** 888poker Hand History for Game 1012779 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 12:59:09
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 360 )
+Seat 4: Mudr0x ( 1,140 )
+Mudr0x posts small blind [20]
+Jaleel posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 6d, Qc ]
+Mudr0x raises [340]
+Jaleel folds
+** Summary **
+Mudr0x shows [ 6d, Qc ]
+Mudr0x collected [ 400 ]
+
+
+
+#Game No : 1012780
+***** 888poker Hand History for Game 1012780 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 12:59:15
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 320 )
+Seat 4: Mudr0x ( 1,180 )
+Jaleel posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 9d, 6d ]
+Jaleel raises [140]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 9d, 6d ]
+Jaleel collected [ 200 ]
+
+
+
+#Game No : 1012781
+***** 888poker Hand History for Game 1012781 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 12:59:21
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 360 )
+Seat 4: Mudr0x ( 1,140 )
+Mudr0x posts small blind [20]
+Jaleel posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, Kc ]
+Mudr0x raises [340]
+Jaleel folds
+** Summary **
+Mudr0x shows [ Td, Kc ]
+Mudr0x collected [ 400 ]
+
+
+
+#Game No : 1012782
+***** 888poker Hand History for Game 1012782 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 12:59:28
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 320 )
+Seat 4: Mudr0x ( 1,180 )
+Jaleel posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 4h, 3s ]
+Jaleel folds
+** Summary **
+Mudr0x shows [ 4h, 3s ]
+Mudr0x collected [ 90 ]
+
+
+
+#Game No : 1012783
+***** 888poker Hand History for Game 1012783 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 12:59:33
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 290 )
+Seat 4: Mudr0x ( 1,210 )
+Mudr0x posts small blind [30]
+Jaleel posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 9c, 8d ]
+Mudr0x raises [260]
+Jaleel calls [230]
+** Dealing flop ** [ Jd, 3d, 3h ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 2s ]
+** Summary **
+Jaleel shows [ 6s, 6d ]
+Mudr0x shows [ 9c, 8d ]
+Jaleel collected [ 580 ]
+
+
+
+#Game No : 1012784
+***** 888poker Hand History for Game 1012784 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 12:59:43
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 580 )
+Seat 4: Mudr0x ( 920 )
+Jaleel posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 3c, Ts ]
+Jaleel raises [100]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 3c, Ts ]
+Jaleel collected [ 190 ]
+
+
+
+#Game No : 1012785
+***** 888poker Hand History for Game 1012785 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 12:59:48
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 640 )
+Seat 4: Mudr0x ( 860 )
+Mudr0x posts small blind [30]
+Jaleel posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 8d, Js ]
+Mudr0x raises [610]
+Jaleel calls [580]
+** Dealing flop ** [ Td, Kh, 6h ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 6d ]
+** Summary **
+Jaleel shows [ Kc, 8s ]
+Mudr0x shows [ 8d, Js ]
+Jaleel collected [ 1,280 ]
+
+
+
+#Game No : 1012786
+***** 888poker Hand History for Game 1012786 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 12:59:58
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 1,280 )
+Seat 4: Mudr0x ( 220 )
+Jaleel posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ Kd, Jh ]
+Jaleel folds
+** Summary **
+Mudr0x shows [ Kd, Jh ]
+Mudr0x collected [ 90 ]
+
+
+
+#Game No : 1012787
+***** 888poker Hand History for Game 1012787 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:00:03
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 1,250 )
+Seat 4: Mudr0x ( 250 )
+Mudr0x posts small blind [30]
+Jaleel posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 6s, Kh ]
+Mudr0x raises [220]
+Jaleel folds
+** Summary **
+Mudr0x shows [ 6s, Kh ]
+Mudr0x collected [ 310 ]
+
+
+
+#Game No : 1012788
+***** 888poker Hand History for Game 1012788 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:00:09
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 1,190 )
+Seat 4: Mudr0x ( 310 )
+Jaleel posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 4h, 3c ]
+Jaleel raises [95]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 4h, 3c ]
+Jaleel collected [ 185 ]
+
+
+
+#Game No : 1012789
+***** 888poker Hand History for Game 1012789 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:00:14
+Tournament #3 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Jaleel ( 1,250 )
+Seat 4: Mudr0x ( 250 )
+Mudr0x posts small blind [30]
+Jaleel posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ Qd, Jd ]
+Mudr0x raises [220]
+Jaleel calls [190]
+** Dealing flop ** [ 6s, Ts, 4d ]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ Qh ]
+** Summary **
+Jaleel shows [ 4s, Js ]
+Mudr0x shows [ Qd, Jd ]
+Jaleel collected [ 500 ]
+
+
+
+#Game No : 1012790
+***** 888poker Hand History for Game 1012790 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:00:26
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 500 )
+Seat 5: Sunette ( 500 )
+Seat 8: Colum ( 500 )
+Sunette posts small blind [10]
+Colum posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7d, 8d ]
+Mudr0x raises [50]
+Sunette folds
+Colum raises [90]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 7d, 8d ]
+Colum collected [ 170 ]
+
+
+
+#Game No : 1012791
+***** 888poker Hand History for Game 1012791 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:00:37
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 450 )
+Seat 5: Sunette ( 490 )
+Seat 8: Colum ( 560 )
+Colum posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 9d, 7s ]
+Sunette folds
+Colum calls [10]
+Mudr0x checks
+** Dealing flop ** [ Ts, Jh, Kh ]
+Colum bets [40]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 9d, 7s ]
+Colum collected [ 80 ]
+
+
+
+#Game No : 1012792
+***** 888poker Hand History for Game 1012792 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:00:46
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 430 )
+Seat 5: Sunette ( 490 )
+Seat 8: Colum ( 580 )
+Mudr0x posts small blind [10]
+Sunette posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 8d, As ]
+Colum raises [100]
+Mudr0x raises [420]
+Sunette folds
+Colum calls [330]
+** Dealing flop ** [ 4c, 4d, Ac ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 3h ]
+** Summary **
+Mudr0x shows [ 8d, As ]
+Colum shows [ Qh, Kd ]
+Mudr0x collected [ 880 ]
+
+
+
+#Game No : 1012793
+***** 888poker Hand History for Game 1012793 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:00:58
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 880 )
+Seat 5: Sunette ( 470 )
+Seat 8: Colum ( 150 )
+Sunette posts small blind [10]
+Colum posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 8s, 4h ]
+Mudr0x folds
+Sunette folds
+** Summary **
+Mudr0x shows [ 8s, 4h ]
+Colum collected [ 30 ]
+
+
+
+#Game No : 1012794
+***** 888poker Hand History for Game 1012794 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:01:03
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 880 )
+Seat 5: Sunette ( 460 )
+Seat 8: Colum ( 160 )
+Colum posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 4h, 2c ]
+Sunette folds
+Colum folds
+** Summary **
+Mudr0x shows [ 4h, 2c ]
+Mudr0x collected [ 30 ]
+
+
+
+#Game No : 1012795
+***** 888poker Hand History for Game 1012795 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:01:09
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 890 )
+Seat 5: Sunette ( 460 )
+Seat 8: Colum ( 150 )
+Mudr0x posts small blind [10]
+Sunette posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, As ]
+Colum folds
+Mudr0x raises [40]
+Sunette folds
+** Summary **
+Mudr0x shows [ Td, As ]
+Mudr0x collected [ 70 ]
+
+
+
+#Game No : 1012796
+***** 888poker Hand History for Game 1012796 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:01:19
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 910 )
+Seat 5: Sunette ( 440 )
+Seat 8: Colum ( 150 )
+Sunette posts small blind [10]
+Colum posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Th, Jc ]
+Mudr0x raises [50]
+Sunette folds
+Colum folds
+** Summary **
+Mudr0x shows [ Th, Jc ]
+Mudr0x collected [ 80 ]
+
+
+
+#Game No : 1012797
+***** 888poker Hand History for Game 1012797 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:01:29
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 940 )
+Seat 5: Sunette ( 430 )
+Seat 8: Colum ( 130 )
+Colum posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Ks, 8c ]
+Sunette folds
+Colum folds
+** Summary **
+Mudr0x shows [ Ks, 8c ]
+Mudr0x collected [ 30 ]
+
+
+
+#Game No : 1012798
+***** 888poker Hand History for Game 1012798 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:01:35
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 950 )
+Seat 5: Sunette ( 430 )
+Seat 8: Colum ( 120 )
+Mudr0x posts small blind [15]
+Sunette posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 4c, Ad ]
+Colum folds
+Mudr0x calls [15]
+Sunette checks
+** Dealing flop ** [ Qd, 6d, 9s ]
+Mudr0x checks
+Sunette checks
+** Dealing turn ** [ Ks ]
+Mudr0x checks
+Sunette checks
+** Dealing river ** [ As ]
+Mudr0x bets [50]
+Sunette folds
+** Summary **
+Mudr0x shows [ 4c, Ad ]
+Mudr0x collected [ 110 ]
+
+
+
+#Game No : 1012799
+***** 888poker Hand History for Game 1012799 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:01:56
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 980 )
+Seat 5: Sunette ( 400 )
+Seat 8: Colum ( 120 )
+Sunette posts small blind [15]
+Colum posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 9s, Ad ]
+Mudr0x raises [75]
+Sunette folds
+Colum folds
+** Summary **
+Mudr0x shows [ 9s, Ad ]
+Mudr0x collected [ 120 ]
+
+
+
+#Game No : 1012800
+***** 888poker Hand History for Game 1012800 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:02:06
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 1,025 )
+Seat 5: Sunette ( 385 )
+Seat 8: Colum ( 90 )
+Colum posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 7c, 9c ]
+Sunette raises [120]
+Colum calls [75]
+Mudr0x folds
+** Dealing flop ** [ 8d, 9s, 5s ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 2s ]
+** Summary **
+Mudr0x shows [ 7c, 9c ]
+Sunette shows [ 3c, 3h ]
+Colum shows [ 4c, Ah ]
+Sunette collected [ 240 ]
+
+
+
+#Game No : 1012801
+***** 888poker Hand History for Game 1012801 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:02:15
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 995 )
+Seat 5: Sunette ( 505 )
+Mudr0x posts small blind [15]
+Sunette posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Js, Ts ]
+Mudr0x raises [105]
+Sunette folds
+** Summary **
+Mudr0x shows [ Js, Ts ]
+Mudr0x collected [ 150 ]
+
+
+
+#Game No : 1012802
+***** 888poker Hand History for Game 1012802 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:02:25
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,025 )
+Seat 5: Sunette ( 475 )
+Sunette posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Ts, 8c ]
+Sunette folds
+** Summary **
+Mudr0x shows [ Ts, 8c ]
+Mudr0x collected [ 45 ]
+
+
+
+#Game No : 1012803
+***** 888poker Hand History for Game 1012803 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:02:29
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,040 )
+Seat 5: Sunette ( 460 )
+Mudr0x posts small blind [15]
+Sunette posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 5h, Js ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5h, Js ]
+Sunette collected [ 45 ]
+
+
+
+#Game No : 1012804
+***** 888poker Hand History for Game 1012804 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:02:33
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,025 )
+Seat 5: Sunette ( 475 )
+Sunette posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ As, Ts ]
+Sunette folds
+** Summary **
+Mudr0x shows [ As, Ts ]
+Mudr0x collected [ 45 ]
+
+
+
+#Game No : 1012805
+***** 888poker Hand History for Game 1012805 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:02:38
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,040 )
+Seat 5: Sunette ( 460 )
+Mudr0x posts small blind [15]
+Sunette posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 3c, Jc ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 3c, Jc ]
+Sunette collected [ 45 ]
+
+
+
+#Game No : 1012806
+***** 888poker Hand History for Game 1012806 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:02:43
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,025 )
+Seat 5: Sunette ( 475 )
+Sunette posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 5c, 6d ]
+Sunette raises [180]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5c, 6d ]
+Sunette collected [ 240 ]
+
+
+
+#Game No : 1012807
+***** 888poker Hand History for Game 1012807 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:02:48
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 985 )
+Seat 5: Sunette ( 515 )
+Mudr0x posts small blind [20]
+Sunette posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 8d, Ad ]
+Mudr0x raises [140]
+Sunette folds
+** Summary **
+Mudr0x shows [ 8d, Ad ]
+Mudr0x collected [ 200 ]
+
+
+
+#Game No : 1012808
+***** 888poker Hand History for Game 1012808 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:02:56
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,025 )
+Seat 5: Sunette ( 475 )
+Sunette posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 2h, 5d ]
+Sunette calls [20]
+Mudr0x checks
+** Dealing flop ** [ 8c, Kc, 8h ]
+Mudr0x checks
+Sunette checks
+** Dealing turn ** [ 5h ]
+Mudr0x checks
+Sunette checks
+** Dealing river ** [ Kd ]
+Mudr0x checks
+Sunette checks
+** Summary **
+Mudr0x shows [ 2h, 5d ]
+Sunette shows [ 4d, As ]
+Sunette collected [ 80 ]
+
+
+
+#Game No : 1012809
+***** 888poker Hand History for Game 1012809 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:03:14
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 985 )
+Seat 5: Sunette ( 515 )
+Mudr0x posts small blind [20]
+Sunette posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 7c, 7h ]
+Mudr0x raises [140]
+Sunette folds
+** Summary **
+Mudr0x shows [ 7c, 7h ]
+Mudr0x collected [ 200 ]
+
+
+
+#Game No : 1012810
+***** 888poker Hand History for Game 1012810 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:03:22
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,025 )
+Seat 5: Sunette ( 475 )
+Sunette posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ Qh, 6c ]
+Sunette raises [140]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Qh, 6c ]
+Sunette collected [ 200 ]
+
+
+
+#Game No : 1012811
+***** 888poker Hand History for Game 1012811 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:03:27
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 985 )
+Seat 5: Sunette ( 515 )
+Mudr0x posts small blind [20]
+Sunette posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ As, 3d ]
+Mudr0x raises [140]
+Sunette calls [120]
+** Dealing flop ** [ Ad, 5s, Jd ]
+Sunette checks
+Mudr0x bets [355]
+Sunette folds
+** Summary **
+Mudr0x shows [ As, 3d ]
+Mudr0x collected [ 675 ]
+
+
+
+#Game No : 1012812
+***** 888poker Hand History for Game 1012812 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:03:40
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,145 )
+Seat 5: Sunette ( 355 )
+Sunette posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 3h, 3c ]
+Sunette folds
+** Summary **
+Mudr0x shows [ 3h, 3c ]
+Mudr0x collected [ 60 ]
+
+
+
+#Game No : 1012813
+***** 888poker Hand History for Game 1012813 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:03:45
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,165 )
+Seat 5: Sunette ( 335 )
+Mudr0x posts small blind [20]
+Sunette posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 5h, 9h ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5h, 9h ]
+Sunette collected [ 60 ]
+
+
+
+#Game No : 1012814
+***** 888poker Hand History for Game 1012814 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:03:49
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,145 )
+Seat 5: Sunette ( 355 )
+Sunette posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ Jc, 3c ]
+Sunette raises [210]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Jc, 3c ]
+Sunette collected [ 300 ]
+
+
+
+#Game No : 1012815
+***** 888poker Hand History for Game 1012815 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:03:54
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,085 )
+Seat 5: Sunette ( 415 )
+Mudr0x posts small blind [30]
+Sunette posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 5d, 7s ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5d, 7s ]
+Sunette collected [ 90 ]
+
+
+
+#Game No : 1012816
+***** 888poker Hand History for Game 1012816 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:03:58
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,055 )
+Seat 5: Sunette ( 445 )
+Sunette posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 2s, 2d ]
+Sunette folds
+** Summary **
+Mudr0x shows [ 2s, 2d ]
+Mudr0x collected [ 90 ]
+
+
+
+#Game No : 1012817
+***** 888poker Hand History for Game 1012817 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:04:02
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,085 )
+Seat 5: Sunette ( 415 )
+Mudr0x posts small blind [30]
+Sunette posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ Ah, Kd ]
+Mudr0x raises [385]
+Sunette folds
+** Summary **
+Mudr0x shows [ Ah, Kd ]
+Mudr0x collected [ 475 ]
+
+
+
+#Game No : 1012818
+***** 888poker Hand History for Game 1012818 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:04:09
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,145 )
+Seat 5: Sunette ( 355 )
+Sunette posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 8d, 8h ]
+Sunette calls [30]
+Mudr0x raises [295]
+Sunette calls [295]
+** Dealing flop ** [ Jd, Qh, Th ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ Ks ]
+** Summary **
+Mudr0x shows [ 8d, 8h ]
+Sunette shows [ 2c, Ad ]
+Sunette collected [ 710 ]
+
+
+
+#Game No : 1012819
+***** 888poker Hand History for Game 1012819 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:04:21
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 790 )
+Seat 5: Sunette ( 710 )
+Mudr0x posts small blind [30]
+Sunette posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ Qh, 7s ]
+Mudr0x raises [680]
+Sunette folds
+** Summary **
+Mudr0x shows [ Qh, 7s ]
+Mudr0x collected [ 770 ]
+
+
+
+#Game No : 1012820
+***** 888poker Hand History for Game 1012820 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:04:28
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 850 )
+Seat 5: Sunette ( 650 )
+Sunette posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 7d, Kc ]
+Sunette raises [270]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 7d, Kc ]
+Sunette collected [ 360 ]
+
+
+
+#Game No : 1012821
+***** 888poker Hand History for Game 1012821 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:04:32
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 790 )
+Seat 5: Sunette ( 710 )
+Mudr0x posts small blind [30]
+Sunette posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ Ad, Ac ]
+Mudr0x raises [680]
+Sunette folds
+** Summary **
+Mudr0x shows [ Ad, Ac ]
+Mudr0x collected [ 770 ]
+
+
+
+#Game No : 1012822
+***** 888poker Hand History for Game 1012822 *****
+40/80 Blinds No Limit Holdem - *** 14 02 2022 13:04:39
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 850 )
+Seat 5: Sunette ( 650 )
+Sunette posts small blind [40]
+Mudr0x posts big blind [80]
+** Dealing down cards **
+Dealt to Mudr0x [ 3s, Ac ]
+Sunette raises [360]
+Mudr0x raises [570]
+Sunette folds
+** Summary **
+Mudr0x shows [ 3s, Ac ]
+Mudr0x collected [ 1,050 ]
+
+
+
+#Game No : 1012823
+***** 888poker Hand History for Game 1012823 *****
+40/80 Blinds No Limit Holdem - *** 14 02 2022 13:04:47
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,250 )
+Seat 5: Sunette ( 250 )
+Mudr0x posts small blind [40]
+Sunette posts big blind [80]
+** Dealing down cards **
+Dealt to Mudr0x [ 4d, 6h ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 4d, 6h ]
+Sunette collected [ 120 ]
+
+
+
+#Game No : 1012824
+***** 888poker Hand History for Game 1012824 *****
+40/80 Blinds No Limit Holdem - *** 14 02 2022 13:04:51
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,210 )
+Seat 5: Sunette ( 290 )
+Sunette posts small blind [40]
+Mudr0x posts big blind [80]
+** Dealing down cards **
+Dealt to Mudr0x [ 2d, 3s ]
+Sunette raises [250]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 2d, 3s ]
+Sunette collected [ 370 ]
+
+
+
+#Game No : 1012825
+***** 888poker Hand History for Game 1012825 *****
+40/80 Blinds No Limit Holdem - *** 14 02 2022 13:04:56
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,130 )
+Seat 5: Sunette ( 370 )
+Mudr0x posts small blind [40]
+Sunette posts big blind [80]
+** Dealing down cards **
+Dealt to Mudr0x [ Js, 6c ]
+Mudr0x raises [330]
+Sunette folds
+** Summary **
+Mudr0x shows [ Js, 6c ]
+Mudr0x collected [ 450 ]
+
+
+
+#Game No : 1012826
+***** 888poker Hand History for Game 1012826 *****
+40/80 Blinds No Limit Holdem - *** 14 02 2022 13:05:02
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,210 )
+Seat 5: Sunette ( 290 )
+Sunette posts small blind [40]
+Mudr0x posts big blind [80]
+** Dealing down cards **
+Dealt to Mudr0x [ 4h, Jh ]
+Sunette raises [250]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 4h, Jh ]
+Sunette collected [ 370 ]
+
+
+
+#Game No : 1012827
+***** 888poker Hand History for Game 1012827 *****
+40/80 Blinds No Limit Holdem - *** 14 02 2022 13:05:07
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,130 )
+Seat 5: Sunette ( 370 )
+Mudr0x posts small blind [40]
+Sunette posts big blind [80]
+** Dealing down cards **
+Dealt to Mudr0x [ 8h, Qs ]
+Mudr0x raises [330]
+Sunette folds
+** Summary **
+Mudr0x shows [ 8h, Qs ]
+Mudr0x collected [ 450 ]
+
+
+
+#Game No : 1012828
+***** 888poker Hand History for Game 1012828 *****
+40/80 Blinds No Limit Holdem - *** 14 02 2022 13:05:13
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,210 )
+Seat 5: Sunette ( 290 )
+Sunette posts small blind [40]
+Mudr0x posts big blind [80]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, Jd ]
+Sunette folds
+** Summary **
+Mudr0x shows [ Td, Jd ]
+Mudr0x collected [ 120 ]
+
+
+
+#Game No : 1012829
+***** 888poker Hand History for Game 1012829 *****
+40/80 Blinds No Limit Holdem - *** 14 02 2022 13:05:18
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,250 )
+Seat 5: Sunette ( 250 )
+Mudr0x posts small blind [40]
+Sunette posts big blind [80]
+** Dealing down cards **
+Dealt to Mudr0x [ 5d, 6c ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5d, 6c ]
+Sunette collected [ 120 ]
+
+
+
+#Game No : 1012830
+***** 888poker Hand History for Game 1012830 *****
+50/100 Blinds No Limit Holdem - *** 14 02 2022 13:05:22
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,210 )
+Seat 5: Sunette ( 290 )
+Sunette posts small blind [50]
+Mudr0x posts big blind [100]
+** Dealing down cards **
+Dealt to Mudr0x [ 8c, Kh ]
+Sunette folds
+** Summary **
+Mudr0x shows [ 8c, Kh ]
+Mudr0x collected [ 150 ]
+
+
+
+#Game No : 1012831
+***** 888poker Hand History for Game 1012831 *****
+50/100 Blinds No Limit Holdem - *** 14 02 2022 13:05:26
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,260 )
+Seat 5: Sunette ( 240 )
+Mudr0x posts small blind [50]
+Sunette posts big blind [100]
+** Dealing down cards **
+Dealt to Mudr0x [ Ah, 2c ]
+Mudr0x raises [190]
+Sunette folds
+** Summary **
+Mudr0x shows [ Ah, 2c ]
+Mudr0x collected [ 340 ]
+
+
+
+#Game No : 1012832
+***** 888poker Hand History for Game 1012832 *****
+50/100 Blinds No Limit Holdem - *** 14 02 2022 13:05:33
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,360 )
+Seat 5: Sunette ( 140 )
+Sunette posts small blind [50]
+Mudr0x posts big blind [100]
+** Dealing down cards **
+Dealt to Mudr0x [ Kh, Tc ]
+Sunette raises [90]
+Mudr0x calls [40]
+** Dealing flop ** [ 8s, 4d, 7s ]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ 4c ]
+** Summary **
+Mudr0x shows [ Kh, Tc ]
+Sunette shows [ 9d, 9h ]
+Sunette collected [ 280 ]
+
+
+
+#Game No : 1012833
+***** 888poker Hand History for Game 1012833 *****
+50/100 Blinds No Limit Holdem - *** 14 02 2022 13:05:43
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,220 )
+Seat 5: Sunette ( 280 )
+Mudr0x posts small blind [50]
+Sunette posts big blind [100]
+** Dealing down cards **
+Dealt to Mudr0x [ 3h, Ac ]
+Mudr0x raises [230]
+Sunette folds
+** Summary **
+Mudr0x shows [ 3h, Ac ]
+Mudr0x collected [ 380 ]
+
+
+
+#Game No : 1012834
+***** 888poker Hand History for Game 1012834 *****
+50/100 Blinds No Limit Holdem - *** 14 02 2022 13:05:50
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,320 )
+Seat 5: Sunette ( 180 )
+Sunette posts small blind [50]
+Mudr0x posts big blind [100]
+** Dealing down cards **
+Dealt to Mudr0x [ 4d, Kd ]
+Sunette raises [130]
+Mudr0x calls [80]
+** Dealing flop ** [ 5c, Js, 4c ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 2d ]
+** Summary **
+Mudr0x shows [ 4d, Kd ]
+Sunette shows [ Kh, Jc ]
+Sunette collected [ 360 ]
+
+
+
+#Game No : 1012835
+***** 888poker Hand History for Game 1012835 *****
+50/100 Blinds No Limit Holdem - *** 14 02 2022 13:06:00
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,140 )
+Seat 5: Sunette ( 360 )
+Mudr0x posts small blind [50]
+Sunette posts big blind [100]
+** Dealing down cards **
+Dealt to Mudr0x [ 6s, 9d ]
+Mudr0x raises [310]
+Sunette folds
+** Summary **
+Mudr0x shows [ 6s, 9d ]
+Mudr0x collected [ 460 ]
+
+
+
+#Game No : 1012836
+***** 888poker Hand History for Game 1012836 *****
+50/100 Blinds No Limit Holdem - *** 14 02 2022 13:06:08
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,240 )
+Seat 5: Sunette ( 260 )
+Sunette posts small blind [50]
+Mudr0x posts big blind [100]
+** Dealing down cards **
+Dealt to Mudr0x [ 7d, 5c ]
+Sunette raises [210]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 7d, 5c ]
+Sunette collected [ 360 ]
+
+
+
+#Game No : 1012837
+***** 888poker Hand History for Game 1012837 *****
+50/100 Blinds No Limit Holdem - *** 14 02 2022 13:06:12
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,140 )
+Seat 5: Sunette ( 360 )
+Mudr0x posts small blind [50]
+Sunette posts big blind [100]
+** Dealing down cards **
+Dealt to Mudr0x [ Th, Kd ]
+Mudr0x raises [310]
+Sunette calls [260]
+** Dealing flop ** [ 6s, Ad, 7h ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Ac ]
+** Summary **
+Mudr0x shows [ Th, Kd ]
+Sunette shows [ Js, Ks ]
+Sunette collected [ 720 ]
+
+
+
+#Game No : 1012838
+***** 888poker Hand History for Game 1012838 *****
+60/120 Blinds No Limit Holdem - *** 14 02 2022 13:06:22
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 780 )
+Seat 5: Sunette ( 720 )
+Sunette posts small blind [60]
+Mudr0x posts big blind [120]
+** Dealing down cards **
+Dealt to Mudr0x [ Kc, Ad ]
+Sunette folds
+** Summary **
+Mudr0x shows [ Kc, Ad ]
+Mudr0x collected [ 180 ]
+
+
+
+#Game No : 1012839
+***** 888poker Hand History for Game 1012839 *****
+60/120 Blinds No Limit Holdem - *** 14 02 2022 13:06:27
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 840 )
+Seat 5: Sunette ( 660 )
+Mudr0x posts small blind [60]
+Sunette posts big blind [120]
+** Dealing down cards **
+Dealt to Mudr0x [ 4h, Qh ]
+Mudr0x raises [600]
+Sunette folds
+** Summary **
+Mudr0x shows [ 4h, Qh ]
+Mudr0x collected [ 780 ]
+
+
+
+#Game No : 1012840
+***** 888poker Hand History for Game 1012840 *****
+60/120 Blinds No Limit Holdem - *** 14 02 2022 13:06:34
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 960 )
+Seat 5: Sunette ( 540 )
+Sunette posts small blind [60]
+Mudr0x posts big blind [120]
+** Dealing down cards **
+Dealt to Mudr0x [ Tc, 8d ]
+Sunette folds
+** Summary **
+Mudr0x shows [ Tc, 8d ]
+Mudr0x collected [ 180 ]
+
+
+
+#Game No : 1012841
+***** 888poker Hand History for Game 1012841 *****
+60/120 Blinds No Limit Holdem - *** 14 02 2022 13:06:39
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,020 )
+Seat 5: Sunette ( 480 )
+Mudr0x posts small blind [60]
+Sunette posts big blind [120]
+** Dealing down cards **
+Dealt to Mudr0x [ As, 8s ]
+Mudr0x raises [420]
+Sunette folds
+** Summary **
+Mudr0x shows [ As, 8s ]
+Mudr0x collected [ 600 ]
+
+
+
+#Game No : 1012842
+***** 888poker Hand History for Game 1012842 *****
+60/120 Blinds No Limit Holdem - *** 14 02 2022 13:06:45
+Tournament #4 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Mudr0x ( 1,140 )
+Seat 5: Sunette ( 360 )
+Sunette posts small blind [60]
+Mudr0x posts big blind [120]
+** Dealing down cards **
+Dealt to Mudr0x [ Qc, 9c ]
+Sunette calls [60]
+Mudr0x raises [240]
+Sunette calls [240]
+** Dealing flop ** [ Qh, 2c, Jh ]
+** Dealing turn ** [ 4s ]
+** Dealing river ** [ 4d ]
+** Summary **
+Mudr0x shows [ Qc, 9c ]
+Sunette shows [ 8d, As ]
+Mudr0x collected [ 720 ]
+
+
+
+#Game No : 1012843
+***** 888poker Hand History for Game 1012843 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:06:59
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Jennings ( 500 )
+Seat 3: Eldora ( 500 )
+Seat 5: Mudr0x ( 500 )
+Jennings posts small blind [10]
+Eldora posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 9h, Kh ]
+Mudr0x raises [50]
+Jennings folds
+Eldora calls [30]
+** Dealing flop ** [ Jc, Ad, 8c ]
+Eldora checks
+Mudr0x bets [80]
+Eldora folds
+** Summary **
+Mudr0x shows [ 9h, Kh ]
+Mudr0x collected [ 190 ]
+
+
+
+#Game No : 1012844
+***** 888poker Hand History for Game 1012844 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:07:16
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Jennings ( 490 )
+Seat 3: Eldora ( 450 )
+Seat 5: Mudr0x ( 560 )
+Eldora posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Tc, Qh ]
+Jennings raises [90]
+Eldora calls [80]
+Mudr0x folds
+** Dealing flop ** [ 8s, Qs, 4s ]
+Eldora bets [120]
+Jennings calls [120]
+** Dealing turn ** [ 3h ]
+Eldora checks
+Jennings checks
+** Dealing river ** [ 9d ]
+Eldora checks
+Jennings checks
+** Summary **
+Eldora shows [ 7h, 8d ]
+Mudr0x shows [ Tc, Qh ]
+Eldora collected [ 440 ]
+
+
+
+#Game No : 1012845
+***** 888poker Hand History for Game 1012845 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:07:30
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 1: Jennings ( 280 )
+Seat 3: Eldora ( 680 )
+Seat 5: Mudr0x ( 540 )
+Mudr0x posts small blind [10]
+Jennings posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 5c, Td ]
+Eldora raises [100]
+Mudr0x folds
+Jennings calls [80]
+** Dealing flop ** [ 3h, Kh, 9d ]
+Jennings checks
+Eldora checks
+** Dealing turn ** [ 2c ]
+Jennings checks
+Eldora checks
+** Dealing river ** [ Qh ]
+Jennings checks
+Eldora checks
+** Summary **
+Jennings shows [ 7d, 8c ]
+Eldora shows [ 6s, 7c ]
+Mudr0x shows [ 5c, Td ]
+Jennings collected [ 210 ]
+
+
+
+#Game No : 1012846
+***** 888poker Hand History for Game 1012846 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:07:45
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Jennings ( 390 )
+Seat 3: Eldora ( 580 )
+Seat 5: Mudr0x ( 530 )
+Jennings posts small blind [10]
+Eldora posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7s, Jh ]
+Mudr0x folds
+Jennings raises [70]
+Eldora calls [60]
+** Dealing flop ** [ 2d, 8d, 7c ]
+Jennings checks
+Eldora checks
+** Dealing turn ** [ 6s ]
+Jennings checks
+Eldora checks
+** Dealing river ** [ Jc ]
+Jennings checks
+Eldora checks
+** Summary **
+Jennings shows [ Kh, Qs ]
+Mudr0x shows [ 7s, Jh ]
+Jennings collected [ 160 ]
+
+
+
+#Game No : 1012847
+***** 888poker Hand History for Game 1012847 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:07:59
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Jennings ( 470 )
+Seat 3: Eldora ( 500 )
+Seat 5: Mudr0x ( 530 )
+Eldora posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 8h, 7h ]
+Jennings raises [95]
+Eldora calls [85]
+Mudr0x folds
+** Dealing flop ** [ Ks, 9c, 8c ]
+Eldora checks
+Jennings checks
+** Dealing turn ** [ 6s ]
+Eldora checks
+Jennings checks
+** Dealing river ** [ 3s ]
+Eldora checks
+Jennings checks
+** Summary **
+Jennings shows [ 6d, Ac ]
+Mudr0x shows [ 8h, 7h ]
+Jennings collected [ 210 ]
+
+
+
+#Game No : 1012848
+***** 888poker Hand History for Game 1012848 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:08:15
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 1: Jennings ( 585 )
+Seat 3: Eldora ( 405 )
+Seat 5: Mudr0x ( 510 )
+Mudr0x posts small blind [10]
+Jennings posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 3d, 8c ]
+Eldora raises [90]
+Mudr0x folds
+Jennings folds
+** Summary **
+Mudr0x shows [ 3d, 8c ]
+Eldora collected [ 120 ]
+
+
+
+#Game No : 1012849
+***** 888poker Hand History for Game 1012849 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:08:20
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Jennings ( 565 )
+Seat 3: Eldora ( 435 )
+Seat 5: Mudr0x ( 500 )
+Jennings posts small blind [10]
+Eldora posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Ah, 6d ]
+Mudr0x raises [50]
+Jennings folds
+Eldora calls [30]
+** Dealing flop ** [ 2c, 3h, 4d ]
+Eldora checks
+Mudr0x bets [80]
+Eldora folds
+** Summary **
+Mudr0x shows [ Ah, 6d ]
+Mudr0x collected [ 190 ]
+
+
+
+#Game No : 1012850
+***** 888poker Hand History for Game 1012850 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:08:37
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Jennings ( 555 )
+Seat 3: Eldora ( 385 )
+Seat 5: Mudr0x ( 560 )
+Eldora posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 4d, Js ]
+Jennings raises [100]
+Eldora calls [90]
+Mudr0x folds
+** Dealing flop ** [ 5s, 9s, Ks ]
+Eldora checks
+Jennings checks
+** Dealing turn ** [ 6c ]
+Eldora checks
+Jennings checks
+** Dealing river ** [ Qd ]
+Eldora checks
+Jennings checks
+** Summary **
+Jennings shows [ Ad, 4c ]
+Mudr0x shows [ 4d, Js ]
+Jennings collected [ 220 ]
+
+
+
+#Game No : 1012851
+***** 888poker Hand History for Game 1012851 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:08:52
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 1: Jennings ( 675 )
+Seat 3: Eldora ( 285 )
+Seat 5: Mudr0x ( 540 )
+Mudr0x posts small blind [15]
+Jennings posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 6h, Ac ]
+Eldora folds
+Mudr0x calls [15]
+Jennings checks
+** Dealing flop ** [ Tc, 4h, Kc ]
+Mudr0x checks
+Jennings bets [40]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 6h, Ac ]
+Jennings collected [ 100 ]
+
+
+
+#Game No : 1012852
+***** 888poker Hand History for Game 1012852 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:09:04
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Jennings ( 705 )
+Seat 3: Eldora ( 285 )
+Seat 5: Mudr0x ( 510 )
+Jennings posts small blind [15]
+Eldora posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Jh, 9h ]
+Mudr0x raises [60]
+Jennings calls [45]
+Eldora folds
+** Dealing flop ** [ 7s, Ks, 3s ]
+Jennings checks
+Mudr0x checks
+** Dealing turn ** [ 4s ]
+Jennings checks
+Mudr0x checks
+** Dealing river ** [ Jd ]
+Jennings checks
+Mudr0x checks
+** Summary **
+Mudr0x shows [ Jh, 9h ]
+Mudr0x collected [ 150 ]
+
+
+
+#Game No : 1012853
+***** 888poker Hand History for Game 1012853 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:09:25
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Jennings ( 645 )
+Seat 3: Eldora ( 255 )
+Seat 5: Mudr0x ( 600 )
+Eldora posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, Ks ]
+Jennings folds
+Eldora raises [55]
+Mudr0x raises [225]
+Eldora folds
+** Summary **
+Mudr0x shows [ Td, Ks ]
+Mudr0x collected [ 325 ]
+
+
+
+#Game No : 1012854
+***** 888poker Hand History for Game 1012854 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:09:34
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 1: Jennings ( 645 )
+Seat 3: Eldora ( 185 )
+Seat 5: Mudr0x ( 670 )
+Mudr0x posts small blind [15]
+Jennings posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 9s, 2c ]
+Eldora folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 9s, 2c ]
+Jennings collected [ 45 ]
+
+
+
+#Game No : 1012855
+***** 888poker Hand History for Game 1012855 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:09:39
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Jennings ( 660 )
+Seat 3: Eldora ( 185 )
+Seat 5: Mudr0x ( 655 )
+Jennings posts small blind [15]
+Eldora posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 6c, 6d ]
+Mudr0x raises [75]
+Jennings folds
+Eldora folds
+** Summary **
+Mudr0x shows [ 6c, 6d ]
+Mudr0x collected [ 120 ]
+
+
+
+#Game No : 1012856
+***** 888poker Hand History for Game 1012856 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:09:49
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Jennings ( 645 )
+Seat 3: Eldora ( 155 )
+Seat 5: Mudr0x ( 700 )
+Eldora posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Jd, 5c ]
+Jennings raises [80]
+Eldora folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Jd, 5c ]
+Jennings collected [ 125 ]
+
+
+
+#Game No : 1012857
+***** 888poker Hand History for Game 1012857 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:09:55
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 1: Jennings ( 690 )
+Seat 3: Eldora ( 140 )
+Seat 5: Mudr0x ( 670 )
+Mudr0x posts small blind [15]
+Jennings posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 8s, 7s ]
+Eldora folds
+Mudr0x calls [15]
+Jennings checks
+** Dealing flop ** [ Qc, 8d, As ]
+Mudr0x bets [45]
+Jennings folds
+** Summary **
+Mudr0x shows [ 8s, 7s ]
+Mudr0x collected [ 105 ]
+
+
+
+#Game No : 1012858
+***** 888poker Hand History for Game 1012858 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:10:08
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Jennings ( 660 )
+Seat 3: Eldora ( 140 )
+Seat 5: Mudr0x ( 700 )
+Jennings posts small blind [15]
+Eldora posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, Ah ]
+Mudr0x raises [75]
+Jennings calls [60]
+Eldora folds
+** Dealing flop ** [ Ac, 5s, Ad ]
+Jennings checks
+Mudr0x bets [135]
+Jennings folds
+** Summary **
+Mudr0x shows [ Td, Ah ]
+Mudr0x collected [ 315 ]
+
+
+
+#Game No : 1012859
+***** 888poker Hand History for Game 1012859 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:10:25
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Jennings ( 585 )
+Seat 3: Eldora ( 110 )
+Seat 5: Mudr0x ( 805 )
+Eldora posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ Kh, 4h ]
+Jennings raises [115]
+Eldora folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Kh, 4h ]
+Jennings collected [ 175 ]
+
+
+
+#Game No : 1012860
+***** 888poker Hand History for Game 1012860 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:10:31
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 1: Jennings ( 645 )
+Seat 3: Eldora ( 90 )
+Seat 5: Mudr0x ( 765 )
+Mudr0x posts small blind [20]
+Jennings posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ Ac, 3c ]
+Eldora folds
+Mudr0x calls [20]
+Jennings raises [55]
+Mudr0x calls [55]
+** Dealing flop ** [ 6s, Qs, Tc ]
+Mudr0x bets [140]
+Jennings calls [140]
+** Dealing turn ** [ Js ]
+Mudr0x bets [410]
+Jennings calls [410]
+** Dealing river ** [ Kd ]
+** Summary **
+Jennings shows [ Jc, Ad ]
+Mudr0x shows [ Ac, 3c ]
+Jennings collected [ 645 ]
+Mudr0x collected [ 645 ]
+
+
+
+#Game No : 1012861
+***** 888poker Hand History for Game 1012861 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:10:51
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Jennings ( 645 )
+Seat 3: Eldora ( 90 )
+Seat 5: Mudr0x ( 765 )
+Jennings posts small blind [20]
+Eldora posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 5d, 3h ]
+Mudr0x folds
+Jennings folds
+** Summary **
+Mudr0x shows [ 5d, 3h ]
+Eldora collected [ 60 ]
+
+
+
+#Game No : 1012862
+***** 888poker Hand History for Game 1012862 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:10:56
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Jennings ( 625 )
+Seat 3: Eldora ( 110 )
+Seat 5: Mudr0x ( 765 )
+Eldora posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 6d, Qs ]
+Jennings folds
+Eldora raises [60]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 6d, Qs ]
+Eldora collected [ 120 ]
+
+
+
+#Game No : 1012863
+***** 888poker Hand History for Game 1012863 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:11:02
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 1: Jennings ( 625 )
+Seat 3: Eldora ( 150 )
+Seat 5: Mudr0x ( 725 )
+Mudr0x posts small blind [20]
+Jennings posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 3h, 9s ]
+Eldora raises [110]
+Mudr0x folds
+Jennings calls [70]
+** Dealing flop ** [ Qs, 5c, Qc ]
+Jennings checks
+Eldora checks
+** Dealing turn ** [ 7c ]
+Jennings checks
+Eldora checks
+** Dealing river ** [ Kd ]
+Jennings checks
+Eldora checks
+** Summary **
+Jennings shows [ Js, 8s ]
+Eldora shows [ 8d, 2d ]
+Mudr0x shows [ 3h, 9s ]
+Jennings collected [ 240 ]
+
+
+
+#Game No : 1012864
+***** 888poker Hand History for Game 1012864 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:11:16
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Jennings ( 755 )
+Seat 3: Eldora ( 40 )
+Seat 5: Mudr0x ( 705 )
+Jennings posts small blind [20]
+Eldora posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 2d, 9s ]
+Mudr0x folds
+Jennings folds
+** Summary **
+Mudr0x shows [ 2d, 9s ]
+Eldora collected [ 60 ]
+
+
+
+#Game No : 1012865
+***** 888poker Hand History for Game 1012865 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:11:21
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Jennings ( 735 )
+Seat 3: Eldora ( 60 )
+Seat 5: Mudr0x ( 705 )
+Eldora posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 8c, 2s ]
+Jennings folds
+Eldora raises [40]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 8c, 2s ]
+Eldora collected [ 100 ]
+
+
+
+#Game No : 1012866
+***** 888poker Hand History for Game 1012866 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:11:27
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 1: Jennings ( 735 )
+Seat 3: Eldora ( 100 )
+Seat 5: Mudr0x ( 665 )
+Mudr0x posts small blind [20]
+Jennings posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 6c, 8s ]
+Eldora folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 6c, 8s ]
+Jennings collected [ 60 ]
+
+
+
+#Game No : 1012867
+***** 888poker Hand History for Game 1012867 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:11:32
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Jennings ( 755 )
+Seat 3: Eldora ( 100 )
+Seat 5: Mudr0x ( 645 )
+Jennings posts small blind [30]
+Eldora posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 2c, 9s ]
+Mudr0x folds
+Jennings raises [70]
+Eldora folds
+** Summary **
+Mudr0x shows [ 2c, 9s ]
+Jennings collected [ 160 ]
+
+
+
+#Game No : 1012868
+***** 888poker Hand History for Game 1012868 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:11:38
+Tournament #5 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Jennings ( 815 )
+Seat 3: Eldora ( 40 )
+Seat 5: Mudr0x ( 645 )
+Eldora posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 6c, 6d ]
+Jennings raises [170]
+Eldora calls [10]
+Mudr0x raises [585]
+Jennings calls [475]
+** Dealing flop ** [ 9h, 2d, Td ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ Jh ]
+** Summary **
+Jennings shows [ Ah, Ad ]
+Eldora shows [ Js, Tc ]
+Mudr0x shows [ 6c, 6d ]
+Jennings collected [ 1,210 ]
+Eldora collected [ 120 ]
+
+
+
+#Game No : 1012869
+***** 888poker Hand History for Game 1012869 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:11:52
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 500 )
+Seat 4: Saeward ( 500 )
+Seat 10: Leonor ( 500 )
+Mudr0x posts small blind [10]
+Saeward posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Ts, 6c ]
+Leonor folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Ts, 6c ]
+Saeward collected [ 30 ]
+
+
+
+#Game No : 1012870
+***** 888poker Hand History for Game 1012870 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:11:57
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 490 )
+Seat 4: Saeward ( 510 )
+Seat 10: Leonor ( 500 )
+Saeward posts small blind [10]
+Leonor posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, 9s ]
+Mudr0x raises [50]
+Saeward folds
+Leonor calls [30]
+** Dealing flop ** [ Jc, Kh, 4d ]
+Leonor bets [60]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Td, 9s ]
+Leonor collected [ 170 ]
+
+
+
+#Game No : 1012871
+***** 888poker Hand History for Game 1012871 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:12:09
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 440 )
+Seat 4: Saeward ( 500 )
+Seat 10: Leonor ( 560 )
+Leonor posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7d, Ks ]
+Saeward folds
+Leonor raises [70]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 7d, Ks ]
+Leonor collected [ 100 ]
+
+
+
+#Game No : 1012872
+***** 888poker Hand History for Game 1012872 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:12:15
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 420 )
+Seat 4: Saeward ( 500 )
+Seat 10: Leonor ( 580 )
+Mudr0x posts small blind [10]
+Saeward posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 6h, Ts ]
+Leonor raises [95]
+Mudr0x folds
+Saeward folds
+** Summary **
+Mudr0x shows [ 6h, Ts ]
+Leonor collected [ 125 ]
+
+
+
+#Game No : 1012873
+***** 888poker Hand History for Game 1012873 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:12:21
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 410 )
+Seat 4: Saeward ( 480 )
+Seat 10: Leonor ( 610 )
+Saeward posts small blind [10]
+Leonor posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Jd, Kd ]
+Mudr0x raises [50]
+Saeward folds
+Leonor calls [30]
+** Dealing flop ** [ 4h, Kc, 6c ]
+Leonor checks
+Mudr0x bets [80]
+Leonor folds
+** Summary **
+Mudr0x shows [ Jd, Kd ]
+Mudr0x collected [ 190 ]
+
+
+
+#Game No : 1012874
+***** 888poker Hand History for Game 1012874 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:12:38
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 470 )
+Seat 4: Saeward ( 470 )
+Seat 10: Leonor ( 560 )
+Leonor posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Qd, 8h ]
+Saeward folds
+Leonor raises [70]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Qd, 8h ]
+Leonor collected [ 100 ]
+
+
+
+#Game No : 1012875
+***** 888poker Hand History for Game 1012875 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:12:44
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 450 )
+Seat 4: Saeward ( 470 )
+Seat 10: Leonor ( 580 )
+Mudr0x posts small blind [10]
+Saeward posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 3c, 9h ]
+Leonor raises [90]
+Mudr0x folds
+Saeward folds
+** Summary **
+Mudr0x shows [ 3c, 9h ]
+Leonor collected [ 120 ]
+
+
+
+#Game No : 1012876
+***** 888poker Hand History for Game 1012876 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:12:50
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 440 )
+Seat 4: Saeward ( 450 )
+Seat 10: Leonor ( 610 )
+Saeward posts small blind [10]
+Leonor posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 2s, 4s ]
+Mudr0x folds
+Saeward raises [70]
+Leonor calls [60]
+** Dealing flop ** [ Jd, Ac, 5s ]
+Saeward bets [160]
+Leonor calls [160]
+** Dealing turn ** [ 5c ]
+Saeward bets [210]
+Leonor calls [210]
+** Dealing river ** [ 9d ]
+** Summary **
+Mudr0x shows [ 2s, 4s ]
+Saeward shows [ As, Js ]
+Leonor shows [ 6s, Qc ]
+Saeward collected [ 900 ]
+
+
+
+#Game No : 1012877
+***** 888poker Hand History for Game 1012877 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:13:03
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 440 )
+Seat 4: Saeward ( 900 )
+Seat 10: Leonor ( 160 )
+Leonor posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 5h, 3c ]
+Saeward folds
+Leonor raises [55]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5h, 3c ]
+Leonor collected [ 100 ]
+
+
+
+#Game No : 1012878
+***** 888poker Hand History for Game 1012878 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:13:09
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 410 )
+Seat 4: Saeward ( 900 )
+Seat 10: Leonor ( 190 )
+Mudr0x posts small blind [15]
+Saeward posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 9c, As ]
+Leonor raises [145]
+Mudr0x raises [395]
+Saeward folds
+Leonor calls [45]
+** Dealing flop ** [ 6s, 4d, Jd ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 2d ]
+** Summary **
+Mudr0x shows [ 9c, As ]
+Leonor shows [ Kc, Ks ]
+Leonor collected [ 410 ]
+
+
+
+#Game No : 1012879
+***** 888poker Hand History for Game 1012879 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:13:21
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 220 )
+Seat 4: Saeward ( 870 )
+Seat 10: Leonor ( 410 )
+Saeward posts small blind [15]
+Leonor posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Kc, 4d ]
+Mudr0x folds
+Saeward folds
+** Summary **
+Mudr0x shows [ Kc, 4d ]
+Leonor collected [ 45 ]
+
+
+
+#Game No : 1012880
+***** 888poker Hand History for Game 1012880 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:13:25
+Tournament #6 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: Mudr0x ( 220 )
+Seat 4: Saeward ( 855 )
+Seat 10: Leonor ( 425 )
+Leonor posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Qh, 8c ]
+Saeward folds
+Leonor raises [45]
+Mudr0x raises [190]
+Leonor calls [160]
+** Dealing flop ** [ Jd, Td, Jc ]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ 2d ]
+** Summary **
+Mudr0x shows [ Qh, 8c ]
+Leonor shows [ 2s, 9s ]
+Leonor collected [ 440 ]
+
+
+
+#Game No : 1012881
+***** 888poker Hand History for Game 1012881 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:13:40
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 3
+Seat 2: Stanley ( 500 )
+Seat 7: Janine ( 500 )
+Seat 9: Mudr0x ( 500 )
+Mudr0x posts small blind [10]
+Stanley posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 3c, 6h ]
+Janine folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 3c, 6h ]
+Stanley collected [ 30 ]
+
+
+
+#Game No : 1012882
+***** 888poker Hand History for Game 1012882 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:13:46
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 2: Stanley ( 510 )
+Seat 7: Janine ( 500 )
+Seat 9: Mudr0x ( 490 )
+Stanley posts small blind [10]
+Janine posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 9c, 4d ]
+Mudr0x folds
+Stanley folds
+** Summary **
+Mudr0x shows [ 9c, 4d ]
+Janine collected [ 30 ]
+
+
+
+#Game No : 1012883
+***** 888poker Hand History for Game 1012883 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:13:51
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 2: Stanley ( 500 )
+Seat 7: Janine ( 510 )
+Seat 9: Mudr0x ( 490 )
+Janine posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 5h, Kd ]
+Stanley folds
+Janine folds
+** Summary **
+Mudr0x shows [ 5h, Kd ]
+Mudr0x collected [ 30 ]
+
+
+
+#Game No : 1012884
+***** 888poker Hand History for Game 1012884 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:13:57
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 3
+Seat 2: Stanley ( 500 )
+Seat 7: Janine ( 500 )
+Seat 9: Mudr0x ( 500 )
+Mudr0x posts small blind [10]
+Stanley posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 8s, Jh ]
+Janine folds
+Mudr0x calls [10]
+Stanley checks
+** Dealing flop ** [ Js, Qc, 7c ]
+Mudr0x bets [30]
+Stanley folds
+** Summary **
+Mudr0x shows [ 8s, Jh ]
+Mudr0x collected [ 70 ]
+
+
+
+#Game No : 1012885
+***** 888poker Hand History for Game 1012885 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:14:10
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 2: Stanley ( 480 )
+Seat 7: Janine ( 500 )
+Seat 9: Mudr0x ( 520 )
+Stanley posts small blind [10]
+Janine posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 3c, 8h ]
+Mudr0x folds
+Stanley calls [10]
+Janine checks
+** Dealing flop ** [ Qd, Ad, Ts ]
+Stanley checks
+Janine checks
+** Dealing turn ** [ As ]
+Stanley checks
+Janine checks
+** Dealing river ** [ 5c ]
+Stanley bets [460]
+Janine folds
+** Summary **
+Mudr0x shows [ 3c, 8h ]
+Stanley collected [ 500 ]
+
+
+
+#Game No : 1012886
+***** 888poker Hand History for Game 1012886 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:14:25
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 2: Stanley ( 500 )
+Seat 7: Janine ( 480 )
+Seat 9: Mudr0x ( 520 )
+Janine posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, 9d ]
+Stanley raises [80]
+Janine raises [160]
+Mudr0x folds
+Stanley calls [90]
+** Dealing flop ** [ Qd, Ac, 6d ]
+Janine checks
+Stanley bets [310]
+Janine calls [310]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ Jh ]
+** Summary **
+Stanley shows [ Ts, Ks ]
+Janine shows [ Jd, Kc ]
+Mudr0x shows [ Td, 9d ]
+Stanley collected [ 980 ]
+
+
+
+#Game No : 1012887
+***** 888poker Hand History for Game 1012887 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:14:38
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Stanley ( 1,000 )
+Seat 9: Mudr0x ( 500 )
+Mudr0x posts small blind [10]
+Stanley posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 5c, 7d ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5c, 7d ]
+Stanley collected [ 30 ]
+
+
+
+#Game No : 1012888
+***** 888poker Hand History for Game 1012888 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:14:42
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Stanley ( 1,010 )
+Seat 9: Mudr0x ( 490 )
+Stanley posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Ac, Qc ]
+Stanley folds
+** Summary **
+Mudr0x shows [ Ac, Qc ]
+Mudr0x collected [ 30 ]
+
+
+
+#Game No : 1012889
+***** 888poker Hand History for Game 1012889 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:14:47
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Stanley ( 1,000 )
+Seat 9: Mudr0x ( 500 )
+Mudr0x posts small blind [15]
+Stanley posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 6s, Ts ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 6s, Ts ]
+Stanley collected [ 45 ]
+
+
+
+#Game No : 1012890
+***** 888poker Hand History for Game 1012890 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:14:51
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Stanley ( 1,015 )
+Seat 9: Mudr0x ( 485 )
+Stanley posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Tc, Qh ]
+Stanley raises [105]
+Mudr0x calls [90]
+** Dealing flop ** [ Jd, Qs, 3c ]
+Mudr0x checks
+Stanley bets [180]
+Mudr0x raises [365]
+Stanley calls [185]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ Jh ]
+** Summary **
+Stanley shows [ Td, 9d ]
+Mudr0x shows [ Tc, Qh ]
+Mudr0x collected [ 970 ]
+
+
+
+#Game No : 1012891
+***** 888poker Hand History for Game 1012891 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:15:07
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Stanley ( 530 )
+Seat 9: Mudr0x ( 970 )
+Mudr0x posts small blind [15]
+Stanley posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 5c, 6h ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5c, 6h ]
+Stanley collected [ 45 ]
+
+
+
+#Game No : 1012892
+***** 888poker Hand History for Game 1012892 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:15:11
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Stanley ( 545 )
+Seat 9: Mudr0x ( 955 )
+Stanley posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 7d, Ac ]
+Stanley raises [105]
+Mudr0x calls [90]
+** Dealing flop ** [ 2s, 6s, Kc ]
+Mudr0x bets [425]
+Stanley calls [425]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ 5h ]
+** Summary **
+Stanley shows [ 5c, 6c ]
+Mudr0x shows [ 7d, Ac ]
+Stanley collected [ 1,090 ]
+
+
+
+#Game No : 1012893
+***** 888poker Hand History for Game 1012893 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:15:24
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Stanley ( 1,090 )
+Seat 9: Mudr0x ( 410 )
+Mudr0x posts small blind [15]
+Stanley posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Th, 5h ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Th, 5h ]
+Stanley collected [ 45 ]
+
+
+
+#Game No : 1012894
+***** 888poker Hand History for Game 1012894 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:15:28
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Stanley ( 1,105 )
+Seat 9: Mudr0x ( 395 )
+Stanley posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 2s, 9s ]
+Stanley raises [105]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 2s, 9s ]
+Stanley collected [ 150 ]
+
+
+
+#Game No : 1012895
+***** 888poker Hand History for Game 1012895 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:15:33
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Stanley ( 1,135 )
+Seat 9: Mudr0x ( 365 )
+Mudr0x posts small blind [15]
+Stanley posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Ts, 5c ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Ts, 5c ]
+Stanley collected [ 45 ]
+
+
+
+#Game No : 1012896
+***** 888poker Hand History for Game 1012896 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:15:36
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Stanley ( 1,150 )
+Seat 9: Mudr0x ( 350 )
+Stanley posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 9s, 5s ]
+Stanley folds
+** Summary **
+Mudr0x shows [ 9s, 5s ]
+Mudr0x collected [ 45 ]
+
+
+
+#Game No : 1012897
+***** 888poker Hand History for Game 1012897 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:15:41
+Tournament #7 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Stanley ( 1,135 )
+Seat 9: Mudr0x ( 365 )
+Mudr0x posts small blind [20]
+Stanley posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 5c, Qh ]
+Mudr0x raises [345]
+Stanley calls [325]
+** Dealing flop ** [ Jd, 7d, Ac ]
+** Dealing turn ** [ 4s ]
+** Dealing river ** [ 3h ]
+** Summary **
+Stanley shows [ Ks, Ad ]
+Mudr0x shows [ 5c, Qh ]
+Stanley collected [ 730 ]
+
+
+
+#Game No : 1012898
+***** 888poker Hand History for Game 1012898 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:15:53
+Tournament #8 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 1: Oakley ( 500 )
+Seat 3: Mudr0x ( 500 )
+Seat 4: Anais ( 500 )
+Oakley posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Ah, 2h ]
+Anais raises [95]
+Oakley folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Ah, 2h ]
+Anais collected [ 125 ]
+
+
+
+#Game No : 1012899
+***** 888poker Hand History for Game 1012899 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:15:59
+Tournament #8 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Oakley ( 490 )
+Seat 3: Mudr0x ( 480 )
+Seat 4: Anais ( 530 )
+Mudr0x posts small blind [10]
+Anais posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7h, 7d ]
+Oakley raises [80]
+Mudr0x raises [470]
+Anais folds
+Oakley calls [400]
+** Dealing flop ** [ 8h, Ts, 8c ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ As ]
+** Summary **
+Oakley shows [ Ad, 3d ]
+Mudr0x shows [ 7h, 7d ]
+Oakley collected [ 980 ]
+
+
+
+#Game No : 1012900
+***** 888poker Hand History for Game 1012900 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:16:14
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 500 )
+Seat 5: Fermin ( 500 )
+Seat 7: Shannon ( 500 )
+Fermin posts small blind [10]
+Shannon posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Tc, Kc ]
+Mudr0x raises [50]
+Fermin calls [40]
+Shannon folds
+** Dealing flop ** [ 9s, 2s, Ts ]
+Fermin bets [65]
+Mudr0x calls [65]
+** Dealing turn ** [ Qd ]
+Fermin checks
+Mudr0x checks
+** Dealing river ** [ 6s ]
+Fermin checks
+Mudr0x checks
+** Summary **
+Mudr0x shows [ Tc, Kc ]
+Fermin shows [ Td, 6h ]
+Fermin collected [ 250 ]
+
+
+
+#Game No : 1012901
+***** 888poker Hand History for Game 1012901 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:16:35
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 385 )
+Seat 5: Fermin ( 635 )
+Seat 7: Shannon ( 480 )
+Shannon posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 9c, 3h ]
+Fermin raises [95]
+Shannon folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 9c, 3h ]
+Fermin collected [ 125 ]
+
+
+
+#Game No : 1012902
+***** 888poker Hand History for Game 1012902 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:16:41
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 365 )
+Seat 5: Fermin ( 665 )
+Seat 7: Shannon ( 470 )
+Mudr0x posts small blind [10]
+Fermin posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7d, Qc ]
+Shannon folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 7d, Qc ]
+Fermin collected [ 30 ]
+
+
+
+#Game No : 1012903
+***** 888poker Hand History for Game 1012903 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:16:46
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 355 )
+Seat 5: Fermin ( 675 )
+Seat 7: Shannon ( 470 )
+Fermin posts small blind [10]
+Shannon posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ As, 9c ]
+Mudr0x raises [50]
+Fermin calls [40]
+Shannon calls [30]
+** Dealing flop ** [ 9s, Ks, 5s ]
+Fermin checks
+Shannon checks
+Mudr0x bets [90]
+Fermin folds
+Shannon folds
+** Summary **
+Mudr0x shows [ As, 9c ]
+Mudr0x collected [ 240 ]
+
+
+
+#Game No : 1012904
+***** 888poker Hand History for Game 1012904 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:17:05
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 455 )
+Seat 5: Fermin ( 625 )
+Seat 7: Shannon ( 420 )
+Shannon posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 8s, 3s ]
+Fermin folds
+Shannon folds
+** Summary **
+Mudr0x shows [ 8s, 3s ]
+Mudr0x collected [ 30 ]
+
+
+
+#Game No : 1012905
+***** 888poker Hand History for Game 1012905 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:17:11
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 465 )
+Seat 5: Fermin ( 625 )
+Seat 7: Shannon ( 410 )
+Mudr0x posts small blind [10]
+Fermin posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Tc, 2h ]
+Shannon folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Tc, 2h ]
+Fermin collected [ 30 ]
+
+
+
+#Game No : 1012906
+***** 888poker Hand History for Game 1012906 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:17:16
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 455 )
+Seat 5: Fermin ( 635 )
+Seat 7: Shannon ( 410 )
+Fermin posts small blind [10]
+Shannon posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Qh, 5h ]
+Mudr0x folds
+Fermin raises [70]
+Shannon calls [60]
+** Dealing flop ** [ 4s, Qc, 8c ]
+Fermin bets [145]
+Shannon folds
+** Summary **
+Mudr0x shows [ Qh, 5h ]
+Fermin collected [ 305 ]
+
+
+
+#Game No : 1012907
+***** 888poker Hand History for Game 1012907 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:17:26
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 455 )
+Seat 5: Fermin ( 715 )
+Seat 7: Shannon ( 330 )
+Shannon posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7d, As ]
+Fermin raises [55]
+Shannon folds
+Mudr0x raises [435]
+Fermin calls [400]
+** Dealing flop ** [ 2s, Kd, 5s ]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ 3h ]
+** Summary **
+Mudr0x shows [ 7d, As ]
+Fermin shows [ Jc, Th ]
+Mudr0x collected [ 920 ]
+
+
+
+#Game No : 1012908
+***** 888poker Hand History for Game 1012908 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:17:38
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 920 )
+Seat 5: Fermin ( 260 )
+Seat 7: Shannon ( 320 )
+Mudr0x posts small blind [15]
+Fermin posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 9d, 8s ]
+Shannon folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 9d, 8s ]
+Fermin collected [ 45 ]
+
+
+
+#Game No : 1012909
+***** 888poker Hand History for Game 1012909 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:17:43
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 905 )
+Seat 5: Fermin ( 275 )
+Seat 7: Shannon ( 320 )
+Fermin posts small blind [15]
+Shannon posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 7h, 6d ]
+Mudr0x folds
+Fermin raises [50]
+Shannon folds
+** Summary **
+Mudr0x shows [ 7h, 6d ]
+Fermin collected [ 95 ]
+
+
+
+#Game No : 1012910
+***** 888poker Hand History for Game 1012910 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:17:49
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 905 )
+Seat 5: Fermin ( 305 )
+Seat 7: Shannon ( 290 )
+Shannon posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Qh, 9d ]
+Fermin raises [75]
+Shannon folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Qh, 9d ]
+Fermin collected [ 120 ]
+
+
+
+#Game No : 1012911
+***** 888poker Hand History for Game 1012911 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:17:56
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 875 )
+Seat 5: Fermin ( 350 )
+Seat 7: Shannon ( 275 )
+Mudr0x posts small blind [15]
+Fermin posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Ks, Qc ]
+Shannon folds
+Mudr0x raises [335]
+Fermin folds
+** Summary **
+Mudr0x shows [ Ks, Qc ]
+Mudr0x collected [ 380 ]
+
+
+
+#Game No : 1012912
+***** 888poker Hand History for Game 1012912 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:18:03
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 905 )
+Seat 5: Fermin ( 320 )
+Seat 7: Shannon ( 275 )
+Fermin posts small blind [15]
+Shannon posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Th, 4c ]
+Mudr0x folds
+Fermin raises [55]
+Shannon raises [130]
+Fermin calls [90]
+** Dealing flop ** [ 7h, Jc, Ad ]
+Fermin checks
+Shannon bets [115]
+Fermin calls [115]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ 9c ]
+** Summary **
+Mudr0x shows [ Th, 4c ]
+Fermin shows [ 4s, Qh ]
+Shannon shows [ Qd, Qc ]
+Shannon collected [ 550 ]
+
+
+
+#Game No : 1012913
+***** 888poker Hand History for Game 1012913 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:18:16
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 905 )
+Seat 5: Fermin ( 45 )
+Seat 7: Shannon ( 550 )
+Shannon posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, 6d ]
+Fermin raises [45]
+Shannon folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Td, 6d ]
+Fermin collected [ 90 ]
+
+
+
+#Game No : 1012914
+***** 888poker Hand History for Game 1012914 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:18:21
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 875 )
+Seat 5: Fermin ( 90 )
+Seat 7: Shannon ( 535 )
+Mudr0x posts small blind [15]
+Fermin posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 6s, Ts ]
+Shannon folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 6s, Ts ]
+Fermin collected [ 45 ]
+
+
+
+#Game No : 1012915
+***** 888poker Hand History for Game 1012915 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:18:26
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 860 )
+Seat 5: Fermin ( 105 )
+Seat 7: Shannon ( 535 )
+Fermin posts small blind [15]
+Shannon posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 5d, Ts ]
+Mudr0x folds
+Fermin raises [55]
+Shannon calls [40]
+** Dealing flop ** [ Kc, Td, Qh ]
+Fermin bets [35]
+Shannon calls [35]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ 7d ]
+** Summary **
+Mudr0x shows [ 5d, Ts ]
+Fermin shows [ 8h, Kh ]
+Shannon shows [ 9c, 5c ]
+Fermin collected [ 210 ]
+
+
+
+#Game No : 1012916
+***** 888poker Hand History for Game 1012916 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:18:37
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 860 )
+Seat 5: Fermin ( 210 )
+Seat 7: Shannon ( 430 )
+Shannon posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 6d, 4s ]
+Fermin raises [110]
+Shannon raises [210]
+Mudr0x folds
+Fermin calls [100]
+** Dealing flop ** [ Kd, 6s, 8c ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ 5d ]
+** Summary **
+Mudr0x shows [ 6d, 4s ]
+Fermin shows [ Tc, 9s ]
+Shannon shows [ 7s, 7d ]
+Shannon collected [ 480 ]
+
+
+
+#Game No : 1012917
+***** 888poker Hand History for Game 1012917 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:18:47
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 820 )
+Seat 7: Shannon ( 680 )
+Mudr0x posts small blind [20]
+Shannon posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 3c, 9s ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 3c, 9s ]
+Shannon collected [ 60 ]
+
+
+
+#Game No : 1012918
+***** 888poker Hand History for Game 1012918 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:18:50
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 800 )
+Seat 7: Shannon ( 700 )
+Shannon posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 7d, 4d ]
+Shannon folds
+** Summary **
+Mudr0x shows [ 7d, 4d ]
+Mudr0x collected [ 60 ]
+
+
+
+#Game No : 1012919
+***** 888poker Hand History for Game 1012919 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:18:55
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 820 )
+Seat 7: Shannon ( 680 )
+Mudr0x posts small blind [20]
+Shannon posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 9s, 5s ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 9s, 5s ]
+Shannon collected [ 60 ]
+
+
+
+#Game No : 1012920
+***** 888poker Hand History for Game 1012920 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:18:59
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 800 )
+Seat 7: Shannon ( 700 )
+Shannon posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 2s, 9d ]
+Shannon folds
+** Summary **
+Mudr0x shows [ 2s, 9d ]
+Mudr0x collected [ 60 ]
+
+
+
+#Game No : 1012921
+***** 888poker Hand History for Game 1012921 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:19:04
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 820 )
+Seat 7: Shannon ( 680 )
+Mudr0x posts small blind [20]
+Shannon posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 2s, Ad ]
+Mudr0x raises [140]
+Shannon folds
+** Summary **
+Mudr0x shows [ 2s, Ad ]
+Mudr0x collected [ 200 ]
+
+
+
+#Game No : 1012922
+***** 888poker Hand History for Game 1012922 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:19:12
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 860 )
+Seat 7: Shannon ( 640 )
+Shannon posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 3d, 5d ]
+Shannon folds
+** Summary **
+Mudr0x shows [ 3d, 5d ]
+Mudr0x collected [ 60 ]
+
+
+
+#Game No : 1012923
+***** 888poker Hand History for Game 1012923 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:19:17
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 880 )
+Seat 7: Shannon ( 620 )
+Mudr0x posts small blind [20]
+Shannon posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 8s, 3d ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 8s, 3d ]
+Shannon collected [ 60 ]
+
+
+
+#Game No : 1012924
+***** 888poker Hand History for Game 1012924 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:19:21
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 860 )
+Seat 7: Shannon ( 640 )
+Shannon posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ Qs, 4d ]
+Shannon folds
+** Summary **
+Mudr0x shows [ Qs, 4d ]
+Mudr0x collected [ 90 ]
+
+
+
+#Game No : 1012925
+***** 888poker Hand History for Game 1012925 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:19:26
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 890 )
+Seat 7: Shannon ( 610 )
+Mudr0x posts small blind [30]
+Shannon posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ Tc, Qd ]
+Mudr0x raises [580]
+Shannon folds
+** Summary **
+Mudr0x shows [ Tc, Qd ]
+Mudr0x collected [ 670 ]
+
+
+
+#Game No : 1012926
+***** 888poker Hand History for Game 1012926 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:19:32
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 950 )
+Seat 7: Shannon ( 550 )
+Shannon posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 7c, 7s ]
+Shannon folds
+** Summary **
+Mudr0x shows [ 7c, 7s ]
+Mudr0x collected [ 90 ]
+
+
+
+#Game No : 1012927
+***** 888poker Hand History for Game 1012927 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:19:37
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 980 )
+Seat 7: Shannon ( 520 )
+Mudr0x posts small blind [30]
+Shannon posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 9d, 5c ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 9d, 5c ]
+Shannon collected [ 90 ]
+
+
+
+#Game No : 1012928
+***** 888poker Hand History for Game 1012928 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:19:42
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 950 )
+Seat 7: Shannon ( 550 )
+Shannon posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 4s, 4h ]
+Shannon folds
+** Summary **
+Mudr0x shows [ 4s, 4h ]
+Mudr0x collected [ 90 ]
+
+
+
+#Game No : 1012929
+***** 888poker Hand History for Game 1012929 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:19:46
+Tournament #9 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mudr0x ( 980 )
+Seat 7: Shannon ( 520 )
+Mudr0x posts small blind [30]
+Shannon posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, 8h ]
+Mudr0x raises [490]
+Shannon calls [460]
+** Dealing flop ** [ Jd, Qs, Ad ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 6d ]
+** Summary **
+Mudr0x shows [ Td, 8h ]
+Shannon shows [ Ac, Kc ]
+Mudr0x collected [ 1,040 ]
+
+
+
+#Game No : 1012930
+***** 888poker Hand History for Game 1012930 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:19:59
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 1: Noah ( 500 )
+Seat 2: Mariano ( 500 )
+Seat 9: Mudr0x ( 500 )
+Mudr0x posts small blind [10]
+Noah posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 5d, 6h ]
+Mariano raises [95]
+Mudr0x folds
+Noah folds
+** Summary **
+Mudr0x shows [ 5d, 6h ]
+Mariano collected [ 125 ]
+
+
+
+#Game No : 1012931
+***** 888poker Hand History for Game 1012931 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:20:05
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 1: Noah ( 480 )
+Seat 2: Mariano ( 530 )
+Seat 9: Mudr0x ( 490 )
+Noah posts small blind [10]
+Mariano posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 2h, 8s ]
+Mudr0x folds
+Noah folds
+** Summary **
+Mudr0x shows [ 2h, 8s ]
+Mariano collected [ 30 ]
+
+
+
+#Game No : 1012932
+***** 888poker Hand History for Game 1012932 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:20:09
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Noah ( 470 )
+Seat 2: Mariano ( 540 )
+Seat 9: Mudr0x ( 490 )
+Mariano posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Jc, Qs ]
+Noah raises [80]
+Mariano calls [70]
+Mudr0x calls [60]
+** Dealing flop ** [ 8c, Qc, 7s ]
+Mariano checks
+Mudr0x bets [140]
+Noah calls [140]
+Mariano folds
+** Dealing turn ** [ 8d ]
+Mudr0x bets [250]
+Noah calls [250]
+** Dealing river ** [ Kd ]
+** Summary **
+Noah shows [ Qd, Td ]
+Mudr0x shows [ Jc, Qs ]
+Noah collected [ 510 ]
+Mudr0x collected [ 510 ]
+
+
+
+#Game No : 1012933
+***** 888poker Hand History for Game 1012933 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:20:30
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 1: Noah ( 510 )
+Seat 2: Mariano ( 460 )
+Seat 9: Mudr0x ( 530 )
+Mudr0x posts small blind [10]
+Noah posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Th, 5s ]
+Mariano raises [95]
+Mudr0x folds
+Noah folds
+** Summary **
+Mudr0x shows [ Th, 5s ]
+Mariano collected [ 125 ]
+
+
+
+#Game No : 1012934
+***** 888poker Hand History for Game 1012934 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:20:35
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 1: Noah ( 490 )
+Seat 2: Mariano ( 490 )
+Seat 9: Mudr0x ( 520 )
+Noah posts small blind [10]
+Mariano posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Kc, 7h ]
+Mudr0x folds
+Noah folds
+** Summary **
+Mudr0x shows [ Kc, 7h ]
+Mariano collected [ 30 ]
+
+
+
+#Game No : 1012935
+***** 888poker Hand History for Game 1012935 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:20:41
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Noah ( 480 )
+Seat 2: Mariano ( 500 )
+Seat 9: Mudr0x ( 520 )
+Mariano posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 9h, 3d ]
+Noah raises [100]
+Mariano calls [90]
+Mudr0x folds
+** Dealing flop ** [ 4s, As, 5h ]
+Mariano checks
+Noah checks
+** Dealing turn ** [ 7d ]
+Mariano checks
+Noah checks
+** Dealing river ** [ 9c ]
+Mariano checks
+Noah checks
+** Summary **
+Noah shows [ Kd, Jh ]
+Mudr0x shows [ 9h, 3d ]
+Noah collected [ 220 ]
+
+
+
+#Game No : 1012936
+***** 888poker Hand History for Game 1012936 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:20:55
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 1: Noah ( 600 )
+Seat 2: Mariano ( 400 )
+Seat 9: Mudr0x ( 500 )
+Mudr0x posts small blind [10]
+Noah posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 8s, Kc ]
+Mariano folds
+Mudr0x raises [40]
+Noah folds
+** Summary **
+Mudr0x shows [ 8s, Kc ]
+Mudr0x collected [ 70 ]
+
+
+
+#Game No : 1012937
+***** 888poker Hand History for Game 1012937 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:21:05
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 1: Noah ( 580 )
+Seat 2: Mariano ( 400 )
+Seat 9: Mudr0x ( 520 )
+Noah posts small blind [10]
+Mariano posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7h, Qc ]
+Mudr0x folds
+Noah folds
+** Summary **
+Mudr0x shows [ 7h, Qc ]
+Mariano collected [ 30 ]
+
+
+
+#Game No : 1012938
+***** 888poker Hand History for Game 1012938 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:21:10
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Noah ( 570 )
+Seat 2: Mariano ( 410 )
+Seat 9: Mudr0x ( 520 )
+Mariano posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 2h, Ks ]
+Noah calls [30]
+Mariano calls [15]
+Mudr0x checks
+** Dealing flop ** [ Kd, 4h, Kc ]
+Mariano checks
+Mudr0x bets [55]
+Noah folds
+Mariano calls [55]
+** Dealing turn ** [ 3d ]
+Mariano checks
+Mudr0x bets [135]
+Mariano calls [135]
+** Dealing river ** [ 9h ]
+Mariano checks
+Mudr0x bets [190]
+Mariano folds
+** Summary **
+Mudr0x shows [ 2h, Ks ]
+Mudr0x collected [ 660 ]
+
+
+
+#Game No : 1012939
+***** 888poker Hand History for Game 1012939 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:21:38
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 1: Noah ( 540 )
+Seat 2: Mariano ( 190 )
+Seat 9: Mudr0x ( 770 )
+Mudr0x posts small blind [15]
+Noah posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Kd, Qs ]
+Mariano raises [150]
+Mudr0x raises [525]
+Noah folds
+Mariano calls [40]
+** Dealing flop ** [ 2s, 6h, 5c ]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ 9d ]
+** Summary **
+Mariano shows [ 3h, 5h ]
+Mudr0x shows [ Kd, Qs ]
+Mudr0x collected [ 760 ]
+
+
+
+#Game No : 1012940
+***** 888poker Hand History for Game 1012940 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:21:50
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Noah ( 510 )
+Seat 9: Mudr0x ( 990 )
+Noah posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 5s, 8h ]
+Noah raises [105]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5s, 8h ]
+Noah collected [ 150 ]
+
+
+
+#Game No : 1012941
+***** 888poker Hand History for Game 1012941 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:21:55
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Noah ( 540 )
+Seat 9: Mudr0x ( 960 )
+Mudr0x posts small blind [15]
+Noah posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Kh, 9c ]
+Mudr0x raises [105]
+Noah folds
+** Summary **
+Mudr0x shows [ Kh, 9c ]
+Mudr0x collected [ 150 ]
+
+
+
+#Game No : 1012942
+***** 888poker Hand History for Game 1012942 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:22:03
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Noah ( 510 )
+Seat 9: Mudr0x ( 990 )
+Noah posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Th, 3d ]
+Noah raises [105]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Th, 3d ]
+Noah collected [ 150 ]
+
+
+
+#Game No : 1012943
+***** 888poker Hand History for Game 1012943 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:22:08
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Noah ( 540 )
+Seat 9: Mudr0x ( 960 )
+Mudr0x posts small blind [15]
+Noah posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 2s, 5d ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 2s, 5d ]
+Noah collected [ 45 ]
+
+
+
+#Game No : 1012944
+***** 888poker Hand History for Game 1012944 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:22:12
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Noah ( 555 )
+Seat 9: Mudr0x ( 945 )
+Noah posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Jh, Ks ]
+Noah raises [105]
+Mudr0x calls [90]
+** Dealing flop ** [ Jd, 5s, Ac ]
+Mudr0x checks
+Noah checks
+** Dealing turn ** [ As ]
+Mudr0x bets [180]
+Noah folds
+** Summary **
+Mudr0x shows [ Jh, Ks ]
+Mudr0x collected [ 420 ]
+
+
+
+#Game No : 1012945
+***** 888poker Hand History for Game 1012945 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:22:29
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Noah ( 435 )
+Seat 9: Mudr0x ( 1,065 )
+Mudr0x posts small blind [15]
+Noah posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 7s, Jc ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 7s, Jc ]
+Noah collected [ 45 ]
+
+
+
+#Game No : 1012946
+***** 888poker Hand History for Game 1012946 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:22:33
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Noah ( 450 )
+Seat 9: Mudr0x ( 1,050 )
+Noah posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ Js, 3d ]
+Noah folds
+** Summary **
+Mudr0x shows [ Js, 3d ]
+Mudr0x collected [ 60 ]
+
+
+
+#Game No : 1012947
+***** 888poker Hand History for Game 1012947 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:22:38
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Noah ( 430 )
+Seat 9: Mudr0x ( 1,070 )
+Mudr0x posts small blind [20]
+Noah posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 4h, 4s ]
+Mudr0x raises [410]
+Noah folds
+** Summary **
+Mudr0x shows [ 4h, 4s ]
+Mudr0x collected [ 470 ]
+
+
+
+#Game No : 1012948
+***** 888poker Hand History for Game 1012948 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:22:44
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Noah ( 390 )
+Seat 9: Mudr0x ( 1,110 )
+Noah posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 3s, 7s ]
+Noah folds
+** Summary **
+Mudr0x shows [ 3s, 7s ]
+Mudr0x collected [ 60 ]
+
+
+
+#Game No : 1012949
+***** 888poker Hand History for Game 1012949 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:22:49
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Noah ( 370 )
+Seat 9: Mudr0x ( 1,130 )
+Mudr0x posts small blind [20]
+Noah posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ Kh, Jc ]
+Mudr0x raises [350]
+Noah folds
+** Summary **
+Mudr0x shows [ Kh, Jc ]
+Mudr0x collected [ 410 ]
+
+
+
+#Game No : 1012950
+***** 888poker Hand History for Game 1012950 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:22:56
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Noah ( 330 )
+Seat 9: Mudr0x ( 1,170 )
+Noah posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 9d, 3h ]
+Noah folds
+** Summary **
+Mudr0x shows [ 9d, 3h ]
+Mudr0x collected [ 60 ]
+
+
+
+#Game No : 1012951
+***** 888poker Hand History for Game 1012951 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:23:00
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Noah ( 310 )
+Seat 9: Mudr0x ( 1,190 )
+Mudr0x posts small blind [20]
+Noah posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 9s, 3s ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 9s, 3s ]
+Noah collected [ 60 ]
+
+
+
+#Game No : 1012952
+***** 888poker Hand History for Game 1012952 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:23:05
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Noah ( 330 )
+Seat 9: Mudr0x ( 1,170 )
+Noah posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 3h, Qs ]
+Noah raises [140]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 3h, Qs ]
+Noah collected [ 200 ]
+
+
+
+#Game No : 1012953
+***** 888poker Hand History for Game 1012953 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:23:09
+Tournament #10 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Noah ( 370 )
+Seat 9: Mudr0x ( 1,130 )
+Mudr0x posts small blind [20]
+Noah posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 7c, Ah ]
+Mudr0x raises [350]
+Noah calls [330]
+** Dealing flop ** [ 7d, Ad, Ac ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ Tc ]
+** Summary **
+Noah shows [ 9c, 9d ]
+Mudr0x shows [ 7c, Ah ]
+Mudr0x collected [ 740 ]
+
+
+
+#Game No : 1012954
+***** 888poker Hand History for Game 1012954 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:23:21
+Tournament #11 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 2: Mudr0x ( 500 )
+Seat 8: Hanley ( 500 )
+Seat 9: Bernard ( 500 )
+Hanley posts small blind [10]
+Bernard posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 8c, 8h ]
+Mudr0x raises [50]
+Hanley raises [100]
+Bernard calls [90]
+Mudr0x raises [450]
+Hanley calls [390]
+Bernard folds
+** Dealing flop ** [ 3c, Td, 5c ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 9c ]
+** Summary **
+Mudr0x shows [ 8c, 8h ]
+Hanley shows [ As, Ad ]
+Hanley collected [ 1,110 ]
+
+
+
+#Game No : 1012955
+***** 888poker Hand History for Game 1012955 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:23:41
+Tournament #12 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 500 )
+Seat 4: Jacalyn ( 500 )
+Seat 8: Roman ( 500 )
+Jacalyn posts small blind [10]
+Roman posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Qd, 8c ]
+Mudr0x folds
+Jacalyn folds
+** Summary **
+Mudr0x shows [ Qd, 8c ]
+Roman collected [ 30 ]
+
+
+
+#Game No : 1012956
+***** 888poker Hand History for Game 1012956 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:23:47
+Tournament #12 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 500 )
+Seat 4: Jacalyn ( 490 )
+Seat 8: Roman ( 510 )
+Roman posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7s, Ac ]
+Jacalyn raises [100]
+Roman calls [90]
+Mudr0x folds
+** Dealing flop ** [ 9s, 3h, 2d ]
+Roman checks
+Jacalyn bets [180]
+Roman calls [180]
+** Dealing turn ** [ Jc ]
+Roman checks
+Jacalyn checks
+** Dealing river ** [ Ah ]
+Roman bets [210]
+Jacalyn folds
+** Summary **
+Mudr0x shows [ 7s, Ac ]
+Roman collected [ 790 ]
+
+
+
+#Game No : 1012957
+***** 888poker Hand History for Game 1012957 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:24:02
+Tournament #12 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 8 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 480 )
+Seat 4: Jacalyn ( 210 )
+Seat 8: Roman ( 810 )
+Mudr0x posts small blind [10]
+Jacalyn posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 7h, 4c ]
+Roman raises [55]
+Mudr0x folds
+Jacalyn folds
+** Summary **
+Mudr0x shows [ 7h, 4c ]
+Roman collected [ 85 ]
+
+
+
+#Game No : 1012958
+***** 888poker Hand History for Game 1012958 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:24:09
+Tournament #12 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 470 )
+Seat 4: Jacalyn ( 190 )
+Seat 8: Roman ( 840 )
+Jacalyn posts small blind [10]
+Roman posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Ad, 8c ]
+Mudr0x raises [50]
+Jacalyn folds
+Roman calls [30]
+** Dealing flop ** [ Qs, Qh, 2d ]
+Roman checks
+Mudr0x bets [80]
+Roman calls [80]
+** Dealing turn ** [ Jd ]
+Roman checks
+Mudr0x checks
+** Dealing river ** [ Td ]
+Roman checks
+Mudr0x checks
+** Summary **
+Mudr0x shows [ Ad, 8c ]
+Mudr0x collected [ 270 ]
+
+
+
+#Game No : 1012959
+***** 888poker Hand History for Game 1012959 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:24:34
+Tournament #12 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 1: Mudr0x ( 610 )
+Seat 4: Jacalyn ( 180 )
+Seat 8: Roman ( 710 )
+Roman posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Tc, Ks ]
+Jacalyn folds
+Roman raises [70]
+Mudr0x raises [590]
+Roman calls [530]
+** Dealing flop ** [ Ah, 9d, 7d ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ 3s ]
+** Summary **
+Mudr0x shows [ Tc, Ks ]
+Roman shows [ As, 9c ]
+Roman collected [ 1,220 ]
+
+
+
+#Game No : 1012960
+***** 888poker Hand History for Game 1012960 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:24:49
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 1: Mal ( 500 )
+Seat 4: Garner ( 500 )
+Seat 10: Mudr0x ( 500 )
+Mudr0x posts small blind [10]
+Mal posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 2d, 7h ]
+Garner folds
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 2d, 7h ]
+Mal collected [ 30 ]
+
+
+
+#Game No : 1012961
+***** 888poker Hand History for Game 1012961 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:24:54
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mal ( 510 )
+Seat 4: Garner ( 500 )
+Seat 10: Mudr0x ( 490 )
+Mal posts small blind [10]
+Garner posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Ts, Qc ]
+Mudr0x raises [50]
+Mal calls [40]
+Garner folds
+** Dealing flop ** [ 2s, 2h, Kc ]
+Mal checks
+Mudr0x bets [90]
+Mal calls [90]
+** Dealing turn ** [ 9d ]
+Mal checks
+Mudr0x checks
+** Dealing river ** [ As ]
+Mal checks
+Mudr0x checks
+** Summary **
+Mal shows [ 4c, Qd ]
+Mudr0x shows [ Ts, Qc ]
+Mal collected [ 150 ]
+Mudr0x collected [ 150 ]
+
+
+
+#Game No : 1012962
+***** 888poker Hand History for Game 1012962 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:25:19
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mal ( 520 )
+Seat 4: Garner ( 480 )
+Seat 10: Mudr0x ( 500 )
+Garner posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 2c, 8s ]
+Mal raises [100]
+Garner calls [90]
+Mudr0x folds
+** Dealing flop ** [ 2d, 3d, 7c ]
+Garner checks
+Mal checks
+** Dealing turn ** [ Qd ]
+Garner checks
+Mal checks
+** Dealing river ** [ 9c ]
+Garner checks
+Mal bets [215]
+Garner folds
+** Summary **
+Mudr0x shows [ 2c, 8s ]
+Mal collected [ 435 ]
+
+
+
+#Game No : 1012963
+***** 888poker Hand History for Game 1012963 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:25:35
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 1: Mal ( 640 )
+Seat 4: Garner ( 380 )
+Seat 10: Mudr0x ( 480 )
+Mudr0x posts small blind [10]
+Mal posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Js, As ]
+Garner folds
+Mudr0x raises [40]
+Mal calls [30]
+** Dealing flop ** [ 4c, Jh, 3s ]
+Mudr0x bets [80]
+Mal folds
+** Summary **
+Mudr0x shows [ Js, As ]
+Mudr0x collected [ 180 ]
+
+
+
+#Game No : 1012964
+***** 888poker Hand History for Game 1012964 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:25:50
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mal ( 590 )
+Seat 4: Garner ( 380 )
+Seat 10: Mudr0x ( 530 )
+Mal posts small blind [10]
+Garner posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 4c, Tc ]
+Mudr0x folds
+Mal raises [30]
+Garner raises [85]
+Mal folds
+** Summary **
+Mudr0x shows [ 4c, Tc ]
+Garner collected [ 145 ]
+
+
+
+#Game No : 1012965
+***** 888poker Hand History for Game 1012965 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:25:58
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mal ( 550 )
+Seat 4: Garner ( 420 )
+Seat 10: Mudr0x ( 530 )
+Garner posts small blind [10]
+Mudr0x posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 6c, Qs ]
+Mal folds
+Garner folds
+** Summary **
+Mudr0x shows [ 6c, Qs ]
+Mudr0x collected [ 30 ]
+
+
+
+#Game No : 1012966
+***** 888poker Hand History for Game 1012966 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:26:04
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 1: Mal ( 550 )
+Seat 4: Garner ( 410 )
+Seat 10: Mudr0x ( 540 )
+Mudr0x posts small blind [10]
+Mal posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ 6c, Ad ]
+Garner folds
+Mudr0x raises [40]
+Mal calls [30]
+** Dealing flop ** [ 6s, 7c, 2s ]
+Mudr0x bets [80]
+Mal folds
+** Summary **
+Mudr0x shows [ 6c, Ad ]
+Mudr0x collected [ 180 ]
+
+
+
+#Game No : 1012967
+***** 888poker Hand History for Game 1012967 *****
+10/20 Blinds No Limit Holdem - *** 14 02 2022 13:26:19
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mal ( 500 )
+Seat 4: Garner ( 410 )
+Seat 10: Mudr0x ( 590 )
+Mal posts small blind [10]
+Garner posts big blind [20]
+** Dealing down cards **
+Dealt to Mudr0x [ Ad, 2d ]
+Mudr0x raises [50]
+Mal calls [40]
+Garner folds
+** Dealing flop ** [ Kc, Qd, Jc ]
+Mal checks
+Mudr0x bets [90]
+Mal folds
+** Summary **
+Mudr0x shows [ Ad, 2d ]
+Mudr0x collected [ 210 ]
+
+
+
+#Game No : 1012968
+***** 888poker Hand History for Game 1012968 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:26:36
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 3
+Seat 1: Mal ( 450 )
+Seat 4: Garner ( 390 )
+Seat 10: Mudr0x ( 660 )
+Garner posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Qs, Qd ]
+Mal raises [70]
+Garner calls [55]
+Mudr0x raises [420]
+Mal calls [380]
+Garner folds
+** Dealing flop ** [ Ts, Tc, Ks ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ Td ]
+** Summary **
+Mal shows [ As, Jh ]
+Mudr0x shows [ Qs, Qd ]
+Mudr0x collected [ 970 ]
+
+
+
+#Game No : 1012969
+***** 888poker Hand History for Game 1012969 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:26:49
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 320 )
+Seat 10: Mudr0x ( 1,180 )
+Mudr0x posts small blind [15]
+Garner posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 4s, Th ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 4s, Th ]
+Garner collected [ 45 ]
+
+
+
+#Game No : 1012970
+***** 888poker Hand History for Game 1012970 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:26:53
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 335 )
+Seat 10: Mudr0x ( 1,165 )
+Garner posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 3d, 7d ]
+Garner raises [105]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 3d, 7d ]
+Garner collected [ 150 ]
+
+
+
+#Game No : 1012971
+***** 888poker Hand History for Game 1012971 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:26:58
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 365 )
+Seat 10: Mudr0x ( 1,135 )
+Mudr0x posts small blind [15]
+Garner posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 7h, Qh ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 7h, Qh ]
+Garner collected [ 45 ]
+
+
+
+#Game No : 1012972
+***** 888poker Hand History for Game 1012972 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:27:01
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 380 )
+Seat 10: Mudr0x ( 1,120 )
+Garner posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ 2h, Ac ]
+Garner raises [105]
+Mudr0x calls [90]
+** Dealing flop ** [ Td, 2s, 9h ]
+Mudr0x bets [180]
+Garner calls [180]
+** Dealing turn ** [ 6d ]
+Mudr0x bets [80]
+Garner calls [80]
+** Dealing river ** [ 6h ]
+** Summary **
+Garner shows [ Qc, Ts ]
+Mudr0x shows [ 2h, Ac ]
+Garner collected [ 760 ]
+
+
+
+#Game No : 1012973
+***** 888poker Hand History for Game 1012973 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:27:18
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 760 )
+Seat 10: Mudr0x ( 740 )
+Mudr0x posts small blind [15]
+Garner posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Jc, Ts ]
+Mudr0x raises [105]
+Garner calls [90]
+** Dealing flop ** [ Ac, Ad, 5d ]
+Garner checks
+Mudr0x bets [180]
+Garner calls [180]
+** Dealing turn ** [ Ks ]
+Garner checks
+Mudr0x checks
+** Dealing river ** [ 4c ]
+Garner checks
+Mudr0x checks
+** Summary **
+Mudr0x shows [ Jc, Ts ]
+Mudr0x collected [ 600 ]
+
+
+
+#Game No : 1012974
+***** 888poker Hand History for Game 1012974 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:27:43
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 460 )
+Seat 10: Mudr0x ( 1,040 )
+Garner posts small blind [15]
+Mudr0x posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Qc, 8d ]
+Garner raises [105]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Qc, 8d ]
+Garner collected [ 150 ]
+
+
+
+#Game No : 1012975
+***** 888poker Hand History for Game 1012975 *****
+15/30 Blinds No Limit Holdem - *** 14 02 2022 13:27:48
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 490 )
+Seat 10: Mudr0x ( 1,010 )
+Mudr0x posts small blind [15]
+Garner posts big blind [30]
+** Dealing down cards **
+Dealt to Mudr0x [ Qh, 7c ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Qh, 7c ]
+Garner collected [ 45 ]
+
+
+
+#Game No : 1012976
+***** 888poker Hand History for Game 1012976 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:27:52
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 505 )
+Seat 10: Mudr0x ( 995 )
+Garner posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 7d, 5c ]
+Garner raises [140]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 7d, 5c ]
+Garner collected [ 200 ]
+
+
+
+#Game No : 1012977
+***** 888poker Hand History for Game 1012977 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:27:57
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 545 )
+Seat 10: Mudr0x ( 955 )
+Mudr0x posts small blind [20]
+Garner posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 8h, Th ]
+Mudr0x raises [140]
+Garner calls [120]
+** Dealing flop ** [ 5h, 9s, Tc ]
+Garner checks
+Mudr0x bets [385]
+Garner folds
+** Summary **
+Mudr0x shows [ 8h, Th ]
+Mudr0x collected [ 705 ]
+
+
+
+#Game No : 1012978
+***** 888poker Hand History for Game 1012978 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:28:10
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 385 )
+Seat 10: Mudr0x ( 1,115 )
+Garner posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 5c, 8d ]
+Garner raises [140]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5c, 8d ]
+Garner collected [ 200 ]
+
+
+
+#Game No : 1012979
+***** 888poker Hand History for Game 1012979 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:28:15
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 425 )
+Seat 10: Mudr0x ( 1,075 )
+Mudr0x posts small blind [20]
+Garner posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 3d, Jd ]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 3d, Jd ]
+Garner collected [ 60 ]
+
+
+
+#Game No : 1012980
+***** 888poker Hand History for Game 1012980 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:28:19
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 445 )
+Seat 10: Mudr0x ( 1,055 )
+Garner posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 6h, 6c ]
+Garner raises [140]
+Mudr0x raises [405]
+Garner folds
+** Summary **
+Mudr0x shows [ 6h, 6c ]
+Mudr0x collected [ 605 ]
+
+
+
+#Game No : 1012981
+***** 888poker Hand History for Game 1012981 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:28:28
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 285 )
+Seat 10: Mudr0x ( 1,215 )
+Mudr0x posts small blind [20]
+Garner posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ 8h, Qh ]
+Mudr0x raises [265]
+Garner calls [245]
+** Dealing flop ** [ 3d, 2s, Td ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ 8d ]
+** Summary **
+Garner shows [ 4d, Ad ]
+Mudr0x shows [ 8h, Qh ]
+Garner collected [ 570 ]
+
+
+
+#Game No : 1012982
+***** 888poker Hand History for Game 1012982 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:28:38
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 570 )
+Seat 10: Mudr0x ( 930 )
+Garner posts small blind [20]
+Mudr0x posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ Jd, 7h ]
+Garner raises [140]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ Jd, 7h ]
+Garner collected [ 200 ]
+
+
+
+#Game No : 1012983
+***** 888poker Hand History for Game 1012983 *****
+20/40 Blinds No Limit Holdem - *** 14 02 2022 13:28:43
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 610 )
+Seat 10: Mudr0x ( 890 )
+Mudr0x posts small blind [20]
+Garner posts big blind [40]
+** Dealing down cards **
+Dealt to Mudr0x [ Ks, Jh ]
+Mudr0x raises [140]
+Garner calls [120]
+** Dealing flop ** [ 8c, 5c, Kd ]
+Garner checks
+Mudr0x bets [450]
+Garner folds
+** Summary **
+Mudr0x shows [ Ks, Jh ]
+Mudr0x collected [ 770 ]
+
+
+
+#Game No : 1012984
+***** 888poker Hand History for Game 1012984 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:28:56
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 450 )
+Seat 10: Mudr0x ( 1,050 )
+Garner posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 5c, Qd ]
+Garner raises [110]
+Mudr0x folds
+** Summary **
+Mudr0x shows [ 5c, Qd ]
+Garner collected [ 200 ]
+
+
+
+#Game No : 1012985
+***** 888poker Hand History for Game 1012985 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:29:02
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 510 )
+Seat 10: Mudr0x ( 990 )
+Mudr0x posts small blind [30]
+Garner posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 8d, Ah ]
+Mudr0x raises [480]
+Garner folds
+** Summary **
+Mudr0x shows [ 8d, Ah ]
+Mudr0x collected [ 570 ]
+
+
+
+#Game No : 1012986
+***** 888poker Hand History for Game 1012986 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:29:08
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 450 )
+Seat 10: Mudr0x ( 1,050 )
+Garner posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 8c, Qs ]
+Garner folds
+** Summary **
+Mudr0x shows [ 8c, Qs ]
+Mudr0x collected [ 90 ]
+
+
+
+#Game No : 1012987
+***** 888poker Hand History for Game 1012987 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:29:13
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 420 )
+Seat 10: Mudr0x ( 1,080 )
+Mudr0x posts small blind [30]
+Garner posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 9s, 9h ]
+Mudr0x raises [390]
+Garner folds
+** Summary **
+Mudr0x shows [ 9s, 9h ]
+Mudr0x collected [ 480 ]
+
+
+
+#Game No : 1012988
+***** 888poker Hand History for Game 1012988 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:29:21
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 360 )
+Seat 10: Mudr0x ( 1,140 )
+Garner posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 7d, Kh ]
+Garner raises [100]
+Mudr0x raises [300]
+Garner calls [230]
+** Dealing flop ** [ 4h, 9h, 5c ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ Tc ]
+** Summary **
+Garner shows [ Ac, Td ]
+Mudr0x shows [ 7d, Kh ]
+Garner collected [ 720 ]
+
+
+
+#Game No : 1012989
+***** 888poker Hand History for Game 1012989 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:29:32
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Garner ( 720 )
+Seat 10: Mudr0x ( 780 )
+Mudr0x posts small blind [30]
+Garner posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ Td, 9h ]
+Mudr0x raises [690]
+Garner calls [660]
+** Dealing flop ** [ Qd, 7c, Jd ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 4s ]
+** Summary **
+Garner shows [ 8d, Kd ]
+Mudr0x shows [ Td, 9h ]
+Garner collected [ 1,440 ]
+
+
+
+#Game No : 1012990
+***** 888poker Hand History for Game 1012990 *****
+30/60 Blinds No Limit Holdem - *** 14 02 2022 13:29:43
+Tournament #13 €0.93 + €0.07 - Table #0 3 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Garner ( 1,440 )
+Seat 10: Mudr0x ( 60 )
+Garner posts small blind [30]
+Mudr0x posts big blind [60]
+** Dealing down cards **
+Dealt to Mudr0x [ 6d, 5c ]
+Garner calls [30]
+** Dealing flop ** [ 6s, Ah, Qc ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Qd ]
+** Summary **
+Garner shows [ 8h, Ts ]
+Mudr0x shows [ 6d, 5c ]
+Garner collected [ 120 ]
+
+
+
