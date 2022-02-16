@@ -11,7 +11,7 @@ Hand History converter to 888 Poker HH format for DD Poker simulator (www.ddpoke
 
 * I noticed a bug we can't deal with in DD HH if you are on seat 10 and in button, DD HH shows seat 1 is in button instead of seat 10 despite it correctly recognize you are in seat 10 like this:
 
-------------
+```
 Game #1012740 - Tournament DD Poker Spin&Go - 15/30 No Limit Texas Hold'em - 2022/02/09-08:19:01.3 (CST)
 Table "DD Poker Spin&Go 1" Hand #11 -- Seat 1 is the button
 Seat  4: Ashton  (665 in chips)
@@ -23,3 +23,4 @@ Caroline: Ante (5)
 Ashton: Post Small Blind (15)
 Caroline: Post Big Blind (30)
 Dealing...
+```
