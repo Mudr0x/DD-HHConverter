@@ -1,5 +1,5 @@
 # DD-HHConverter
-Hand History converter to 888 Poker HH format for DD Poker simulator (www.ddpoker.com)
+Hand History converter to 888 Poker HH format for DD Poker simulator (www.ddpoker.com) to import on PokerTracker 4.
 
 
 - Insert the hand history and summary to convert in original DD HH and summary file respectively named "history.paradise.txt" and "tournaments.csv", copy/paste, or replace, but the files must be called like that.
