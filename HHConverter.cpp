@@ -1,12 +1,5 @@
-//******************************************************************************
-//
-// This file is licensed under GPL v3: http://www.gnu.org/licenses/gpl.html
-//
-//******************************************************************************
-//
 // HHConverter.cpp : Defines the entry point for the console application.
 //
-
 
 #include "stdafx.h"
 #include <string>
@@ -96,8 +89,8 @@ int main() {
 		}
 		if (regex_search(lineHH, match, regex("Currency=(.+?)"))) {
 			curr = match[1];
-			if (curr == "Ã¢") curr = "â‚¬";
-			if (curr == "Ã‚") curr = "â‚¬";
+			if (curr == "â") curr = "€";
+			if (curr == "Â") curr = "€";
 			continue;
 		}
 	}
@@ -223,7 +216,7 @@ int main() {
 						writeSum << match[1] << " finished " << finishPlace << "/" << totalPlace << " and lost " << curr << fabs(profit) << endl << endl;
 					} else 
 
-						writeSum << match[1] << " finished " << finishPlace << "/" << totalPlace << " and won " << curr << profit << endl << endl;
+						writeSum << match[1] << " finished " << finishPlace << "/" << totalPlace << " and won " << curr << (profit + BuyIn + Fee) << endl << endl;
 				}
 
 				continue;
