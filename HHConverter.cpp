@@ -17,7 +17,8 @@ int main() {
 	ifstream readHH, readSum, ini;
 	ofstream writeHH, writeSum;
 	smatch match;
-	streampos oldpos;
+	streampos oldpos, currpos, fsize = 0;
+	double	fprogress = 0.0;
 
 	//// Manually set those values with your tourney format in Ini file
 	double BuyInFactor;
@@ -59,9 +60,14 @@ int main() {
 
 	ini.open("HHConverter.ini");
 	readHH.open("history.paradise.txt");
-	readSum.open("tournaments.csv");
+	readSum.open("tournaments.csv", ios::in);
 	writeHH.open("history.888.txt");
 	writeSum.open("tournaments.888.txt");
+
+	readSum.seekg(0, ios::end);
+	fsize = readSum.tellg();
+	readSum.close();
+	readSum.open("tournaments.csv");
 	getline(readSum, lineSum);
 	getline(readSum, lineSum);
 
@@ -215,8 +221,25 @@ int main() {
 						Profit = regex_replace(Profit, regex("-"), "");
 						writeSum << match[1] << " finished " << finishPlace << "/" << totalPlace << " and lost " << curr << fabs(profit) << endl << endl;
 					} else 
-
 						writeSum << match[1] << " finished " << finishPlace << "/" << totalPlace << " and won " << curr << (profit + BuyIn + Fee) << endl << endl;
+
+					
+					if (fprogress < 1.0) {
+						int barWidth = 70;
+
+						cout << "[";
+						int pos = barWidth * fprogress;
+						for (int i = 0; i < barWidth; ++i) {
+							if (i < pos) cout << "=";
+							else if (i == pos) cout << ">";
+							else cout << " ";
+						}
+						cout << "] " << int(fprogress * 100.0) << " %\r";
+						cout.flush();
+
+						currpos = readSum.tellg();
+						fprogress = double(currpos) / double(fsize);
+					}
 				}
 
 				continue;
@@ -317,7 +340,9 @@ int main() {
 		}
 	}
 
-	cout << "Finish! \nHands Converted: " << Hands << endl;
+	cout << "[======================================================================] 100 %\r" << endl << endl;
+	cout.flush();
+	cout << "Finish! \nHands Converted: " << Hands << " \nTournaments Converted: " << TourneyNumber << endl;
 	readHH.close();
 	writeHH.close();
 	readSum.close();
