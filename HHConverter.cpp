@@ -6,6 +6,7 @@
 #include <fstream>
 #include <iostream>
 #include <regex>
+#include <ctime>
 
 using namespace std;
 
@@ -19,6 +20,9 @@ int main() {
 	smatch match;
 	streampos oldpos, currpos, fsize = 0;
 	double	fprogress = 0.0;
+	clock_t start;
+	double duration;
+	int seconds, minutes, hours;
 
 	//// Manually set those values with your tourney format in Ini file
 	double BuyInFactor;
@@ -71,12 +75,13 @@ int main() {
 	getline(readSum, lineSum);
 	getline(readSum, lineSum);
 
-	cout << "Converting..\n\n";
+	cout << "Converting...\n\n";
 
 	// check stream status
 	if (!readHH) cerr << "Can't open history.paradise.txt file!\n";
-	if (!readSum) cerr << "Can't open tournaments.csv!\n";
+	if (!readSum) cerr << "Can't open tournaments.csv file!\n";
 
+	start = clock(); // get current time
 
 	while (!ini.eof()) {
 		getline(ini, lineHH);
@@ -342,7 +347,11 @@ int main() {
 
 	cout << "[======================================================================] 100 %\r" << endl << endl;
 	cout.flush();
-	cout << "Finish! \nHands Converted: " << Hands << " \nTournaments Converted: " << TourneyNumber << endl;
+	duration = (clock() - start) / (double)CLOCKS_PER_SEC;
+	seconds = (int)duration;
+	minutes = seconds / 60;
+	hours = minutes / 60;
+	cout << "Finished in " << int(hours) << " hours " << int(minutes % 60) << " minutes " << int(seconds % 60) << " seconds ! \nHands Converted: " << Hands << " \nTournaments Converted: " << TourneyNumber << endl;
 	readHH.close();
 	writeHH.close();
 	readSum.close();
