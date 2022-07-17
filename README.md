@@ -27,3 +27,6 @@ Dealing...
 * As written in C++ time execution is incredible compared to other converters! Less than 1 min for 11k hands:
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/78977383/166441822-d081be3a-2c90-4ea3-b9ad-b6833c5bee88.png)
+
+
+**WARNING! DO NOT USE NICKNAMES WITH WHITESPACES ON DD POKER FOR HH CONVERSION ELSE YOU WILL HAVE BAD CONVERTED FILES WHICH YOU COULDN'T IMPORT ON PT4 (generating only errors).**
